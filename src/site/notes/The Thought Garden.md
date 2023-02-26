@@ -16,5 +16,11 @@ Some are still growing, others are well-nurtured. You can get a sense of how wel
 ---
 
 ## Topics
+
+#advice
 Things I #enjoy 
+#linguistics
+#politics 
+#thoughts 
+
 
