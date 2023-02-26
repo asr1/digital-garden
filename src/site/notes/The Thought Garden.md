@@ -16,11 +16,17 @@ Some are still growing, others are well-nurtured. You can get a sense of how wel
 ---
 
 ## Topics
+### #Advice
 
-#advice
-Things I #enjoy 
+### Game Design
+
+### Politics
+[[Violence\|Violence]]
+
+### Things I #enjoy
+#books
 #linguistics
-#politics 
-#thoughts 
 
+## Thoughts
+[[Categories\|Categories]]
 
