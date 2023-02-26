@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quotes/","noteIcon":""}
+{"dg-publish":true,"permalink":"/quotes/","tags":["enjoy"],"noteIcon":""}
 ---
 
 
