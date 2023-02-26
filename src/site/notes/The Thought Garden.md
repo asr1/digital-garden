@@ -12,3 +12,9 @@ Some are still growing, others are well-nurtured. You can get a sense of how wel
 ![sprout|50](/img/tree-2.svg) A bud is developing.
 
 ![sprout|50](/img/tree-3.svg)While a tree in full bloom is comparatively mature. That's not to say that further blossomings are impossible, of course.  
+
+---
+
+## Topics
+Things I #enjoy 
+
