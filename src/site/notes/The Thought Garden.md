@@ -24,6 +24,7 @@ Some are still growing, others are well-nurtured. You can get a sense of how wel
 [[Violence\|Violence]]
 
 ### Things I #enjoy
+[[Quotes\|Quotes]]
 #books
 #linguistics
 
