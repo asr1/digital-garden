@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/categories/","tags":["politics, art, thoughts"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/categories/","tags":["politics, art, thoughts, linguistics"],"noteIcon":""}
 ---
 
 
