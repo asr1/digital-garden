@@ -5,5 +5,9 @@
 This is a place for thoughts. 
 
 Some are still growing, others are well-nurtured. You can get a sense of how well nurtured an item is by its icon.
+ss
+A sprout is just starting to grow: ![sprout|50](/img/tree-1.svg)
 
-A sprout is just starting to grow: ![sprout|100](/img/tree-1.svg)
+A bud is developing:  ![sprout|50](/img/tree-2.svg)
+
+While a tree in full bloom is comparatively mature. That's not to say that further blossomings are impossible, of course.  ![sprout|50](/img/tree-3.svg)
