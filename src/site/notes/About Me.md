@@ -35,3 +35,5 @@ I've given talks on the following topics:
 - Working in large codebases
 - Designing inclusive software through exclusivity
 	- Make fewer assumptions, and restrict users only by technical limitations
+
+`ris:Twitter` I am on [Twitter] (https://twitter.com/alexrinehart_)
