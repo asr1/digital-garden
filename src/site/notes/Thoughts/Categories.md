@@ -31,3 +31,57 @@
 
 ## Value statements vs observations
 See also [[Reading and Writing/Nonviolent Communication\|Nonviolent Communication]]
+
+> [!Tip] Takeaway
+> There is a difference between labels and judgments, but some words are strongly loaded to the point where that distinction is unclear.
+
+From: https://slatestarcodex.com/2018/07/18/the-whole-city-is-center/ The Whole City is the Center
+
+**A**: I don't believe in laziness
+
+**B**: What about my cousin Larry? He keeps promising to do important errands for his friends and family, and then he never does them. Instead he just plays video games all the time. This has happened consistently over the past few years, every time he’s promised to do something. One time my aunt asked him to go to the DMV to get some paperwork filled out, he promised he would do it, and then he kept putting it off for a month until it was past the deadline and she almost lost her car. He didn’t forget about it or anything, he just couldn’t bring himself to go out and do it. And he’s been fired from his last three jobs for not showing up, and…
+
+**A**: Yes, yes, I’m sure there are people like this. But he probably has some self-defeating beliefs, or vitamin deficiencies, or mental health issues.
+
+**B:** Okay. Well, my mother is going to be away for the next week, and she needs someone to dog-sit for her. Her dog is old and sick and requires a lot of care each day. She’s terrified that if he doesn’t get his food and medication and daily walk on time, something terrible will happen to him. She’s willing to pay a lot of money. Do you think I should recommend she ask my cousin Larry?
+
+**A:** No, of course not.
+
+**B:** Why not?
+
+**A:** He probably won’t do it. He’ll just play video games instead.
+
+**B:** Why do you think so?
+
+**A:** Because he has a long history of playing video games instead of doing important tasks.
+
+**B:** If only there were a word for the sort of person who does that!
+
+...
+
+(==Note (mine): This is where the value statement comes in. Is "laziness" a moral failing==)
+**A:** Because “lazy” is laden with the idea that lazy people should be punished. You should yell at them to get off their ass and do some work.
+
+**B:** I mean, I’m not sure that’s wrong? When my aunt and uncle tried to take Larry to the psychiatrist, he didn’t want to go. My uncle started screaming at him that if he didn’t make the appointment he would never amount to anything, and he would be a loser his entire life, and they would disown him – and I guess it freaked Larry out enough that he made the appointment. And it seems like if that kind of thing makes people do important stuff for their own good – whether it’s make appointments or hold down a job – then it might be reasonable, at least from people whom the lazy person has entered into some kind of relationship with.
+
+...
+
+**A:** Excuse me, do you know the way to city center?
+
+**B:** Don’t worry, good sir! You’re in city center right now!
+
+**A:** But…this whole area looks suburban. And the edge of the city is right there – past that street there’s only rolling fields as far as the eye can see. How can this be city center?
+
+**B:** The whole city is the city center!
+
+**A:** What?
+
+**B:** That’s right. We decided that it was pretty stigmatizing to say that certain parts of the city were non-central. You know, it implied that the people there were just a bunch of yokels who weren’t _real_ citizens the same way everyone else was. So we held a referendum, and everyone agreed that the whole city would be classified as the city center.
+
+**A:** That’s pretty weird, but…look, I need to get to the tourist office, and I know it’s in city center, so if you’re not going to direct me to city center..can you just tell me what part of town the tourist office is in?
+
+**B:** It’s in the center. The whole city is center.
+
+**A:** Let’s try this again. Please point me in the direction of the Tourist Office.
+
+*And so on*
