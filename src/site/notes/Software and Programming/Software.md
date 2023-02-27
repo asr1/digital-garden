@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/software-and-programming/software/","tags":["software"],"noteIcon":""}
+---
+
+
+[[Software and Programming/Software Complexity\|Software Complexity]]
+[[Software and Programming/Software Updates\|Software Updates]]
