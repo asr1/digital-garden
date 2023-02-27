@@ -26,6 +26,7 @@
 
 
 * [[Politics/Libertarianism\|Libertarianism]]
+* [[Politics/Nuclear Energy\|Nuclear Energy]]
 * [[Politics/Personal Pronouns\|Personal Pronouns]]
 * [[Politics/Tone Policing\|Tone Policing]]
 * [[Politics/Violence\|Violence]]
