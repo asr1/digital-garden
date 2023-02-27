@@ -33,7 +33,7 @@ You can also explore the #landing tag to see top-level categories.
 #### [[Reading and Writing/Quotes\|Quotes]]
 #### [[Reading and Writing/Linguistics\|Linguistics]]
 #### [[Software and Programming/Software\|Software]]
-####  `ris:Pencil` [[Reading and Writing/Writing\|Writing]]
+#### [[Reading and Writing/Writing\|Writing]]
 
 ### General #Thoughts
 #### [[Thoughts/Categories\|Categories]]
@@ -81,7 +81,7 @@ I've given talks on the following topics:
 - Designing inclusive software through exclusivity
 	- Make fewer assumptions, and restrict users only by technical limitations
 
-`ris:Twitter` I am on [Twitter] (https://twitter.com/alexrinehart_)
+I am on [Twitter] (https://twitter.com/alexrinehart_)
 
 </div></div>
 
