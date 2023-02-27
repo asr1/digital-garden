@@ -13,22 +13,54 @@ Some are still growing, others are well-nurtured. You can get a sense of how wel
 
 ![sprout|50](/img/tree-3.svg)While a tree in full bloom is comparatively mature. That's not to say that further blossomings are impossible, of course.  
 
+### Dead Links
+You may find some links don't go anywhere. These are private notes that are still germinating. I am happy to discuss my nascent thoughts on these topics with friends, but they are not far enough along that I feel comfortable displaying them publically until I have a better understanding. ==Often these are topics where a lack of understanding can lead to a lack of empathy.== 
+
+Other times a dead link is a placeholder, and I haven't gotten around to filling it out yet.
+
 ---
 
-## Topics
-### #Advice
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/about-me/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+## Alex Rinehart
+
+Alex Rinehart is a writer, storyteller, and roleplaying game developer. Among his many [[Projects/Projects\|hobbies]] is the desire to bend [[Software and Programming/Software\|Software]] into running in places it was never designed.
+
+This blog is a place for thoughts, stories, and documentations of some of these adventures, as well as tutorials that can help others save time with knowledge shared.
+
+If you like what you see here, or if any of the tutorials have brought you value or saved you time, consider picking up [one of my games](https://alrine.itch.io/).
+
+## Three Beliefs[](https://blog.alexrinehart.net/about/#three-beliefs)
+
+1.  Software is a tool that should be used to save time.
+2.  Saved time should be spent doing enjoyable things. Everyone should be working less.
+3.  We have to look out for one another where we can.
+
+</div></div>
+
+
+
+## Some of the topics I tend in my garden
+
+You can also explore the #landing tag to see top-level categories.
+
+### [[Advice/Advice\|Advice]]
 
 ### Game Design
 
-### Politics
-[[Tone Policing\|Tone Policing]]
-[[Violence\|Violence]]
+### [[Politics/Politics\|Politics]]
+
+[[enjoy\|enjoy]]
 
 ### Things I #enjoy
-[[Quotes\|Quotes]]
-#books
-#linguistics
+#### [[Reading and Writing/Books\|Books]]
+#### [[Reading and Writing/Quotes\|Quotes]]
+#### [[Reading and Writing/Linguistics\|Linguistics]]
+#### [[Reading and Writing/Writing\|Writing]]
 
-## Thoughts
-[[Categories\|Categories]]
+### General #Thoughts
+#### [[Thoughts/Categories\|Categories]]
 
