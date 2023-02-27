@@ -32,8 +32,8 @@ You can also explore the #landing tag to see top-level categories.
 #### [[Reading and Writing/Books\|Books]]
 #### [[Reading and Writing/Quotes\|Quotes]]
 #### [[Reading and Writing/Linguistics\|Linguistics]]
-[[Software and Programming/Software\|Software]]
-#### [[Reading and Writing/Writing\|Writing]]
+#### [[Software and Programming/Software\|Software]]
+####  `ris:Pencil` [[Reading and Writing/Writing\|Writing]]
 
 ### General #Thoughts
 #### [[Thoughts/Categories\|Categories]]
