@@ -29,4 +29,11 @@
 >
 >=="Of course it is," Ben agreed, raising a finger. "But the real question is this: Would you go into the woods?”==
 
-### See also [[Thoughts/Don't Eat Pork\|Don't Eat Pork]]
+## See also [[Thoughts/Don't Eat Pork\|Don't Eat Pork]]
+
+## The 90-90 Rule
+
+> "**The first 90 percent of the code accounts for the first 90 percent of the development time**. The remaining 10 percent of the code accounts for the other 90 percent of the development time."
+>  – Humorous programming adage
+
+
