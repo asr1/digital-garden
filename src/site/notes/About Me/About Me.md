@@ -40,5 +40,5 @@ I am on [Twitter] (https://twitter.com/alexrinehart_)
 
 
 ### See also
-[[What gives life meaning\|What gives life meaning]]
+[[About Me/What gives life meaning\|What gives life meaning]]
 [[Projects/Project Beliefs\|Project Beliefs]]
