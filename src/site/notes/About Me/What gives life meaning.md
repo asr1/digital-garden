@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-me/what-gives-life-meaning/","tags":["me","thoughts"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/about-me/what-gives-life-meaning/","tags":["bio","thoughts"],"noteIcon":""}
 ---
 
 
