@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-me/about-me/","tags":["about"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/about-me/about-me/","tags":["me"],"noteIcon":""}
 ---
 
 ## Alex Rinehart
