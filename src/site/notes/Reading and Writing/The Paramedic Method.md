@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading-and-writing/the-paramedic-method/","tags":["writing advice, advice"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/reading-and-writing/the-paramedic-method/","tags":["writing-advice, advice"],"noteIcon":""}
 ---
 
 
