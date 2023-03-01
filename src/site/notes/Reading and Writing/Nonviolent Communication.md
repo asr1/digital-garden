@@ -11,7 +11,7 @@ Instead of saying "Bob is a bad soccer player", say "Bob has missed 5 of the las
 * Words like "should", "ought to", or "must" are hurtful
 * Words like "often" and "always" are imprecise and can come off as judgmental
 
-See also [[Thoughts/Categories#Value statements vs observations\|Categories#Value statements vs observations]]
+See also [[Thoughts/Categorization#Value statements vs observations\|Categorization#Value statements vs observations]]
 
 ## Communicating needs
 All humans have a set of needs.
