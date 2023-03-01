@@ -6,3 +6,7 @@
 [[Projects/Windows 98 Xbox\|Windows 98 Xbox]]
 [[Projects/Myst Nintendo DS\|Myst Nintendo DS]]
 [[Projects/Custom Singstar\|Custom Singstar]]
+
+
+## See Also
+[[Projects/Project Beliefs\|Project Beliefs]]
