@@ -36,7 +36,7 @@ You can also explore the #landing tag to see top-level categories.
 #### [[Reading and Writing/Writing\|Writing]]
 
 ### General #Thoughts
-#### [[Thoughts/Categories\|Categories]]
+#### [[Thoughts/Categorization\|Categorization]]
 
 
 ## About Me
