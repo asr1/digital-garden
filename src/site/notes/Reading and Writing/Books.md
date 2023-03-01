@@ -9,7 +9,7 @@ Some of my favorite books include:
 * Idlewild by Nick Sagan
 * Frankenstein by Mary Shelley
 * Eating the DInosaur by Chuck Klosterman
-* [[Name of the Wind\|Name of the Wind]] by Parick Rothfuss
+* [[Reading and Writing/Name of the Wind\|Name of the Wind]] by Parick Rothfuss
 
 ## Takeaways from some books I've read
 [[Reading and Writing/Nonviolent Communication\|Nonviolent Communication]]
