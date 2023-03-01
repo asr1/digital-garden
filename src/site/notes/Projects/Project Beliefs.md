@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/project-beliefs/","tags":["about, advice, projects, writing"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/projects/project-beliefs/","tags":["me, advice, projects, writing"],"noteIcon":""}
 ---
 
 
