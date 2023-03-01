@@ -5,7 +5,7 @@
 
 Building in public is the idea that you build something and tell people about it all the while. 
 
-Publish regular patreon updates or twitter posts. 
+Publish regular Patreon updates or twitter posts. 
 
 It builds accountability. 
 
