@@ -14,7 +14,7 @@ Some are still growing, others are well-nurtured. You can get a sense of how wel
 ![sprout|50](/img/tree-3.svg)While a tree in full bloom is comparatively mature. That's not to say that further blossomings are impossible, of course.  
 
 ### Dead Links
-You may find some links don't go anywhere. These are private notes that are still germinating. I am happy to discuss my nascent thoughts on these topics with friends, but they are not far enough along that I feel comfortable displaying them publically until I have a better understanding. ==Often these are topics where a lack of understanding can lead to a lack of empathy.== 
+You may find some links don't go anywhere. These are private notes that are still germinating. I am happy to discuss my nascent thoughts on these topics with friends, but they are not far enough along that I feel comfortable displaying them publicly until I have a better understanding. ==Often these are topics where a lack of understanding can lead to a lack of empathy.== 
 
 Other times a dead link is a placeholder, and I haven't gotten around to filling it out yet.
 
@@ -42,7 +42,7 @@ You can also explore the #landing tag to see top-level categories.
 ## About Me
 ---
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/about-me/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/about-me/about-me/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -82,6 +82,11 @@ I've given talks on the following topics:
 	- Make fewer assumptions, and restrict users only by technical limitations
 
 I am on [Twitter] (https://twitter.com/alexrinehart_)
+
+
+### See also
+[[What gives life meaning\|What gives life meaning]]
+[[Projects/Project Beliefs\|Project Beliefs]]
 
 </div></div>
 
