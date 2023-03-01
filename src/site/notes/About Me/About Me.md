@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-me/about-me/","tags":["me","Bruges"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/about-me/about-me/","tags":["me","Bruges","about"],"noteIcon":""}
 ---
 
 ## Alex Rinehart
