@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advice/parenting/","tags":["advice, landing"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/advice/parenting/","tags":["advice","landing"],"noteIcon":""}
 ---
 
 
