@@ -3,6 +3,8 @@
 ---
 
 
+# Tying the Toga
+
 There's a common story that gets told a lot about an old man tying a robe a certain way. I'll take Brandon Sanderson's rendition of the classic:
 
 >Tradition? Kadash, did I ever tell you about my first sword trainer?  
