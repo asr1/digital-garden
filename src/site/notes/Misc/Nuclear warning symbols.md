@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/nuclear-warning-symbols/","tags":["misc, wisdom-of-the-ancients"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/misc/nuclear-warning-symbols/","tags":["misc","wisdom of the ancients"],"noteIcon":3}
 ---
 
 
@@ -19,7 +19,7 @@ That's not human nature!
 
 I'm more interested in the alternatives we rejected, including starting a priesthood of the atom, who were responsible for maintaining a religion, passed down generation to generation about the dangers of the spot. Even if the details get fuzzy, the core tenants would remain.
 
-I enjoy the record of objections to the atomic priesthood, but much like before, many of them strike me as orthagonal to human nature.
+I enjoy the record of objections to the atomic priesthood, but much like before, many of them strike me as orthogonal to human nature.
 
 >This approach has a number of critical problems:
 >
