@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software-and-programming/the-10-000-librarian-problem/","tags":["software, books"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/software-and-programming/the-10-000-librarian-problem/","tags":["software","books"],"noteIcon":""}
 ---
 
 
