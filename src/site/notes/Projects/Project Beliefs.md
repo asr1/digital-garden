@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/project-beliefs/","tags":["bio, advice, projects, writing"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/projects/project-beliefs/","tags":["bio","advice","projects","writing"],"noteIcon":""}
 ---
 
 
@@ -7,8 +7,10 @@
 
 It's better to finish something than to endlessly re-arrange the punctuation until it's perfect.
 
+Some people refer to this tenant as "anything worth doing is worth doing poorly", but that phrasing never resonated with me. In fact, I find it quite jarring, though I do think the sentiment is intended to be similar.
 
-## Ideaes are worthless, execution is everything
+
+## Ideas are worthless, execution is everything
 
 There's nothing new under the sun. Stop kicking yourself for not having a new idea and put your own spin on something else.
 
@@ -53,7 +55,6 @@ Related:
 
 
 
-
 </div></div>
 
 
@@ -64,7 +65,7 @@ A book is only late once, it sucks forever.
 
 ## We're all born knowing nothing
 
-There's only one way to get good at building a chess board, and that's by making a lot of bad chess baords.
+There's only one way to get good at building a chess board, and that's by making a lot of bad chess boards.
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading-and-writing/quotes/#painting" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -80,3 +81,7 @@ There's only one way to get good at building a chess board, and that's by making
 </div></div>
 
 
+### Related:
+
+[[clay jugs\|clay jugs]]
+[[Lucky 10,000\|Lucky 10,000]]
