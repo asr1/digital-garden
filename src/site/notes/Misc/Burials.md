@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/burials/","tags":["misc, constraints"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/misc/burials/","tags":["misc","constraints"],"noteIcon":""}
 ---
 
 
