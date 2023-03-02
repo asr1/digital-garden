@@ -47,3 +47,11 @@ It's a mistake to put all of your time and effort into making your masterpiece. 
 [[Misc/Clay jugs\|Clay jugs]]
 
 Frederick Books in his book "The Mythical Man-Month" warns against something similar, saying "beware of a software architect's second project. That's where they want to put all the good ideas they had to cut from the first."
+
+## Definition of Art
+
+> I don't think I've ever read a definition for art that wasn't stupid. Generally speaking, when a person constructs a thought-machine of this kind, what they're actually trying to do is determine what _isn't_ art.
+> ...
+> If this thought-machine had any purpose other than to create a world with less art, I could cut it some slack. But it doesn't. Its entire purpose is to rarify art, controlling expression thereby.
+> 
+> - Jerry Holkins, [Penny Arcade](https://www.penny-arcade.com/news/post/2011/12/12/usurpers-plural)
