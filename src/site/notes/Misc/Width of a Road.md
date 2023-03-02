@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/misc/width-of-a-road/","tags":["misc","wisdom of the ancients","constraints"],"noteIcon":""}
 ---
 
+
+# Width of a Road
+ 
 >[!tip] Takeaway
 >Constraints can come from unusual places, and can outlive and outlast their historical relevancy.
 
