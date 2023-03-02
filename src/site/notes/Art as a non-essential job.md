@@ -7,7 +7,7 @@
 
 I found this graphic on Twitter recently (circle theirs, not mine), and it's a great example of what I mean when I talk about [[Thoughts/Categorization#Art\|wide vs narrow artists]].
 
-![Pasted image 20230301193138.png|500](/img/user/Pasted%20image%2020230301193138.png)
+![Nonessential Art.png|500](/img/user/img/Nonessential%20Art.png)
 
 Absolutely *no one*, not one single person, uses the word "artist" to refer to someone who designs pants. 
 
