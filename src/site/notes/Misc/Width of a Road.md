@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/width-of-a-road/","tags":["misc, wisdom-of-the-ancients, constraints"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/misc/width-of-a-road/","tags":["misc","wisdom of the ancients","constraints"],"noteIcon":""}
 ---
 
 >[!tip] Takeaway
