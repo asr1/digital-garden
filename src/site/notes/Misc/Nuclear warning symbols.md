@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/nuclear-warning-symbols/","tags":["misc","wisdom of the ancients"],"noteIcon":3}
+{"dg-publish":true,"permalink":"/misc/nuclear-warning-symbols/","tags":["misc","wisdom-of-the-ancients"],"noteIcon":3}
 ---
 
 
