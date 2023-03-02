@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/reading-and-writing/nonviolent-communication/","tags":["books, communication"],"noteIcon":3}
+{"dg-publish":true,"permalink":"/reading-and-writing/nonviolent-communication/","tags":["books","communication"],"noteIcon":3}
 ---
 
+
+## Empathy
+
+The most important tenant of NVC is remembering that we have empathy for others. Hear what they are saying, and resonate with your feelings, especially those of compassion.
 
 ## Observing without judgment
 One of the most powerful skills is being able to observe reality without judgment.
