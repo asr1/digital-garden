@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/width-of-the-space-shuttle/","tags":["misc, constraints"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/misc/width-of-the-space-shuttle/","tags":["misc","constraints"],"noteIcon":""}
 ---
 
 
