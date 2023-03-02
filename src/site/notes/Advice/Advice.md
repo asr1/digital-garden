@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advice/advice/","tags":["Advice, Landing"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/advice/advice/","tags":["Advice","Landing"],"noteIcon":""}
 ---
 
 
