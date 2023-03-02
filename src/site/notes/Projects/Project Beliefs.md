@@ -23,7 +23,7 @@ Everyone's got a half-finished manuscript under their bed. It's easier to start 
 
 It's easy to get the same sort of glee and pleasure from talking about a project as you do from actually doing it. ==**Don't.**== This is a trap. Keep quiet, get the thing done, then show it off. 
 
-*counterpoint:* Some people are able to and enjoy [[Building in public\|Building in public]]. They take accountability from having an audience. I am not one of those people. Know yourself, and know yourself well.
+*counterpoint:* Some people are able to and enjoy [[Projects/Building in public\|Building in public]]. They take accountability from having an audience. I am not one of those people. Know yourself, and know yourself well.
 
 
 ## You've got to start somewhere. More than that, you've got to start
@@ -83,5 +83,5 @@ There's only one way to get good at building a chess board, and that's by making
 
 ### Related:
 
-[[clay jugs\|clay jugs]]
-[[Lucky 10,000\|Lucky 10,000]]
+[[Misc/Clay jugs\|Clay jugs]]
+[[Misc/Lucky 10,000\|Lucky 10,000]]
