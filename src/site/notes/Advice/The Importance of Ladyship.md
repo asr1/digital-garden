@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advice/the-importance-of-ladyship/","tags":["advice, social"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/advice/the-importance-of-ladyship/","tags":["advice","social"],"noteIcon":""}
 ---
 
 *From: https://sympatheticopposition.substack.com/p/how-and-why-to-be-ladylike-for-women?sd=pf*
