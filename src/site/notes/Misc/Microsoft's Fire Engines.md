@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/microsoft-s-fire-engines/","tags":["misc, constraints"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/misc/microsoft-s-fire-engines/","tags":["misc","constraints"],"noteIcon":""}
 ---
 
 
