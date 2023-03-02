@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/tying-the-toga/","tags":["misc","wisdom of the ancients"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/misc/tying-the-toga/","tags":["misc","wisdom-of-the-ancients"],"noteIcon":""}
 ---
 
 
