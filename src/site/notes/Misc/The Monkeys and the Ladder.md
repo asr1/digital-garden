@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/the-monkeys-and-the-ladder/","tags":["misc"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/misc/the-monkeys-and-the-ladder/","tags":["misc","parable"],"noteIcon":""}
 ---
 
 
