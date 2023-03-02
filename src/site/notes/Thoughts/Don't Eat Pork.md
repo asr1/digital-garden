@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/don-t-eat-pork/","tags":["thoughts, wisdom-of-the-ancients"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/thoughts/don-t-eat-pork/","tags":["thoughts","wisdom of the ancients"],"noteIcon":""}
 ---
 
 
