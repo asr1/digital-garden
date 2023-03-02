@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading-and-writing/quotes/","tags":["enjoy","books","wisdom of the ancients"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/reading-and-writing/quotes/","tags":["enjoy","books","wisdom-of-the-ancients"],"noteIcon":""}
 ---
 
 
