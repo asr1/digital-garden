@@ -37,3 +37,13 @@
 >  – Humorous programming adage
 
 
+## The First Two
+
+I had a video game professor who once told me, "The first two games you make will suck. They'll be absolutely terrible. So make them as quickly as possible."
+
+It's a mistake to put all of your time and effort into making your masterpiece. You won't get it right the first time, and you'll regret it later.
+
+### Related
+[[clay jugs\|clay jugs]]
+
+Frederick Books in his book "The Mythical Man-Month" warns against something similar, saying "beware of a software architect's second project. That's where they want to put all the good ideas they had to cut from the first."
