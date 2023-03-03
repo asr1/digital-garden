@@ -85,3 +85,14 @@ There's only one way to get good at building a chess board, and that's by making
 
 [[Misc/Clay jugs\|Clay jugs]]
 [[Misc/Lucky 10,000\|Lucky 10,000]]
+
+
+## Moving the chains
+
+To steal a football metaphor, if you move the chains long enough, eventually you'll get a touchdown. 
+
+It's okay to make small incremental progress.
+
+Clean up one sock every time you pass by. 
+
+Write 350 words a day, it <u>adds up!</u>
