@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/the-monkeys-and-the-ladder/","tags":["misc","parable"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/misc/the-monkeys-and-the-ladder/","tags":["misc","parable","wisdom-of-the-ancients"],"noteIcon":""}
 ---
 
 
@@ -10,7 +10,7 @@ There's a a business school story that goes something like this:
 
 You put 5 monekys in a cage with a ladder. At the top of the ladder is a bunch of bananas, but get this: the ladder is rigged with a pressure sensor, and the floor is electrified[^1], and when a monkey steps on the top rung, the rest of the monkeys get zapped.
 
-Pretty quickly, the mokneys learned not to walk on the ladder.
+Pretty quickly, the monkeys learned not to walk on the ladder.
 
 Then (the story goes) the researchers swapped out a monkey, Immediately, the new monkey went for the ladder, and the rest of the monkeys ran over and beat the new monkey! 
 
