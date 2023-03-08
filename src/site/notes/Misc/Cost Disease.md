@@ -46,7 +46,7 @@ See also [[J Letter\|J Letter]]
 [Scott Alexander on the Amish Healthcare System](https://slatestarcodex.com/2020/04/20/the-amish-health-care-system/) 
 > Amish people spend only a fifth as much as you do on health care, and their health is fine. What can we learn from them?
 
-[[Why Are the Prices So Damn High\|Why Are the Prices So Damn High]]
+[[Politics/Why Are the Prices So Damn High\|Why Are the Prices So Damn High]]
 [[Capitalism\|Capitalism]]
 [[Thoughts/The Price of College Education\|The Price of College Education]]
 [[Misc/Build It For Life\|Build It For Life]]
