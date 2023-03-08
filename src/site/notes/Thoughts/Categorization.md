@@ -19,7 +19,7 @@
 - I like art that strives to make the user feel something, and art that can do that on its own, without additional context.
 
 #### See Also
-* [[Art as a non-essential job\|Art as a non-essential job]]
+* [[Thoughts/Art as a non-essential job\|Art as a non-essential job]]
 
 ### Politics
 
