@@ -26,8 +26,11 @@
 
 
 * [[Politics/Libertarianism\|Libertarianism]]
-* [[Politics/Nuclear Energy\|Nuclear Energy]]
+* [[Politics/Moral Stupefaction\|Moral Stupefaction]]
+* [[Nuclear Energy\|Nuclear Energy]]
+* [[Nuclear Proliferation\|Nuclear Proliferation]]
 * [[Politics/Personal Pronouns\|Personal Pronouns]]
+* [[Politics/Right Wing VS Left Wing Values\|Right Wing VS Left Wing Values]]
 * [[Politics/Tone Policing\|Tone Policing]]
 * [[Politics/Violence\|Violence]]
 * [[Politics/War\|War]]
