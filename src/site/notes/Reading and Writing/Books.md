@@ -17,6 +17,7 @@ Don Norman's [[Reading and Writing/The Design of Everyday Things\|The Design of 
 
 ## Takeaways from books I have not read
 [[Politics/Moral Stupefaction\|Moral Stupefaction]] from Jonathan Haidt's A Righteous Mind
+[[Why Are the Prices So Damn High\|Why Are the Prices So Damn High]] by Alex Taborrok and Eric Helland
 
 ## Bloggers I follow
 (ordered roughly by how closely I follow them)
@@ -26,3 +27,10 @@ Scott Alexander (Slate Star Codex, [Astral Codex Ten](https://astralcodexten.sub
 Sam Kriss (Idiot Joy Showland, [Numb at the Lodge](https://samkriss.substack.com/))
 Cory Doctorow ([Craphound](https://craphound.com/))
 ~~Lyz Lenz ([Men Yell At Me](https://lyz.substack.com/))~~
+
+## Webcomics I read
+(ordered roughly by how closely I follow them)
+
+[XKCD](https://xkcd.com/)
+[Penny Arcade](https://www.penny-arcade.com/comic/)
+[Saturday Morning Breakfast Cereal(](https://www.smbc-comics.com/index.php)SMBC)
