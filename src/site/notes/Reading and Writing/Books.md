@@ -8,11 +8,15 @@ I love to read. I typically read between 30 and 70 books a year, depending on wh
 Some of my favorite books include:
 * Idlewild by Nick Sagan
 * Frankenstein by Mary Shelley
-* Eating the DInosaur by Chuck Klosterman
-* [[Reading and Writing/Name of the Wind\|Name of the Wind]] by Parick Rothfuss
+* Eating the Dinosaur by Chuck Klosterman
+* [[Reading and Writing/Name of the Wind\|Name of the Wind]] by Patrick Rothfuss
 
 ## Takeaways from some books I've read
+Don Norman's [[The Design of Everyday Things\|The Design of Everyday Things]]
 [[Reading and Writing/Nonviolent Communication\|Nonviolent Communication]]
+
+## Takeaways from books I have not read
+[[Politics/Moral Stupefaction\|Moral Stupefaction]] from Jonathan Haidt's A Righteous Mind
 
 ## Bloggers I follow
 (ordered roughly by how closely I follow them)
