@@ -74,6 +74,8 @@ I too was born knowing nothing, and have all sorts of wrong and half-thought ide
 I try to practice [[Reading and Writing/Nonviolent Communication\|Nonviolent Communication]] and avoid editorializing. This means instead of saying "SEA-TAC is a bad airport", I will say something like "the last three times I've been to SEA-TAC, I've had to wait more than 90 minutes in the line for security. This does not my needs for autonomy."
 
 ### Talks
+I enjoy #public-speaking and am available to give talks.
+
 I've given talks on the following topics:
 - The importance of storytelling
 	- We connect with stories and remember experiences
