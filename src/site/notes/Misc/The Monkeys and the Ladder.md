@@ -8,7 +8,7 @@
 
 There's a a business school story that goes something like this:
 
-You put 5 monekys in a cage with a ladder. At the top of the ladder is a bunch of bananas, but get this: the ladder is rigged with a pressure sensor, and the floor is electrified[^1], and when a monkey steps on the top rung, the rest of the monkeys get zapped.
+You put 5 monkeys in a cage with a ladder. At the top of the ladder is a bunch of bananas, but get this: the ladder is rigged with a pressure sensor, and the floor is electrified (note) and when a monkey steps on the top rung, the rest of the monkeys get zapped.
 
 Pretty quickly, the monkeys learned not to walk on the ladder.
 
@@ -25,7 +25,7 @@ But if that monkey had asked *why* it was getting attacked for going for a banan
 So the moral of the story is that in business, you need a new person to come in and question things, or we all slowly get used to things that don't make sense.
 
 
-[^1]: Note: later version of this story, out of kindness to the hypothetical monkeys, have included showerheads instead of an electrified floor. Now the monkeys all get a nice, harmless bath.
+Note: later version of this story, out of kindness to the hypothetical monkeys, have included showerheads instead of an electrified floor. Now the monkeys all get a nice, harmless bath.
 
 ## See Also 
 [[Misc/Tying the Toga\|Tying the Toga]]
