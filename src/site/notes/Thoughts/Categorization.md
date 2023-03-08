@@ -4,7 +4,7 @@
 
 
 > [!Tip] Takeaway
->  Categories, like models, are useful tools. Some categories are very broad, such that they could encompass everything. Putting something outside of a category in some contexts does not make it a less valid member of that category.
+>  Categories, like #models, are useful tools. Some categories are very broad, such that they could encompass everything. Putting something outside of a category in some contexts does not make it a less valid member of that category.
 
 ## Art and Politics
 
