@@ -37,7 +37,7 @@ From that framework, easy to see why right wing may see lefties as immoral.
 * Strong Condemnation (e.g. smoking, soul example above)
 * Universal applicability (unsure about this one)
 
-## Values by Politics[^1]
+## Values by Politics (see note)
 [source (March 2023)](https://moralfoundations.org/)
 
 ### Left
@@ -73,4 +73,4 @@ The right cares about more things and balances them! The left "only" cares about
 ## See Also 
 * [[Politics/Right Wing VS Left Wing Values\|Right Wing VS Left Wing Values]]
 
-[^1]: Note: it's a little unfair to call this left/right when it's more correct that this is correlated with socioeconomic status moreso even than cultural background ([source](https://www.tandfonline.com/doi/full/10.1080/09515089.2020.1731444))
+Note: it's a little unfair to call this left/right when it's more correct that this is correlated with socioeconomic status moreso even than cultural background ([source](https://www.tandfonline.com/doi/full/10.1080/09515089.2020.1731444))
