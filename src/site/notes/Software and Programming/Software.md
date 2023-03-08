@@ -4,5 +4,5 @@
 
 
 [[Software and Programming/Software Complexity\|Software Complexity]]
-[[Software and Programming/Software Updates\|Software Updates]]
+[[Software Updates\|Software Updates]]
 [[Software and Programming/The 10,000 Librarian Problem\|The 10,000 Librarian Problem]]
