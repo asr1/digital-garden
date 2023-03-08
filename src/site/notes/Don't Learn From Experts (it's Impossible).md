@@ -21,6 +21,6 @@ This is one reason I recommend [[Leaving a Thread\|Leaving a Thread]], so you ca
 
 
 ## See Also
-[[(Skip The) 100 level courses\|(Skip The) 100 level courses]]
+[[Thoughts/(Skip The) 100 level courses\|(Skip The) 100 level courses]]
 
 people who are knowledgeable but bad at explaining bc they don't understand what's complex
