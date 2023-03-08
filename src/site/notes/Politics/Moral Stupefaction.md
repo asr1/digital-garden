@@ -26,7 +26,7 @@ But "I think it's disgusting and they shouldn't have done it, but I don't know t
 
 From that framework, easy to see why right wing may see lefties as immoral.
 
-### Other dumfoundings 
+### Other dumbfoundings 
 ([source](http://theskepticalzone.com/wp/wp-content/uploads/2018/03/haidt.bjorklund.working-paper.when-intuition-finds-no-reason.pub603.pdf))
 * The participant is asked to drink from a glass of juice both before and after a sterilized cockroach has been dipped into it. 
 * The participant is offered two dollars to sign a piece of paper and then rip it up; on the paper are the words "I, (participant's name), hereby sell my soul, after my death, to Scott Murphy, for the sum of two dollars." *At the bottom of the page a note was printed that said: "this is not a legal or binding contract"*
