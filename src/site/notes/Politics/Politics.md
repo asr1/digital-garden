@@ -25,7 +25,7 @@
 
 
 
-* [[Politics/Libertarianism\|Libertarianism]]
+* [[Libertarianism\|Libertarianism]]
 * [[Politics/Moral Stupefaction\|Moral Stupefaction]]
 * [[Nuclear Energy\|Nuclear Energy]]
 * [[Nuclear Proliferation\|Nuclear Proliferation]]
