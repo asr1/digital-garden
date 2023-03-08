@@ -14,9 +14,9 @@ They generally fall into one of two failure states:
 **Presenters**: If it's a 100, give the minimum context and the results. Skip the details. Consider giving a 200 instead, and assuming a little from the audience. Run your talk by someone outside your field and see if it's comprehensible and engaging.
 
 ## See Also
-[[Don't Learn From Experts (it's Impossible)\|Don't Learn From Experts (it's Impossible)]]
+[[Thoughts/Don't Learn From Experts (it's Impossible)\|Don't Learn From Experts (it's Impossible)]]
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/the-price-of-college-education/#aside" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thoughts/the-price-of-college-education/#aside" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
