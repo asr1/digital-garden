@@ -14,6 +14,7 @@ Some of my favorite books include:
 ## Takeaways from some books I've read
 Don Norman's [[Reading and Writing/The Design of Everyday Things\|The Design of Everyday Things]]
 [[Reading and Writing/Nonviolent Communication\|Nonviolent Communication]]
+[[The Stranger\|The Stranger]]
 
 ## Takeaways from books I have not read
 [[Politics/Moral Stupefaction\|Moral Stupefaction]] from Jonathan Haidt's A Righteous Mind
