@@ -29,4 +29,4 @@ Note 1: For the sake of this exercise, assume the gold coins aren't fungible. Gi
 Note 2: Yes, standardized testing is flawed, especially as a screener for education. If you know everything on the test, should we focus on you to learn more and specialize? Or do we prefer the curious student who knows little? 
 
 ## See Also
-[[Means Testing Is Stupid\|Means Testing Is Stupid]]
+[[Politics/Means Testing Is Stupid\|Means Testing Is Stupid]]
