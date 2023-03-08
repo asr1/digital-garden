@@ -12,7 +12,7 @@ Some of my favorite books include:
 * [[Reading and Writing/Name of the Wind\|Name of the Wind]] by Patrick Rothfuss
 
 ## Takeaways from some books I've read
-Don Norman's [[The Design of Everyday Things\|The Design of Everyday Things]]
+Don Norman's [[Reading and Writing/The Design of Everyday Things\|The Design of Everyday Things]]
 [[Reading and Writing/Nonviolent Communication\|Nonviolent Communication]]
 
 ## Takeaways from books I have not read
