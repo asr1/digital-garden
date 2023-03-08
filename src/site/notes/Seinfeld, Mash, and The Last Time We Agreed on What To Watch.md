@@ -22,4 +22,4 @@ The closest you see in the US is with the Superbowl, and even that is dwindling 
 Game of Thrones got close, and bungled the ending. But we won't get another mega-series like Harry Potter. There's simply too much to consume. 
 
 ## See Also
-[[The Price of College Education\|The Price of College Education]]
+[[Thoughts/The Price of College Education\|The Price of College Education]]
