@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software-and-programming/software-complexity/","tags":["software"],"noteIcon":3}
+{"dg-publish":true,"permalink":"/software-and-programming/software-complexity/","tags":["software"],"noteIcon":2}
 ---
 
 
