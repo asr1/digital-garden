@@ -26,6 +26,7 @@
 
 
 * [[Libertarianism\|Libertarianism]]
+* [[Means Testing Is Stupid\|Means Testing Is Stupid]]
 * [[Politics/Moral Stupefaction\|Moral Stupefaction]]
 * [[Nuclear Energy\|Nuclear Energy]]
 * [[Nuclear Proliferation\|Nuclear Proliferation]]
