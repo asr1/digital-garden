@@ -15,3 +15,13 @@ They generally fall into one of two failure states:
 
 ## See Also
 [[Don't Learn From Experts (it's Impossible)\|Don't Learn From Experts (it's Impossible)]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/the-price-of-college-education/#aside" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## Aside:
+I can't remember if it was John Carmack or Scott Alexander, but I remember reading someone talking about getting invited to a conference of some kind, and thinking it wasn't worth their time, precisely because they expected to be smarter or more knowledgeable than many of the other attendants. As I recall, the times they *did* go they felt like it was actually a good use of time networking, but the initial instinct of "I will be providing more value than I receive" is noteworthy. See also [[Thoughts/(Skip The) 100 level courses\|(Skip The) 100 level courses]].
+
+
+</div></div>
