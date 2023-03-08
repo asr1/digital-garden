@@ -14,11 +14,11 @@ Some of my favorite books include:
 ## Takeaways from some books I've read
 Don Norman's [[Reading and Writing/The Design of Everyday Things\|The Design of Everyday Things]]
 [[Reading and Writing/Nonviolent Communication\|Nonviolent Communication]]
-[[The Stranger\|The Stranger]]
+[[Reading and Writing/The Stranger\|The Stranger]]
 
 ## Takeaways from books I have not read
 [[Politics/Moral Stupefaction\|Moral Stupefaction]] from Jonathan Haidt's A Righteous Mind
-[[Why Are the Prices So Damn High\|Why Are the Prices So Damn High]] by Alex Taborrok and Eric Helland
+[[Politics/Why Are the Prices So Damn High\|Why Are the Prices So Damn High]] by Alex Taborrok and Eric Helland
 
 ## Bloggers I follow
 (ordered roughly by how closely I follow them)
