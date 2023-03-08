@@ -31,7 +31,7 @@ From that framework, easy to see why right wing may see lefties as immoral.
 * The participant is asked to drink from a glass of juice both before and after a sterilized cockroach has been dipped into it. 
 * The participant is offered two dollars to sign a piece of paper and then rip it up; on the paper are the words "I, (participant's name), hereby sell my soul, after my death, to Scott Murphy, for the sum of two dollars." *At the bottom of the page a note was printed that said: "this is not a legal or binding contract"*
 
-## What makes a moral?[^1]
+## What makes a moral?
 * Authority (vs independence)
 * Fairness / Harm
 * Strong Condemnation (e.g. smoking, soul example above)
@@ -74,5 +74,3 @@ The right cares about more things and balances them! The left "only" cares about
 * [[Politics/Right Wing VS Left Wing Values\|Right Wing VS Left Wing Values]]
 
 Note: it's a little unfair to call this left/right when it's more correct that this is correlated with socioeconomic status moreso even than cultural background ([source](https://www.tandfonline.com/doi/full/10.1080/09515089.2020.1731444))
-
-[^1]: test
