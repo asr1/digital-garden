@@ -1,3 +1,7 @@
 .markdown-rendered mark {
      background-color: #d79921; 
 }
+
+.utteranes em, .utterances a {
+     color: #d79921;    
+}
