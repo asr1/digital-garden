@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/cost-disease/","tags":["thougts","capitalism"],"noteIcon":1}
+{"dg-publish":true,"permalink":"/misc/cost-disease/","tags":["thoughts","capitalism"],"noteIcon":1}
 ---
 
 
