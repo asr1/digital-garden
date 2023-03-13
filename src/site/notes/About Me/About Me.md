@@ -4,7 +4,7 @@
 
 ## Alex Rinehart
 
-Alex Rinehart is a writer, storyteller, and roleplaying game developer. Among his many [[Projects/Projects\|hobbies]] is the desire to bend [[Software and Programming/Software\|Software]] into running in places it was never designed.
+Alex Rinehart is a writer, storyteller, and roleplaying game developer. Among his many [[Projects/Projects\|hobbies]] is the desire to bend [[Software and Technology/Software\|Software]] into running in places it was never designed.
 
 This blog is a place for thoughts, stories, and documentations of some of these adventures, as well as tutorials that can help others save time with knowledge shared.
 
