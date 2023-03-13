@@ -3,4 +3,4 @@
 ---
 
 
-[[Software and Programming/The 10,000 Librarian Problem\|The 10,000 Librarian Problem]]
+[[Software and Technology/The 10,000 Librarian Problem\|The 10,000 Librarian Problem]]
