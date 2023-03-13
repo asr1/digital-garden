@@ -3,6 +3,8 @@
 ---
 
 
+# Secure Passwords
+
 Here's a controversial take:
 
 Not everything needs a secure password. 
