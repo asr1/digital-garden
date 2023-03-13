@@ -23,3 +23,7 @@
 .utterances * {
  color: red;
 }
+
+.new-comment-header {
+ background-color: var(--dark-bg-accent);
+}
