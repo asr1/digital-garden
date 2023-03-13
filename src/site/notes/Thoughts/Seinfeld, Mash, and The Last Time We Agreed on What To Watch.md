@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/seinfeld-mash-and-the-last-time-we-agreed-on-what-to-watch/","tags":["thougts","population"],"noteIcon":2}
+{"dg-publish":true,"permalink":"/thoughts/seinfeld-mash-and-the-last-time-we-agreed-on-what-to-watch/","tags":["thoughts","population"],"noteIcon":2}
 ---
 
 
