@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/the-price-of-college-education/","tags":["thougts","capitalism","population","college"],"noteIcon":1}
+{"dg-publish":true,"permalink":"/thoughts/the-price-of-college-education/","tags":["thoughts","capitalism","population","college"],"noteIcon":1}
 ---
 
 
