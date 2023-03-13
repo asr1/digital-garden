@@ -1,7 +1,21 @@
+:root {
+ --dark-bg-accent: #d79921;
+ --dark-bg-dark: #1d2021;
+}
+
 .markdown-rendered mark {
-     background-color: #d79921; 
+     background-color: var(--dark-bg-accent); 
 }
 
 .utteranes em, .utterances a {
-     color: #d79921;    
+     color: var(--dark-bg-accent);    
+}
+
+.utterances form {
+ background-color: var(--dark-bg-accent);
+}
+
+.utterances header {
+    background-color: var(--dark-bg-accent);
+    border-bottom: 1px solid var(--dark-bg-dark);
 }
