@@ -19,7 +19,3 @@
     background-color: var(--dark-bg-accent);
     border-bottom: 1px solid var(--dark-bg-dark);
 }
-
-body {
- background-color: red;
-}
