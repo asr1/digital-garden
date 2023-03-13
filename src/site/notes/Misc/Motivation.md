@@ -15,7 +15,7 @@ Or how, above the pay point required to live comfortably and safely, further pay
 The study of intrinsic motivation (done for its own sake) and extrinsic motivation (done for rewards) is so fascinating. Interestingly, when something is genuinely fun without rewards, attaching even a very small IN-GAME reward to it is enough to shift it from fun to annoying!"></iframe>
 
 
-Counterpoint: Dan Felder writes:
+**Counterpoint**: Dan Felder argues that the reward should make you better as your skills improve. Dan writs:
 
 This is a common misconception. I'm guessing it comes from the book Drive, which popularized a narrow application of the cognitive science research that doesn't apply to well structured game reward systems.
 
