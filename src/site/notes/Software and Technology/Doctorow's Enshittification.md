@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software-and-technology/doctorow-s-enshittification/","tags":["technology"],"noteIcon":1}
+{"dg-publish":true,"permalink":"/software-and-technology/doctorow-s-enshittification/","tags":["technology","doctorow"],"noteIcon":1}
 ---
 
 # Doctorow's Enshittification
