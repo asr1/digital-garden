@@ -7,7 +7,7 @@ I've been to a lot of presentations at conferences that are presented as 100-lev
 
 They generally fall into one of two failure states:
 1. ==The person giving the presentation is so familiar with the topic, they assume the audience is as well.== They fill it with facts and figures that are meaningless to the general public. They blaze through material, leaving no one the wiser for having heard it.
-2. ==It's truly a 100-level course, filled with overviews and levelsetting, to the point where there is no takeaway.== It's a course of the symbolism in Dracula that starts by explaining what the book is about, or worse, what is a novel, and how would one read one.
+2. ==It's truly a 100-level course, filled with overviews and levelsetting, to the point where there is no takeaway.== It's a course on the symbolism in Dracula that starts by explaining what the book is about, or worse, what is a novel, and how would one read one.
 
 > [!tip] Takeaways
 **Audience**: Skip the 100, go to the 200s
