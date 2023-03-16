@@ -1,10 +1,12 @@
 :root {
  --dark-bg-accent: #d79921;
+ --highlight-color: #FABD2F;
  --dark-bg-dark: #1d2021;
 }
 
 .markdown-rendered mark {
-     background-color: var(--dark-bg-accent); 
+     background-color: var(--highlight-color);
+     color: #292929;
 }
 
 .utteranes em, .utterances a {
