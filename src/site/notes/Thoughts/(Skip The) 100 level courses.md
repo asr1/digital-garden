@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/thoughts/skip-the-100-level-courses/","tags":["thoughts","advice","public-speaking"],"noteIcon":2}
 ---
 
+# (Skip The) 100 level courses
 
 I've been to a lot of presentations at conferences that are presented as 100-level courses. These are invariably useless.
 
