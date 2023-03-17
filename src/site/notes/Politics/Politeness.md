@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/politeness/","tags":["politics","social","tone-policing"],"noteIcon":1}
+{"dg-publish":true,"permalink":"/politics/politeness/","tags":["politics","social","tone-policing","signaling"],"noteIcon":1}
 ---
 
 source: https://www.reddit.com/r/slatestarcodex/comments/11mddex/give_up_seventy_percent_of_the_way_through_the/jbhjh3j/
