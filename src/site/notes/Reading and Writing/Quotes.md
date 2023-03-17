@@ -70,3 +70,9 @@ Frederick Books in his book "The Mythical Man-Month" warns against something sim
 ## Equality
 > The law, in its majestic equality, forbids rich and poor alike to sleep under bridges, to beg in the streets, and to steal loaves of bread
 > – Anatole France, The Red Lily
+
+# John Wesley
+> In essentials, unity; in non-essentials, liberty; in all things, charity
+> – Probably not John Wesley
+
+The point is clear: as a religion, agree about the essential things, let people choose for themselves on everything else, but above all else, don't be a dick about it.
