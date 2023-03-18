@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/politics/why-are-the-prices-so-damn-high/","tags":["books","politics","cost-disease","capitalism","widgets"],"noteIcon":1}
 ---
 
+# Why Are the Prices So Damn High
+
 [Source](https://slatestarcodex.com/2019/06/10/book-review-the-prices-are-too-dmn-high/)
 
 > *In 1826, when Beethoven’s String Quartet No. 14 was first played, it took four people 40 minutes to produce a performance. In 2010, it still took four people 40 minutes to produce a performance. Stated differently, in the nearly 200 years between 1826 and 2010, there was no growth in string quartet labor productivity. In 1826 it took 2.66 labor hours to produce one unit of output, and it took 2.66 labor hours to produce one unit of output in 2010.*
