@@ -27,7 +27,7 @@
 
 * [[Politics/Why Are the Prices So Damn High\|Cost Disease]]
 * [[Politics/Why do we jail\|Jail]]
-* [[Libertarianism\|Libertarianism]]
+* [[Politics/Libertarianism\|Libertarianism]]
 * [[Politics/Means Testing Is Stupid\|Means Testing Is Stupid]]
 * [[Politics/Moral Stupefaction\|Moral Stupefaction]]
 * [[Nuclear Energy\|Nuclear Energy]]
