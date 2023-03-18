@@ -24,7 +24,9 @@ I feel X when you Y
 
 Make sure that X is a feeling ("betrayed" is not a feeling. "sad" is).
 
-I feel hurt when you talk to alice and bob without talking to me.
+I feel hurt when you talk to Alice and Bob without talking to me.
+
+![Communicating Needs.png](/img/user/img/Communicating%20Needs.png)
 
 ## Showing you care
 
