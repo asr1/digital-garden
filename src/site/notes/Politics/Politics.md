@@ -25,14 +25,17 @@
 
 
 
+* [[Politics/Why Are the Prices So Damn High\|Cost Disease]]
+* [[Politics/Why do we jail\|Jail]]
 * [[Libertarianism\|Libertarianism]]
 * [[Politics/Means Testing Is Stupid\|Means Testing Is Stupid]]
 * [[Politics/Moral Stupefaction\|Moral Stupefaction]]
 * [[Nuclear Energy\|Nuclear Energy]]
 * [[Nuclear Proliferation\|Nuclear Proliferation]]
 * [[Politics/Personal Pronouns\|Personal Pronouns]]
+* #religion 
 * [[Politics/Right Wing VS Left Wing Values\|Right Wing VS Left Wing Values]]
-* [[Tone Policing\|Tone Policing]]
+* [[Politics/Tone Policing\|Tone Policing]]
 * [[Politics/Violence\|Violence]]
 * [[Politics/War\|War]]
 
