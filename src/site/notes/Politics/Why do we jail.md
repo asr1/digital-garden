@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/politics/why-do-we-jail/","tags":["politics"],"noteIcon":1}
 ---
 
+# Why do we jail
 
 There's a disagreement in the US about why we send people to prison.
 
