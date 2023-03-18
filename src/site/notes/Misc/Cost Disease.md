@@ -6,7 +6,7 @@
 Everything is built so expensive.
 We built the space needle in a year (400 days) for about \$4.5 million. Today, that would be ~\$45 million. 
 
-We just (2017) spent $100 million to renovate the Space Needle. 
+We just (2017) spent $100 million to renovate the Space Needle in a similar time frame.
 
 College education is waaay up.
 Part of this is because we're willing to pay it. 
