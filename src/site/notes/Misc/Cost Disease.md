@@ -38,7 +38,7 @@ I worry that people don’t appreciate how weird this is. I didn’t appreciate 
 ### What about technology?
 And this is especially strange because we expect that improving technology and globalization ought to cut costs. In 1983, the first mobile phone cost $4,000 – about $10,000 in today’s dollars. It was also a gigantic piece of crap. Today you can get a much better phone for $100. This is the right and proper way of the universe. It’s why we fund scientists, and pay businesspeople the big bucks.
 
-See also [[J Letter\|J Letter]]
+See also [[Misc/J Letter\|J Letter]]
 
 ## See Also
 [Scott Alexander on the same](https://slatestarcodex.com/2017/02/09/considerations-on-cost-disease/)
