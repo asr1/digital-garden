@@ -13,5 +13,7 @@ In 1930, economist John Maynard Keynes [predicted](https://www.theguardian.com/
 
 Productivity has increased, but instead of being expected to work less, we're expected to make more. See also [[Capitalism\|Capitalism]]
 
+![Productivity over time.png](/img/user/img/Productivity%20over%20time.png)
+
 ## Cambodian Fertilizer
 There is a story regarding the French arrival in Cambodia. It goes that the French first came and introduced commercial fertilizer to the farmers in the rural country. They demonstrated that with this technology it was possible to grow twice as many crops. A year later, when they returned the French expected to find a community that was producing double the crops, most likely so they could begin the process of colonial exploitation under the guise of trade. But instead they found the same amount of crops as the year before. The French asked the farmers why they didn't use the fertilizer. The farmers stated that they did, and emphasized how nice it was to be able to grow the same amount of crops (enough to sustain the local population comfortably) with only needing to do HALF the work. That is the difference here. It is not "human nature", it is the result of a cult of consumerism.
