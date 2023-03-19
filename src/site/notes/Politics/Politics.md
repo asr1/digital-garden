@@ -31,7 +31,7 @@
 * [[Politics/Means Testing Is Stupid\|Means Testing Is Stupid]]
 * [[Politics/Moral Stupefaction\|Moral Stupefaction]]
 * [[Nuclear Energy\|Nuclear Energy]]
-* [[Nuclear Proliferation\|Nuclear Proliferation]]
+* [[Politics/Nuclear Proliferation\|Nuclear Proliferation]]
 * [[Politics/Personal Pronouns\|Personal Pronouns]]
 * #religion 
 * [[Politics/Right Wing VS Left Wing Values\|Right Wing VS Left Wing Values]]
