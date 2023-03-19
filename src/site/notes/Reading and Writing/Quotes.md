@@ -76,3 +76,7 @@ Frederick Books in his book "The Mythical Man-Month" warns against something sim
 > – Probably not John Wesley
 
 The point is clear: as a religion, agree about the essential things, let people choose for themselves on everything else, but above all else, don't be a dick about it.
+
+## Misc Advice
+
+* Don't take criticism from someone you wouldn't take advice from.
