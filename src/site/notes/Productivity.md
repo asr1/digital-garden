@@ -5,7 +5,7 @@
 
 *Note:* In progress, but referenced elsewhere often enough that I published early.
 
-In 1930, economist John Maynard Keynes [predicted](https://www.theguardian.com/business/2008/sep/01/economics) that his grandchildrens’ generation would have a 15 hour work week. At the time, it made sense. GDP was rising so quickly that anyone who could draw a line on a graph could tell that our generation would be four or five times richer than his. And the average middle-class person in his generation felt like they were doing pretty well and had most of what they needed. Why _wouldn’t_ they decide to take some time off and settle for a lifestyle merely twice as luxurious as Keynes’ own?
+In 1930, economist John Maynard Keynes [predicted](https://www.theguardian.com/business/2008/sep/01/economics) that his grandchildren's’ generation would have a 15 hour work week. At the time, it made sense. GDP was rising so quickly that anyone who could draw a line on a graph could tell that our generation would be four or five times richer than his. And the average middle-class person in his generation felt like they were doing pretty well and had most of what they needed. Why _wouldn’t_ they decide to take some time off and settle for a lifestyle merely twice as luxurious as Keynes’ own?
 
 
 * The cotton gin expanded slavery, not reduced it.
