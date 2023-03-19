@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software-and-technology/uber-s-bezzle/","tags":["technology","doctorow"],"noteIcon":1}
+{"dg-publish":true,"permalink":"/software-and-technology/uber-s-bezzle/","tags":["technology","doctorow"],"noteIcon":2}
 ---
 
 # Uber's Bezzle
