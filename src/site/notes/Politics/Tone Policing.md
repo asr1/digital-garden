@@ -35,7 +35,48 @@ To talk about Climate Change, John Oliver brought in Bill Nye. Bill Nye is (at l
 
 Instead, he punched down and said "the planet's on fucking fire". There was an opportunity to extend an olive branch or learning, and instead ensured not only that no evangelicals would hear the message, but to signal "it's not for you."
 
+## Language Choices
+
+My high school debate coach used to talk about how much word choice matters. The example he would give was this:
+
+Consider "An inexperienced driver was involved in an automobile incident in which a toddler was injured." vs "A teenager maimed a baby with a car."
+
+The two describe the same situation, but with dramatically different connotations. The second is much more negative and much more hostile.
+
+### Anti Cars
+
+There's a Twitter page called "Fuck Cars" that refers to cars as "rolling death cages". This attitude is antagonistic; they aren't going to convince pro-car people with this rhetoric. It's preaching to the choir.
+
+## Standard White English
+
+There is no wrong English, but there is a appropriate context. See also [[Code Switching\|Code Switching]]
+
+David Foster Wallace writes:
+
+> In class — in my English class — you will have to master and write in Standard Written English, which we might just as well call “Standard White English,” because it was developed by white people and is used by white people, especially educated, powerful white people . . . You can believe it’s racist and unjust and decide right here and now to spend every waking minute of your adult life arguing against it, and maybe you should, but I’ll tell you something: ==If you ever want those arguments to get listened to and taken seriously, you’re going to have to communicate them in SWE, because SWE is the dialect our country uses to talk to itself==.
+
 ## See Also
 
+[[Reading and Writing/Nonviolent Communication\|Nonviolent Communication]]
 [[Politics/Religion/Diluting the faith\|Diluting the faith]]
 [[Politics/Politeness\|Politeness]]
+[Slate Star Codex, The Toxoplasma of Rage](https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/):
+
+> Some old news I only just heard about: PETA is [offering to pay the water bills](http://www.npr.org/2014/07/25/335156430/last-word) for needy Detroit families if (and only if) those families agree to stop eating meat.
+> 
+> Predictably, the move caused a backlash. The International Business Times, in what I can only assume is an attempted pun, describes them as [“drowning in backlash”](http://www.ibtimes.com/peta-drowning-backlash-detroit-water-crisis-veganism-push-1639454). Groundswell thinks it’s a [“big blunder”](http://www.groundswell.org/petas-big-blunder-what-would-a-solution-look-like/). Daily Banter says it’s [“exactly why everyone hates PETA”](http://thedailybanter.com/2014/07/petas-repugnant-offer-desperate-detroit-shows-everybody-hates/). Jezebel calls them [“assholes”](http://unvis.it/jezebel.com/peta-assholes-to-detroit-well-pay-your-water-bills-if-1610490630).
+> 
+> Of course, this is par for the course for PETA, who have previously engaged in campaigns like throwing red paint on fashion models who wear fur, juxtaposing pictures of animals with Holocaust victims, juxtaposing pictures of animals with African-American slaves, and ads featuring naked people that cross the line into pornography.
+> ...
+> PETA creates attention, but at a cost. Everybody’s talking about PETA, which is sort of like everybody talking about ethical treatment of animals, which is sort of a victory. But most of the talk is “I hate them and they make me really angry.” Some of the talk is even “I am going to eat a lot more animals just to make PETA mad.”
+
+### Counterargument
+
+[David Foster Wallace's Problematic Tenses](https://www.thesmartset.com/david-foster-wallaces-problematic-tenses/)
+Note that this source largely condemns the quote I reference above, suggesting that DWF is "not only reinforcing the existing power structure privileging white culture, and therefore white people, over Black culture and people, but he is also implicitly attempting to quash the gains of the Black Power movement")
+
+I find the following argument the most compelling:
+
+> Where insult is perhaps added to injury is that Foster Wallace is insightful enough to admit the existence of the white power structure, but not inclined to challenge it even within the confines of his own classroom.
+
+Personally I think it's reasonable for Wallace to enforce "standard white English" in a classroom, and give students the tools they need to succeed or persuade in the "real world". That said, I am a white man, and am likely missing some nuance here. This is a topic I eagerly welcome dissenting opinions on.
