@@ -29,3 +29,4 @@
 * Yellow road lines are 10' long! Stop signs are huge!
 * 27 US states are further north than the southern-most bit of Canada. More precisely, they have at least SOME land further north, but this way is more fun.
 * Disneyland, despite owing its existence to a large rodent, employs 200 feral cats to hunt mice.
+* Due to maritime law conventions, if your boat is sinking, it's customary that you throw the tow rope to the rescuing ship. If they throw it to you, they could have a salvage claim on your ship.
