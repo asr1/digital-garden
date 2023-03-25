@@ -40,6 +40,8 @@ Some tech companies accept programming boot camps as those alternate signs, some
 
 When I started writing this, I couldn't find the SMBC above, and now I see that I'm treading old ground.
 
+A colleague of mine (JW) points out that education is free online. If the goal is learning, that's true. (though I do have thoughts about being [[Misc/Self-taught\|Self-taught]])
+
 ## See Also
 
 [[Misc/Cost Disease\|Cost Disease]]
