@@ -4,7 +4,7 @@
 
 
 [[Windows 98 Xbox\|Windows 98 Xbox]]
-[[Myst Nintendo DS\|Myst Nintendo DS]]
+[[Projects/Myst Nintendo DS\|Myst Nintendo DS]]
 [[Custom Singstar\|Custom Singstar]]
 
 
