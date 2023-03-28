@@ -8,7 +8,7 @@
 [[Misc/Clay Jugs\|Clay Jugs]]
 [[Misc/Fun Facts\|Fun Facts]]
 [[Misc/J Letter\|J Letter]]
-[[Jokes\|Jokes]]
+[[Misc/Jokes\|Jokes]]
 [[Misc/Lucky 10,000\|Lucky 10,000]]
 [[Misc/Microsoft's Fire Engines\|Microsoft's Fire Engines]]
 [[Misc/The Monkeys and the Ladder\|The Monkeys and the Ladder]]
