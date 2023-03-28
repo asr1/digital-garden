@@ -25,4 +25,4 @@ A podcast I used to listen to ([I Don't Like Mondays](https://soundcloud.com/idl
 [[Misc/The Monkeys and the Ladder\|The Monkeys and the Ladder]]
 [[Misc/Width of a Road\|Width of a Road]]
 [[Misc/Width of the Space Shuttle\|Width of the Space Shuttle]]
-[[Politics/Libertarianism#The Bear\|Libertarianism#The Bear]]
+[[Politics/Libertarianism#The Bear\|The Libertarian Bear Problem]]
