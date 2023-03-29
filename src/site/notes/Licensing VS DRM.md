@@ -3,7 +3,7 @@
 ---
 
 
-I don't like DRM (Digital Rights Management). Why should I have more restrictions on a piece of software or media that I purchased than someone does who stole that same media?
+I don't like DRM (Digital Rights Management). ==Why should I have more restrictions on a piece of software or media that I purchased than someone does who stole that same media?==
 
 ![XKCD DRM.png](/img/user/img/XKCD%20DRM.png)
 
@@ -19,6 +19,24 @@ What I'm saying is this: if you put out cheap software and make it accessible fo
 
 Whenever To The Moon or KOTOR dropped below $3, I'd grab a copy or two (TTM regularly went for 99¢). Eventually this got worse, [[Software and Technology/Doctorow's Enshittification\|as these things always do]]. Nothing gold can stay. But there was a brief time where we proved that piracy can be conquered.
 
+### Back to the point
+
+That was a bit of a tangent. If you license your artwork and it's easy and affordable, most people will take that route. Yeah, some people will steal it anyway, just like some people continued to use LimeWire well after iTunes provided legal access for music. 
+
+***Note:** I am not suggesting that artists charge less for art. That's an entirely different argument, and not one I support.*
+
+My argument is mostly that those people aren't your customers. They were never going to buy your music anyway.
+
+There are people who download an album or two a year. They might buy your music! Then there are people who download gigabytes of music every day. They aren't interested in your music, they're interested in owning the music. It's not personal. It's [[Consumerism\|Consumerism]].
+
+There are studies that show that pirates are [more likely to spend money on music](https://torrentfreak.com/pirates-spend-much-more-money-on-music-study-shows-160226/) compared to non-pirates. It seems counter intuitive! But think about it: the people who steal music are the people who *really like music!*
+
+> More than one-third of all music buyers (35%) pirate tracks on the side. Interestingly, this group appears to consist of the music industry’s most valuable customers.
+>
+> The results show that average Americans (pirates included) spend $19 on CDs and music downloads per year, a number that goes up to $33 among pirates alone.
+
+Perhaps they like more music than they can reasonably afford, or they try music before they buy it. I can't say. What I can say is that these things are complex
+
 
 ## Adobe
 
@@ -28,7 +46,7 @@ Then Adobe wised up and smelled the innards of the golden goose. Why release a n
 
 Now, almost everyone I know pirates Adobe. It's so prohibitively expensive and you end up owning nothing. There are even memes about it! This isn't a cultural question at this point, it's just in the zeitgeist. 
 
-![Pasted image 20230327193021.png|250](/img/user/Pasted%20image%2020230327193021.png)
+![Adobe Morals.png|250](/img/user/img/Adobe%20Morals.png)
 
 Autodesk recently alienated their customers by becoming ungodly expensive, to the tune of $300 a month for the cheapest tier! That's more than $2400 a year, for those keeping track at home. For a subscription! And that's just for a single program, not even the entire suite.
 
@@ -39,6 +57,11 @@ They've been getting their lunch eaten by Blender, which is free. Adobe is beggi
 Right now (March 2023), the [Internet Archive is being sued](). Typically, I side with archivists on this one, but admittedly they may have overstepped this once. They shared the latest James Patterson with no restrictions. The Internet Archive did this because many physical libraries were closed due to Covid. I don't fault them for that. 
 
 Their mistake was not in this pro-consumer move, it was in pissing off a bunch of publishers who believe they have everything to lose. 
+
+I'm not a fan of his writing but I think Neil Gaiman has this one right. He wrote: 
+> I think a legal suit over something that was obviously a well-intentioned effort to make things easier on people in the early days of lockdown is wrong.
+
+![Gaimain Archive.png](/img/user/img/Gaimain%20Archive.png)
 
 ## See Also
 [[Library Licenses\|Library Licenses]]
