@@ -4,6 +4,7 @@
 
 
 [[Software and Technology/Doctorow's Enshittification\|Doctorow's Enshittification]]
+[[Software and Technology/Lost Bioware DLC\|Lost Bioware DLC]]
 [[Software and Technology/Secure Passwords\|Secure Passwords]]
 [[Software and Technology/Software Complexity\|Software Complexity]]
 [[Software Updates\|Software Updates]]
