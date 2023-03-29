@@ -9,6 +9,7 @@
 [[Misc/Fun Facts\|Fun Facts]]
 [[Misc/J Letter\|J Letter]]
 [[Misc/Jokes\|Jokes]]
+[[Misc/Licensing VS DRM\|Licensing VS DRM]]
 [[Misc/Lucky 10,000\|Lucky 10,000]]
 [[Misc/Microsoft's Fire Engines\|Microsoft's Fire Engines]]
 [[Misc/The Monkeys and the Ladder\|The Monkeys and the Ladder]]
