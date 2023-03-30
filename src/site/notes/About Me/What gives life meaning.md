@@ -10,4 +10,4 @@ I find joy and delight when I can save others time, share my knowledge and skill
 I've pursued a career in software automation: I build tools that help other people save time and increase their [[Productivity\|Productivity]], enabling them to enjoy the best parts of life: time spent with friends and family.
 
 ## See Also
-[[Rules of Life\|Rules of Life]]
+[[About Me/Rules of Life\|Rules of Life]]
