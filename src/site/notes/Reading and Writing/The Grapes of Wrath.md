@@ -5,7 +5,15 @@
 
 # The Grapes of Wrath
 
+Steinbeck comes out swinging in this one, pure anger at the banks and capitalism in general. There's definitely some hand-waviness about native Americans (This is MY land! My grandpa drove out the Indians, my father drove out the snakes, and I won't be driven out by a bank!), but I assume that's historically accurate.
+
 ## Quotes
+
+### On human nature and religion
+
+> ==He laid two fingers down in his palm in rhythm, as though he gently placed each word there side by side. “I says, ‘Maybe it ain’t a sin. Maybe it’s just the way folks is. Maybe we been whippin’ the hell out of ourselves for nothin’==.’ An’ I thought how some sisters took to beatin’ theirselves with a three-foot shag of bobwire. An’ I thought how maybe they liked to hurt themselves, an’ maybe I liked to hurt myself. Well, I was layin’ under a tree when I figured that out, and I went to sleep. And it come night, an’ it was dark when I come to. They was a coyote squawkin’ near by. Before I knowed it, I was sayin’ out loud, ==‘The hell with it! There ain’t no sin and there ain’t no virtue. There’s just stuff people do. It’s all part of the same thing. And some of the things folks do is nice, and some ain’t nice, but that’s as far as any man got a right to say.’”== He paused and looked up from the palm of his hand, where he had laid down the words.
+
+### On owning the land and fighting monsters
 
 > “I built it with my hands. Straightened old nails to put the sheathing
 > on. Rafters are wired to the stringers with baling wire. It’s mine. I
@@ -90,5 +98,6 @@
 
 
 ## See Also
-[[Reading and Writing/Moloch\|Moloch]]
 [[Capitalism\|Capitalism]]
+[[Reading and Writing/Moloch\|Moloch]]
+
