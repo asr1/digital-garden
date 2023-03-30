@@ -25,14 +25,11 @@ Or are you more militant, believing that ANY dilution, and compromise, is blasph
 
 
 
-# John Wesley
+## John Wesley
 > In essentials, unity; in non-essentials, liberty; in all things, charity
 > – Probably not John Wesley
 
 The point is clear: as a religion, agree about the essential things, let people choose for themselves on everything else, but above all else, don't be a dick about it.
 
-## Misc Advice
-
-* Don't take criticism from someone you wouldn't take advice from.
 
 </div></div>
