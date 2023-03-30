@@ -4,4 +4,4 @@
 
 
 [[Reading and Writing/Writing Advice\|Writing Advice]]
-[[Writing I Enjoy\|Writing I Enjoy]]
+[[Reading and Writing/Writing I Enjoy\|Writing I Enjoy]]
