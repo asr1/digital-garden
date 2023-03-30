@@ -45,6 +45,8 @@ He then realizes that he himself, having shot a man six times, is also a crimina
 
 But the takeaway here is that he *didn't*. He didn't think of a criminal as a person who has done a crime, but a person who DOES crime. It's an unalienable trait, and one he didn't see himself possessing. It's the othering of "criminals" that enables Meursault to look down on them, and see himself as something else, something superior.
 
+
+
 </div></div>
 
 How many places do you know that eagerly hire convicted felons?
