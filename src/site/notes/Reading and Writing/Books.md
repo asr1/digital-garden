@@ -34,6 +34,6 @@ Cory Doctorow ([Craphound](https://craphound.com/))
 ## Webcomics I read
 (ordered roughly by how closely I follow them)
 
-[XKCD](https://xkcd.com/)
-[Penny Arcade](https://www.penny-arcade.com/comic/)
+[XKCD](https://xkcd.com/) ( #xkcd)
+[Penny Arcade](https://www.penny-arcade.com/comic/) ( #penny-arcade )
 [Saturday Morning Breakfast Cereal(](https://www.smbc-comics.com/index.php)SMBC)
