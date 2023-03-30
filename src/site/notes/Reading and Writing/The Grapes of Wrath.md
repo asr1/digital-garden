@@ -33,9 +33,7 @@
 > “But where does it stop? Who can we shoot? I don’t aim to starve to
 > death before I kill the man that’s starving me.”
 > 
-> “I don’t know. Maybe there’s nobody to shoot. Maybe the thing isn’t men
-> at all. Maybe, like you said, the property’s doing it. Anyway I told you
-> my orders.”
+> “I don’t know. Maybe there’s nobody to shoot. Maybe the thing isn’t men at all. Maybe, like you said, the property’s doing it. Anyway I told you my orders.”
 > 
 > “I got to figure,” the tenant said. “We all got to figure. There’s some
 > way to stop this. It’s not like lightning or earthquakes. We’ve got a
@@ -59,8 +57,7 @@
 > just so.
 > 
 > We can’t depend on it. The bank — the monster has to have profits all the
-> time. It can’t wait. It’ll die. No, taxes go on. ==When the monster stops
-> growing, it dies.== It can’t stay one size.
+> time. It can’t wait. It’ll die. No, taxes go on. ==When the monster stops growing, it dies.== It can’t stay one size.
 
 *The bank is made by men who hate it*
 
@@ -78,8 +75,7 @@
 > 
 > Yes, but the bank is only made of men.
 > 
-> No, you’re wrong there—quite wrong there. The bank is something else
-> than men. ==It happens that every man in a bank hates what the bank does, and yet the bank does it. The bank is something more than men, I tell you. It’s the monster. Men made it, but they can’t control it.==
+> No, you’re wrong there—quite wrong there. The bank is something else than men. ==It happens that every man in a bank hates what the bank does, and yet the bank does it. The bank is something more than men, I tell you. It’s the monster. Men made it, but they can’t control it.==
 
 ### AI Art
 > He loved the land no more than the bank loved the land. He could admire the tractor — its machined surfaces, its surge of power, the roar of its detonating cylinders; but it was not his tractor.
