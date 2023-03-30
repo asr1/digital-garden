@@ -26,7 +26,7 @@ Don Norman's [[Reading and Writing/The Design of Everyday Things\|The Design of 
 (ordered roughly by how closely I follow them)
 
 Jerry Holkins ([Penny Arcade](https://www.penny-arcade.com/news)) 
-Scott Alexander (Slate Star Codex, [Astral Codex Ten](https://astralcodexten.substack.com/))
+Scott Alexander (Slate Star Codex, [Astral Codex Ten](https://astralcodexten.substack.com/)) ( #ssc )
 Sam Kriss (Idiot Joy Showland, [Numb at the Lodge](https://samkriss.substack.com/))
 Cory Doctorow ([Craphound](https://craphound.com/))
 ~~Lyz Lenz ([Men Yell At Me](https://lyz.substack.com/))~~
