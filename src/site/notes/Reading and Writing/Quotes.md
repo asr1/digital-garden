@@ -54,7 +54,7 @@ Frederick Books in his book "The Mythical Man-Month" warns against something sim
 > ...
 > If this thought-machine had any purpose other than to create a world with less art, I could cut it some slack. But it doesn't. Its entire purpose is to rarify art, controlling expression thereby.
 > 
-> - Jerry Holkins, [Penny Arcade](https://www.penny-arcade.com/news/post/2011/12/12/usurpers-plural)
+> - Jerry Holkins, [Penny Arcade](https://www.penny-arcade.com/news/post/2011/12/12/usurpers-plural) ( #penny-arcade )
 
 ## Models
 
