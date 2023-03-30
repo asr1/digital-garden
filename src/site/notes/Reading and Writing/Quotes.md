@@ -71,7 +71,7 @@ Frederick Books in his book "The Mythical Man-Month" warns against something sim
 > The law, in its majestic equality, forbids rich and poor alike to sleep under bridges, to beg in the streets, and to steal loaves of bread
 > – Anatole France, The Red Lily
 
-# John Wesley
+## John Wesley
 > In essentials, unity; in non-essentials, liberty; in all things, charity
 > – Probably not John Wesley
 
@@ -80,3 +80,7 @@ The point is clear: as a religion, agree about the essential things, let people 
 ## Misc Advice
 
 * Don't take criticism from someone you wouldn't take advice from.
+
+## Vonnegut's Rule
+> # “Hello babies. Welcome to Earth. It's hot in the summer and cold in the winter. It's round and wet and crowded. On the outside, babies, you've got a hundred years here. There's only one rule that I know of, babies-"God damn it, you've got to be kind.”
+>  – Kurt Vonnegut
