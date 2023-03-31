@@ -17,7 +17,7 @@ But the question is "are we getting dumber?" and "why are we paying so much? Wha
 You might be the smartest person in your high school (500 people), you might be one of the smartest in your city (100,000) or even among the brightest in your metropolitan area (500,000). But every time you leave one of those circles, you're going to feel a little dumber as you meet smarter and smarter people, each of whom were the smartest in their own high schools. Or, more harrowingly: when they're middle of the road for where they came from. Suddenly you don't feel nearly so special. But it's good to be surrounded by people smarter than you! That's how you grow!
 
 ## Aside:
-I can't remember if it was John Carmack or Scott Alexander, but I remember reading someone talking about getting invited to a conference of some kind, and thinking it wasn't worth their time, precisely because they expected to be smarter or more knowledgeable than many of the other attendants. As I recall, the times they *did* go they felt like it was actually a good use of time networking, but the initial instinct of "I will be providing more value than I receive" is noteworthy. See also [[Thoughts/(Skip The) 100 level courses\|(Skip The) 100 level courses]].
+I can't remember if it was John Carmack or Scott Alexander, but I remember reading someone talking about getting invited to a conference of some kind, and thinking it wasn't worth their time, precisely because they expected to be smarter or more knowledgeable than many of the other attendants. As I recall, the times they *did* go they felt like it was actually a good use of time networking, but the initial instinct of "I will be providing more value than I receive" is noteworthy. See also [[Advice/(Skip The) 100 level courses\|(Skip The) 100 level courses]].
 
 ## Back on Topic
 
@@ -57,5 +57,5 @@ A colleague of mine (JW) points out that education is free online. If the goal i
 </div></div>
 
 [This, other SMBC](![SMBC Liberal Education.png](/img/user/img/SMBC%20Liberal%20Education.png))
-[[Thoughts/(Skip The) 100 level courses\|(Skip The) 100 level courses]]
+[[Advice/(Skip The) 100 level courses\|(Skip The) 100 level courses]]
 [[Thoughts/Seinfeld, Mash, and The Last Time We Agreed on What To Watch\|Seinfeld, Mash, and The Last Time We Agreed on What To Watch]]
