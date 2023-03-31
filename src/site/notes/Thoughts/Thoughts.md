@@ -8,4 +8,4 @@
 [[Thoughts/Categorization\|Categorization]]
 #constraints 
 [[Thoughts/Don't Eat Pork\|Don't Eat Pork]]
-[[Thoughts/(Skip The) 100 level courses\|(Skip The) 100 level courses]]
+[[Advice/(Skip The) 100 level courses\|(Skip The) 100 level courses]]
