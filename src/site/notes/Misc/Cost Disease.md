@@ -50,6 +50,6 @@ See also [[Misc/J Letter\|J Letter]]
 [[Capitalism\|Capitalism]]
 [[Thoughts/The Price of College Education\|The Price of College Education]]
 [[Misc/Build It For Life\|Build It For Life]]
-[[Productivity\|Productivity]]
+[[Misc/Productivity\|Productivity]]
 [This SMBC comic](https://www.smbc-comics.com/comic/college-level-mathematics): 
 ![SMBC Baby Tiger.png](/img/user/img/SMBC%20Baby%20Tiger.png)
