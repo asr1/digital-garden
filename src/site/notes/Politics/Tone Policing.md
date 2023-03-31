@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/tone-policing/","tags":["politics","tone-policing","signaling"],"noteIcon":1}
+{"dg-publish":true,"permalink":"/politics/tone-policing/","tags":["politics","tone-policing","signaling","communication"],"noteIcon":1}
 ---
 
 
@@ -19,7 +19,7 @@ There's a large portion of the country (US) that won't take you seriously if you
 
 It might be a dumb rule, but it's one you have to abide by *if* you want any chance of being heard by these people.
 
-[[Being Understood vs Being Correct\|Being understood is more important than being correct]]. 
+[[Language and Communication/Being Understood vs Being Correct\|Being understood is more important than being correct]]. 
 
 ## John Oliver
 
