@@ -11,12 +11,13 @@ Some of my favorite books include:
 * Eating the Dinosaur by Chuck Klosterman
 * [[Reading and Writing/Name of the Wind\|Name of the Wind]] by Patrick Rothfuss
 
+
 ## Takeaways from some books I've read
 Don Norman's [[Reading and Writing/The Design of Everyday Things\|The Design of Everyday Things]]
 [[Reading and Writing/The Grapes of Wrath\|The Grapes of Wrath]] by John Steinbeck
 [[Reading and Writing/Nonviolent Communication\|Nonviolent Communication]]
 [[Reading and Writing/The Stranger\|The Stranger]]
-
+[[Reading and Writing/Ulysses\|Ulysses]]
 
 ## Takeaways from books I have not read
 [[Politics/Moral Stupefaction\|Moral Stupefaction]] from Jonathan Haidt's A Righteous Mind
