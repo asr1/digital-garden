@@ -23,6 +23,7 @@
 * **Why is Cinderella so bad at sports?** Her coach is a pumpkin.
 	* Alternatively: she can't get to the ball
 * **Why was the basketball court wet?** The players kept dribbling all over it!
+* A pirate walks into a bar. The bartender says "Uh, sir, are you aware you've got the wheel of a ship sticking out of your pants?" "Aye," says the pirate. "It's driving me nuts!"
 
 ## The Counterfeiters
 Two counterfeiters were admiring the latest bills. One turned to the other and said "You fool! You printed a $25 bill! No one will accept this!"
