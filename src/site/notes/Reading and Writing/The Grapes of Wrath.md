@@ -97,6 +97,65 @@ Steinbeck comes out swinging in this one, pure anger at the banks and capitalism
 > Men ate what they had not raised, had no connection with the bread. The land bore under iron, and under iron gradually died; for it was not loved or hated, it had no prayers or curses.
 
 
+## Breaking Points
+
+> The western land, nervous under the beginning change. The Western States, nervous as horses before a thunder storm. The great owners, nervous, sensing a change, knowing nothing of the nature of the change. The great owners, striking at the immediate thing, the widening government, the growing labor unity; striking at new taxes, at plans; not knowing these things are results, not causes. Results, not causes; results, not causes. ==The causes lie deep and simply—the causes are a hunger in a stomach, multiplied a million times; a hunger in a single soul, hunger for joy and some security, multiplied a million times; muscles and mind aching to grow, to work, to create, multiplied a million times.== The last clear definite function of man—muscles aching to work, minds aching to create beyond the single need—this is man. To build a wall, to build a house, a dam, and in the wall and house and dam to put something of Manself, and to Manself take back something of the wall, the house, the dam; to take hard muscles from the lifting, to take the clear lines and form from conceiving. For man, unlike any other thing organic or inorganic in the universe, grows beyond his work, walks up the stairs of his concepts, emerges ahead of his accomplishments.
+> 
+> This you may say of man—when theories change and crash, when schools, philosophies, when narrow dark alleys of thought, national, religious, economic, grow and disintegrate, man reaches, stumbles forward, painfully, mistakenly sometimes. Having stepped forward, he may slip back, but only half a step, never the full step back. This you may say and know it and know it.
+>
+>This you may know when the bombs plummet out of the black planes on the market place, when prisoners are stuck like pigs, when the crushed bodies drain filthily in the dust. You may know it in this way. If the step were not being taken, if the stumbling-forward ache were not alive, the bombs would not fall, the throats would not be cut. ==Fear the time when the bombs stop falling while the bombers live—for every bomb is proof that the spirit has not died. And fear the time when the strikes stop while the great owners live—for every little beaten strike is proof that the step is being taken==. And this you can know—fear the time when Manself will not suffer and die for a concept, for this one quality is the foundation of Manself, and this one quality is man, distinctive in the universe. 
+
+## Found Community
+
+> Thus it might be that one family camped near a spring, and another camped for the spring and for company, and a third because two families had pioneered the place and found it good. And when the sun went down, perhaps twenty families and twenty cars were there.  In the evening a strange thing happened: the twenty families became one family, the children were the children of all.  The loss of home became one loss, and the golden time in the West was one dream.
+> 
+> And it might be that a sick child threw despair into the hearts of twenty families, of a hundred people; that a birth there in a tent kept a hundred people quiet and awestruck through the night and filled a hundred people with the birth-joy in the morning. A family which the night before had been lost and fearful might search its goods to find a present for a new baby.
+>  In the evening, sitting about the fires, the twenty were one.
+>  
+>  They grew to be units of the camps, units of the evenings and the nights.
+>  A guitar unwrapped from a blanket and tuned—and the songs, which were all of the people, were sung in the nights. Men sang the words, and women hummed the tunes.  Every night a world created, complete with furniture—friends made and enemies established; a world complete with braggarts and with cowards, with quiet men, with humble men, with kindly men.
+>  Every night relationships that make a world, established; and every morning the world torn down like a circus.
+
+### And how it turns to government
+*And looking out for one another. A society.*
+
+>At first the families were timid in the building and tumbling worlds, but gradually the technique of building worlds became their technique.  Then leaders emerged, then laws were made, then codes came into being.
+> 
+  And as the worlds moved westward they were more complete and better furnished, for their builders were more experienced in building them.
+  The families learned what rights must be observed—the right of privacy in the tent; the right to keep the past black hidden in the heart; the right to talk and to listen; the right to refuse help or to accept, to offer help or to decline it; the right of son to court and daughter to be courted; the right of the hungry to be fed; the rights of the pregnant and the sick to transcend all other rights.
+>
+>==And the families learned, although no one told them, what rights are monstrous and must be destroyed: the right to intrude upon privacy, the right to be noisy while the camp slept, the right of seduction or rape, the right of adultery and theft and murder.==
+>
+>==These rights were crushed, because the little worlds could not exist for even a night with such rights alive.  And as the worlds moved westward, rules became laws, although no one told the families.==
+>
+	It is unlawful to foul near the camp; it is unlawful in any way to foul the drinking water; it is unlawful to eat good rich food near one who is hungry, unless he is asked to share. And with the laws, the punishments—and there were only two—a quick and murderous fight or ostracism; and ostracism was the worst. For if one broke the laws his name and face went with him, and he had no place in any world, no matter where created.
+> 
+> In the worlds, social conduct became fixed and rigid, so that a man must say “Good morning” when asked for it, so that a man might have a willing girl if he stayed with her, if he fathered her children and protected them. But a man might not have one girl one night and another the next, for this would endanger the worlds.
+> 
+   The families moved westward, and the technique of building the worlds improved so that the people could be safe in their worlds; and the form was so fixed that a family acting in the rules knew it was safe in the rules.  ==There grew up government in the worlds, with leaders, with elders.==
+> And a kind of insurance developed in these nights. A man with food fed a hungry man, and thus insured himself against hunger.
+
+## Stirs of Rebellion
+
+> Is a tractor bad? Is the power that turns the long furrows wrong? If this tractor were ours it would be good—not mine, but ours. If our tractor turned the long furrows of our land, it would be good. Not my land, but ours.
+> 
+  We could love that tractor then as we have loved this land when it was ours. But this tractor does two things—it turns the land and turns us off the land. There is little difference between this tractor and a tank. The people are driven, intimidated, hurt by both.  We must think about this.
+>
+> One man, one family driven from the land; this rusty car creaking along the highway to the west.  I lost my land, a single tractor took my land.  I am alone and I am bewildered. 
+>   
+> And in the night one family camps in a ditch and another family pulls in and the tents come out. The two men squat on their hams and the women and children listen. ==Here is the node, you who hate change and fear revolution.  Keep these two squatting men apart; make them hate, fear, suspect each other.==  Here is the anlage of the thing you fear.  This is the zygote.
+> 
+> For here “I lost my land” is changed; a cell is split and from its splitting grows the thing you hate—“We lost _our_ land. ” The danger is here, for two men are not as lonely and perplexed as one. And from this first “we” there grows a still more dangerous thing: “I have a little food” plus “I have none.” If from this problem the sum is “We have a little food,” the thing is on its way, the movement has direction.
+> 
+> Only a little multiplication now, and this land, this tractor are ours. The two men squatting in a ditch, the little fire, the side-meat stewing in a single pot, the silent, stone-eyed women; behind, the children listening with their souls to words their minds do not understand.
+> 
+> The night draws down. The baby has a cold. Here, take this blanket. It’s wool. It was my mother’s blanket—take it for the baby. ==This is the thing to bomb.  This is the beginning—from “I” to “we.”== If you who own the things people must have could understand this, you might preserve yourself.
+> 
+> If you could separate causes from results, if you could know that Paine, Marx, Jefferson, Lenin, were results, not causes, you might survive. But that you cannot know.  ==For the quality of owning freezes you forever into “I,” and cuts you off forever from the “we.”==  The Western States are nervous under the beginning change
+> 
+> Need is the stimulus to concept, concept to action. A half-million people moving over the country; a million more restive, ready to move; ten million more feeling the first nervousness.  And tractors turning the multiple furrows in the vacant land.
+
+
 ## See Also
 [[Capitalism\|Capitalism]]
 [[Reading and Writing/Moloch\|Moloch]]
