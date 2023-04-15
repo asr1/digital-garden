@@ -137,3 +137,5 @@ To the libertarian's credit, the [Indiana Toll road](https://en.wikipedia.org/wi
 ![Libertarians As Housecasts.png|500](/img/user/img/Libertarians%20As%20Housecasts.png)
 
 Counterargument (that I don't buy): We're only dependent on the government because they [rendered us impotent and made us so.](https://fee.org/articles/are-libertarians-house-cats/) "The house cat metaphor is one we should embrace. Wild cats are resilient and resourceful, but we made them dependent by locking them indoors" 🙄🙄
+
+![Freedom Pie.png](/img/user/img/Freedom%20Pie.png)
