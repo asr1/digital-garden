@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/violence/","noteIcon":2}
+{"dg-publish":true,"permalink":"/politics/violence/","noteIcon":1}
 ---
 
 
