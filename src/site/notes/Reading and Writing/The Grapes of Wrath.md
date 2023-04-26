@@ -156,6 +156,49 @@ Steinbeck comes out swinging in this one, pure anger at the banks and capitalism
 > Need is the stimulus to concept, concept to action. A half-million people moving over the country; a million more restive, ready to move; ten million more feeling the first nervousness.  And tractors turning the multiple furrows in the vacant land.
 
 
+## Deceit + Greed
+>A great owner bought a cannery.
+  And when the peaches and the pears were ripe he cut the price of fruit below the cost of raising it.
+  And as cannery owner he paid himself a low price for the fruit and kept the price of canned goods up and took his profit.
+  And the little farmers who owned no canneries lost their farms, and they were taken by the great owners, the banks, and the companies who also owned the canneries.
+  As time went on, there were fewer farms.
+
+>This little orchard will be a part of a great holding next year, for the debt will have choked the owner.
+  This vineyard will belong to the bank.
+>Only the great owners can survive, for they own the canneries too.
+
+> And four pears peeled and cut in half, cooked and canned, still cost fifteen cents.
+> And the canned pears do not spoil.
+ > They will last for years.
+
+
+## The Grapes of Wrath
+
+> Men who can graft the trees and make the seed fertile and big can find no way to let the hungry people eat their produce.
+> Men who have created new fruits in the world cannot create a system whereby their fruits may be eaten.
+> And the failure hangs over the State like a great sorrow.
+> ==The works of the roots of the vines, of the trees, must be destroyed to keep up the price, and this is the saddest, bitterest thing of all.==
+> Carloads of oranges dumped on the ground.
+> The people came for miles to take the fruit, but this could not be.
+> ==How would they buy oranges at twenty cents a dozen if they could drive out and pick them up? And men with hoses squirt kerosene on the oranges, and they are angry at the crime, angry at the people who have come to take the fruit.==
+> A million people hungry, needing the fruit—and kerosene sprayed over the golden mountains.
+> And the smell of rot fills the country.
+> Burn coffee for fuel in the ships.
+> Burn corn to keep warm, it makes a hot fire.
+> Dump potatoes in the rivers and place guards along the banks to keep the hungry people from fishing them out.
+> Slaughter the pigs and bury them, and let the putrescence drip down into the earth.
+> ====There is a crime here that goes beyond denunciation.
+> There is a sorrow here that weeping cannot symbolize.
+> There is a failure here that topples all our success.====
+> The fertile earth, the straight tree rows, the sturdy trunks, and the ripe fruit.
+> And children dying of pellagra must die because a profit cannot be taken from an orange.
+> And coroners must fill in the certificates—died of malnutrition—because the food must rot, must be forced to rot.
+> The people come with nets to fish for potatoes in the river, and the guards hold them back; they come in rattling cars to get the dumped oranges, but the kerosene is sprayed.
+> 
+> ==And they stand still and watch the potatoes float by, listen to the screaming pigs being killed in a ditch and covered with quicklime, watch the mountains of oranges slop down to a putrefying ooze; and in the eyes of the people there is the failure; and in the eyes of the hungry there is a growing wrath.
+
+> ==In the souls of the people the grapes of wrath are filling and growing heavy, growing heavy for the vintage.==
+
 ## See Also
 [[Capitalism\|Capitalism]]
 [[Reading and Writing/Moloch\|Moloch]]
