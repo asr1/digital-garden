@@ -96,3 +96,6 @@ It's okay to make small incremental progress.
 Clean up one sock every time you pass by. 
 
 Write 350 words a day, it <u>adds up!</u>
+
+## We should live to work, not live to work
+![McHenry RIP.png](/img/user/img/McHenry%20RIP.png)
