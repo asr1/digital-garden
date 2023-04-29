@@ -92,3 +92,4 @@ Still has nobles, but everyone else produces what they can and consumes what the
 [[Politics/Dwarf Fortress Economy\|Dwarf Fortress Economy]]
 [[Politics/MoneyLite\|MoneyLite]]
 [[Reading and Writing/The Grapes of Wrath\|The Grapes of Wrath]]
+[[Universal Basic Income\|Universal Basic Income]]
