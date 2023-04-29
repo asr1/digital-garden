@@ -59,3 +59,4 @@ A colleague of mine (JW) points out that education is free online. If the goal i
 [This, other SMBC](![SMBC Liberal Education.png](/img/user/img/SMBC%20Liberal%20Education.png))
 [[Advice/(Skip The) 100 level courses\|(Skip The) 100 level courses]]
 [[Thoughts/Seinfeld, Mash, and The Last Time We Agreed on What To Watch\|Seinfeld, Mash, and The Last Time We Agreed on What To Watch]]
+[[Thoughts/Slack\|Slack]]
