@@ -49,9 +49,8 @@ Smash Bros in particular is pretty cool in how its control scheme is set up. The
 
 [![](https://64.media.tumblr.com/ed2b859ada34ed4255b1964c9f3cd740/27d5a6e8359da885-40/s64x64u_c1/2957803b8ba9ef98eb1712f367292cfdf3f4975b.pnj)](https://tmblr.co/M_7eL7MVkHEBDAYq7hszb1w)
 
-[luckyladylily](https://luckyladylily.tumblr.com/post/684620915664896000)
+[Source: I have small hands for an adult](https://luckyladylily.tumblr.com/post/684620915664896000)
 
-[#i have smallish hands for an adult](https://www.tumblr.com/blog/view/justknives/tagged/i%20have%20smallish%20hands%20for%20an%20adult)[#and arthritis](https://www.tumblr.com/blog/view/justknives/tagged/and%20arthritis)[#so this is relevant to me too](https://www.tumblr.com/blog/view/justknives/tagged/so%20this%20is%20relevant%20to%20me%20too)[#something to consider](https://www.tumblr.com/blog/view/justknives/tagged/something%20to%20consider)
 
 This is an excellent point as well, something I wasn’t going to get into but so much of game design just ignores accessibility issues like this all together. So many of the basic assumptions of game design from input device to button mapping to in game accessibility features are built around the assumption of fully abled adult between late teenager and middle age.
 
