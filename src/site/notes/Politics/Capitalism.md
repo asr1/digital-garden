@@ -27,7 +27,7 @@ Look at housing: If I buy a house, I pay a mortgage on it. If I rent that house 
 
 Instead of paying a wage, we can do work that generates a profit, and then split that profit between the workers. I don't wholly own an orchard, *we* own the orchard, we pick its fruit and sell it and take the profit.
 
-The argument today is that CEOs or owners or whoever is taking all the risk, so therefore they should also gain all of the rewards. The counter-argument is that is a CEO *really* generating enough value by "taking risk" to earn more than 1,000x as much as an average employee for the same company?
+The argument today is that CEOs or owners or whoever is taking all the risk, so therefore they should also gain all of the rewards. The counter-argument is that is a CEO *really* generating enough value by "taking risk" to earn more than 350x as much as an average employee for the same company?
 
 I can't find it at the moment, but I once read an #SSC article about how to reward the Jeff Bezos's of the world. Would anyone have made Amazon if he hadn't? Was it bound to happen? Should be be rich, allowed to profit from the massive risk he took, or should he be entirely deprivatized, taken over by the government, and taxed at 100%? 
 
@@ -118,7 +118,21 @@ This has been done!
 
 REI in Washington, Mondragon in Spain.
 
-The workers together 
+#### Mondragon's Two rules
+The workers together hire and fire and evaluate the manager. 
+	Opposite of how we do it.
+Workers decide if the manager's do a good job.
+
+The highest paid person cannot make more than 8x the income of the lowest-paid person.
+	Compare to Corporate CEO to low-paid workers in the US is 350:1
+
+We're looking out for ourselves. [[Reading and Writing/The Grapes of Wrath#Cops and self-governance\|Grapes of Wrath self-governance]].
+
+Let Americans have *freedom of choice*. They can choose where to buy, where to work.
+
+Will co-ops vote to ship their own jobs overseas? Not likely! But when a corp realizes they can move to India and pay a lot less, it's aaaawfullllly tempting.
+
+
 
 ## Extracting profits from people
 
