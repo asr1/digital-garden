@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/money-lite/","tags":["politics","economy","doctorow"],"noteIcon":1}
+{"dg-publish":true,"permalink":"/politics/money-lite/","tags":["politics","economics","doctorow"],"noteIcon":1}
 ---
 
 
