@@ -22,6 +22,7 @@ Don Norman's [[Reading and Writing/The Design of Everyday Things\|The Design of 
 ## Takeaways from books I have not read
 [[Politics/Moral Stupefaction\|Moral Stupefaction]] from Jonathan Haidt's A Righteous Mind
 [[Politics/Why Are the Prices So Damn High\|Why Are the Prices So Damn High]] by Alex Taborrok and Eric Helland
+[[Reading and Writing/Zero To One\|Zero To One]]
 
 ## Bloggers I follow
 (ordered roughly by how closely I follow them)
@@ -29,7 +30,7 @@ Don Norman's [[Reading and Writing/The Design of Everyday Things\|The Design of 
 Jerry Holkins ([Penny Arcade](https://www.penny-arcade.com/news)) 
 Scott Alexander (Slate Star Codex, [Astral Codex Ten](https://astralcodexten.substack.com/)) ( #ssc )
 Sam Kriss (Idiot Joy Showland, [Numb at the Lodge](https://samkriss.substack.com/))
-Cory Doctorow ([Craphound](https://craphound.com/))
+Cory Doctorow ([Craphound](https://craphound.com/)) ( #doctorow )
 ~~Lyz Lenz ([Men Yell At Me](https://lyz.substack.com/))~~
 
 ## Webcomics I read
@@ -38,3 +39,4 @@ Cory Doctorow ([Craphound](https://craphound.com/))
 [XKCD](https://xkcd.com/) ( #xkcd)
 [Penny Arcade](https://www.penny-arcade.com/comic/) ( #penny-arcade )
 [Saturday Morning Breakfast Cereal(](https://www.smbc-comics.com/index.php)SMBC)
+Noncanon by Tom McHenry ( #McHenry  )
