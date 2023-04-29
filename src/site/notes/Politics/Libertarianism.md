@@ -138,4 +138,7 @@ To the libertarian's credit, the [Indiana Toll road](https://en.wikipedia.org/wi
 
 Counterargument (that I don't buy): We're only dependent on the government because they [rendered us impotent and made us so.](https://fee.org/articles/are-libertarians-house-cats/) "The house cat metaphor is one we should embrace. Wild cats are resilient and resourceful, but we made them dependent by locking them indoors" 🙄🙄
 
-![Freedom Pie.png](/img/user/img/Freedom%20Pie.png)
+![Freedom Pie.png|450](/img/user/img/Freedom%20Pie.png)
+
+[How Ayn Rand Destroyed Sears](https://www.versobooks.com/blogs/news/4385-failing-to-plan-how-ayn-rand-destroyed-sears)
+> Eddie Lampert was a Sears CEO who figured — since free-market competitive economies outcompete top-down economies, shouldn’t free-market competitive companies outcompete top-down companies? He reorganized Sears as a set of competing departments that traded with each other on normal free-market principles; if the Product Department wanted its products marketed, it would have to pay the Marketing Department. This worked really badly, and was one of the main contributors to Sears’ implosion.
