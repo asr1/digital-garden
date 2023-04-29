@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/distributing-the-gold/","tags":["politics","economy","prioritization","college","philosophy","name-of-the-wind"],"noteIcon":1}
+{"dg-publish":true,"permalink":"/politics/distributing-the-gold/","tags":["politics","economics","prioritization","college","philosophy","name-of-the-wind"],"noteIcon":1}
 ---
 
 
