@@ -25,6 +25,8 @@
 
 
 
+* [[Politics/Capitalism\|Capitalism]]
+* [[Consumerism\|Consumerism]]
 * [[Politics/Why Are the Prices So Damn High\|Cost Disease]]
 * [[Politics/Distributing the gold\|Distributing the gold]]
 * [[Politics/Dwarf Fortress Economy\|Dwarf Fortress Economy]]
