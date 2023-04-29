@@ -13,7 +13,7 @@ Instead, two things will happen. First, people will be laid off. Why hire a cont
 
 Second, those who aren't laid off will be expected to take on more and more. Just like how the cotton gin expanded slavery, or how the Cambodians didn't [[Misc/Productivity#Cambodian Fertilizer\|double their yield]]. We (in America) won't be the Cambodians, we'll be setting our baseline higher and higher, expecting more from people, since now they can write a story in seconds instead of hours.
 
-I would be on board for this "revolution" if it meant people could work less, if we could pay for people to support living instead of working. But the combination of [[Capitalism\|Capitalism]] and [[Consumerism\|Consumerism]] means that I remain skeptical.
+I would be on board for this "revolution" if it meant people could work less, if we could pay for people to support living instead of working. But the combination of [[Politics/Capitalism\|Capitalism]] and [[Consumerism\|Consumerism]] means that I remain skeptical.
 
 ## See Also
 
