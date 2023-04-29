@@ -47,7 +47,7 @@ See also [[Misc/J Letter\|J Letter]]
 > Amish people spend only a fifth as much as you do on health care, and their health is fine. What can we learn from them?
 
 [[Politics/Why Are the Prices So Damn High\|Why Are the Prices So Damn High]]
-[[Capitalism\|Capitalism]]
+[[Politics/Capitalism\|Capitalism]]
 [[Thoughts/The Price of College Education\|The Price of College Education]]
 [[Misc/Build It For Life\|Build It For Life]]
 [[Misc/Productivity\|Productivity]]
