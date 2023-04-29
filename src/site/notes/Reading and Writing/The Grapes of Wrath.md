@@ -199,6 +199,33 @@ Steinbeck comes out swinging in this one, pure anger at the banks and capitalism
 
 > ==In the souls of the people the grapes of wrath are filling and growing heavy, growing heavy for the vintage.==
 
+## Horses vs men
+>If a fella owns a team a horses, he don’t raise no hell if he got to feed ’em when they ain’t workin’.
+  But if a fella got men workin’ for him, he jus’ don’t give a damn.
+  Horses is a hell of a lot more worth than men.
+
+...
+
+>And sometimes they talked very quietly.
+  No work till spring.
+  No work.
+  And if no work—no money, no food.
+  Fella had a team of horses, had to use ’em to plow an’ cultivate an’ mow, wouldn’ think a turnin’ ’em out to starve when they wasn’t workin’.
+  Them’s horses—we’re men.
+
+## Takeaway
+
+People want to work, and are vilified as moochers and Okies for being lazy. Steinbeck is careful to portray everyone as wanting to work, but being unable to find it.
+
+It's hard reading this in 2023 without drawing parallels to AI art. This book boils down to three messages  
+  
+1. Greed is bad  
+2. Corporations are worse than any of the people that comprise them  
+2b. Corporations act in ways that none of those people desire, and yet.  
+3. The only tool workers have to fight 1 and 2 is to form a union. Suspicions cast aside, it's every one together.  
+  
+Steinbeck's rage and righteous fury shine through his prose. I think I've written more quotes from this book than any other.
+
 ## See Also
 [[Capitalism\|Capitalism]]
 [[Reading and Writing/Moloch\|Moloch]]
