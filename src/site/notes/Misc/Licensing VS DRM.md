@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/licensing-vs-drm/","tags":["software","xkcd"],"noteIcon":2}
+{"dg-publish":true,"permalink":"/misc/licensing-vs-drm/","tags":["software","xkcd","doctorow"],"noteIcon":2}
 ---
 
 
