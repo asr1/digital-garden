@@ -132,7 +132,7 @@ To the libertarian's credit, the [Indiana Toll road](https://en.wikipedia.org/wi
 
 [[Politics/Libertarianism Copypasta\|This copypasta]]
 [SSC non-libertarian FAQ](https://slatestarcodex.com/2017/02/22/repost-the-non-libertarian-faq/)
-[[Capitalism\|Capitalism]]
+[[Politics/Capitalism\|Capitalism]]
 
 ![Libertarians As Housecasts.png|500](/img/user/img/Libertarians%20As%20Housecasts.png)
 
