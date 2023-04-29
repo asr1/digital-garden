@@ -11,7 +11,7 @@ In 1930, economist John Maynard Keynes [predicted](https://www.theguardian.com/
 * The cotton gin expanded slavery, not reduced it.
 
 
-Productivity has increased, but instead of being expected to work less, we're expected to make more. See also [[Capitalism\|Capitalism]]
+Productivity has increased, but instead of being expected to work less, we're expected to make more. See also [[Politics/Capitalism\|Capitalism]]
 
 ![Productivity over time.png](/img/user/img/Productivity%20over%20time.png)
 
