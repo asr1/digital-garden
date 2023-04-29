@@ -8,6 +8,6 @@ The Dwarf Fortress economy had to change, as it originally had inefficiencies.
 ![Dwarf Fortress Economy.png](/img/user/img/Dwarf%20Fortress%20Economy.png)
 
 ## See also
-[[Bullshit Jobs\|Bullshit Jobs]]
+[[Misc/Bullshit Jobs\|Bullshit Jobs]]
 [[Capitalism\|Capitalism]][
 [[Politics/How Dwarf Fortress Abandoned Capitalism and embraced Communism\|How Dwarf Fortress Abandoned Capitalism and embraced Communism]]
