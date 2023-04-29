@@ -16,4 +16,4 @@ Graebner argues that previously meaningful work can become a bullshit job though
 ## See Also
 
 [[Politics/How Dwarf Fortress Abandoned Capitalism and embraced Communism\|How Dwarf Fortress Abandoned Capitalism and embraced Communism]]
-[[Capitalism\|Capitalism]]
+[[Politics/Capitalism\|Capitalism]]
