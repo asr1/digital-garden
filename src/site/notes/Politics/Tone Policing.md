@@ -47,6 +47,12 @@ The two describe the same situation, but with dramatically different connotation
 
 There's a Twitter page called "Fuck Cars" that refers to cars as "rolling death cages". This attitude is antagonistic; they aren't going to convince pro-car people with this rhetoric. It's preaching to the choir.
 
+## Harry Potter And The Methods Of Rationality.
+
+I was first introduced to [[Software and Technology/The so-called AI Revolution\|Eliezer Yudkowsky]] from his Harry Potter fanfiction. I enjoyed the demonstrations of logic, and the explanations of the same. At the end of one chapter, he discussed how you should never start with a conclusion and then build back your arguments, but instead follow the arguments wherever they may lead.
+
+In a subsequent chapter, he made a statement starting with "There's no God", and then worked backwards to support his argument. This may have been a joke, but a) it flew directly in the face of the previous maxim, and b) it felt like a cheap way to get points with the (largely) atheist in-group of his existing audience, not a way to cross bridges and possibly convert someone. 
+
 ## Standard White English
 
 There is no wrong English, but there is a appropriate context. See also [[Code Switching\|Code Switching]]
