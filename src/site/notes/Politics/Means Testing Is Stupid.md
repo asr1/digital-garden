@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/means-testing-is-stupid/","tags":["politics","economy"],"noteIcon":1}
+{"dg-publish":true,"permalink":"/politics/means-testing-is-stupid/","tags":["politics","economics"],"noteIcon":1}
 ---
 
 
