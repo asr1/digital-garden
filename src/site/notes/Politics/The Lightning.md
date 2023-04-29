@@ -7,7 +7,7 @@
 
 There are some things you don't talk about. You can't talk about in public.
 
-I don't mean things that are taboo, like how you can [[Taboo\|draw a straight line from Ulysses to Family Guy]], I mean cultural norms. Being on the "wrong" side of history. Having a take that will get you "canceled".
+I don't mean things that are taboo, like how you can [[Politics/Taboo\|draw a straight line from Ulysses to Family Guy]], I mean cultural norms. Being on the "wrong" side of history. Having a take that will get you "canceled".
 
 One of my favorite articles from Slate Star Codex is called [Kolmogorov Complicity and the Parable of Lightning](https://slatestarcodex.com/2017/10/23/kolmogorov-complicity-and-the-parable-of-lightning/). Bear with me.
 
@@ -79,4 +79,4 @@ Has this happened?
 
 ## See Also
  [Kolmogorov Complicity and the Parable of Lightning](https://slatestarcodex.com/2017/10/23/kolmogorov-complicity-and-the-parable-of-lightning/) (SSC)
- [[Taboo\|Taboo]]
+ [[Politics/Taboo\|Taboo]]
