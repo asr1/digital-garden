@@ -64,6 +64,6 @@ I'm not a fan of his writing but I think Neil Gaiman has this one right. He wrot
 ![Gaimain Archive.png](/img/user/img/Gaimain%20Archive.png)
 
 ## See Also
-[[Library Licenses\|Library Licenses]]
+[[Thoughts/Library Licenses\|Library Licenses]]
 [[Misc/Build It For Life\|Build It For Life]]
 
