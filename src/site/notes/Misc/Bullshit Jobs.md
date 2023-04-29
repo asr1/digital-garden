@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/bullshit-jobs/","tags":["politics","economy"],"noteIcon":1}
+{"dg-publish":true,"permalink":"/misc/bullshit-jobs/","tags":["politics","economics"],"noteIcon":1}
 ---
 
 
