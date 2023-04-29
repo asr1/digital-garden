@@ -199,6 +199,29 @@ Steinbeck comes out swinging in this one, pure anger at the banks and capitalism
 
 > ==In the souls of the people the grapes of wrath are filling and growing heavy, growing heavy for the vintage.==
 
+## Cops and self-governance
+
+>Cops?” he asked.
+   The watchman laughed.
+  “No cops.
+  We got our own cops.
+  Folks here elect their own cops.
+
+> “You mean to say they ain’t no cops?”  
+> “No, sir. No cop can come in here without a warrant."
+>  “Well, s’pose a fella is jus’ mean, or drunk an’ quarrelsome. What then?”  
+>  
+>  The watchman stabbed the blotter with a pencil. “Well, the first time the Central Committee warns him.  And the second time they really warn him. The third time they kick him out of the camp."
+
+>  Fella says they ain’t no cops.
+>  “Folks is their own cops.”  Casy looked up excitedly.
+>  “An’ was they any trouble? Fightin’, stealin’, drinkin’?”  “No,” said Tom.
+>   “Well, if a fella went bad—what then? What’d they do?”  “Put ’im outa the camp.” 
+>   “But they wasn’ many?” 
+>   “Hell, no,” said Tom. “We was there a month, an’ on’y one.” 
+>   Casy’s eyes shone with excitement. He turned to the other men.
+>  “Ya see?” he cried. “I tol’ you.  Cops cause more trouble than they stop."
+
 ## Horses vs men
 >If a fella owns a team a horses, he don’t raise no hell if he got to feed ’em when they ain’t workin’.
   But if a fella got men workin’ for him, he jus’ don’t give a damn.
@@ -227,6 +250,6 @@ It's hard reading this in 2023 without drawing parallels to AI art. This book bo
 Steinbeck's rage and righteous fury shine through his prose. I think I've written more quotes from this book than any other.
 
 ## See Also
-[[Capitalism\|Capitalism]]
+[[Politics/Capitalism\|Capitalism]]
 [[Reading and Writing/Moloch\|Moloch]]
 
