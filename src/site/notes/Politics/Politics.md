@@ -26,15 +26,20 @@
 
 
 * [[Politics/Why Are the Prices So Damn High\|Cost Disease]]
+* [[Politics/Distributing the gold\|Distributing the gold]]
+* [[Politics/Dwarf Fortress Economy\|Dwarf Fortress Economy]]
+* [[Politics/How Dwarf Fortress Abandoned Capitalism and embraced Communism\|How Dwarf Fortress Abandoned Capitalism and embraced Communism]]
 * [[Politics/Why do we jail\|Jail]]
 * [[Politics/Libertarianism\|Libertarianism]]
 * [[Politics/Means Testing Is Stupid\|Means Testing Is Stupid]]
+* [[Politics/MoneyLite\|MoneyLite]]
 * [[Politics/Moral Stupefaction\|Moral Stupefaction]]
 * [[Nuclear Energy\|Nuclear Energy]]
 * [[Politics/Nuclear Proliferation\|Nuclear Proliferation]]
 * [[Politics/Personal Pronouns\|Personal Pronouns]]
 * #religion 
 * [[Politics/Right Wing VS Left Wing Values\|Right Wing VS Left Wing Values]]
+* [[Politics/Taboo\|Taboo]]
 * [[Politics/Tone Policing\|Tone Policing]]
 * [[Politics/Violence\|Violence]]
 * [[Politics/War\|War]]
