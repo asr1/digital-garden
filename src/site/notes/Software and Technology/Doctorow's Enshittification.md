@@ -6,7 +6,7 @@
 
 [source](https://www.wired.com/story/tiktok-platforms-cory-doctorow/)
 
-Cory Doctorow talks a lot about "enshittification", the process by which platforms get worse, and ultimately die.
+Cory #Doctorow talks a lot about "enshittification", the process by which platforms get worse, and ultimately die.
 
 > Here is how platforms die: First, they are good to their users; then they abuse their users to make things better for their business customers; finally, they abuse those business customers to claw back all the value for themselves. Then, they die.
 
