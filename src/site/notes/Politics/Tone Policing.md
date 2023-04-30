@@ -35,6 +35,14 @@ To talk about Climate Change, John Oliver brought in Bill Nye. Bill Nye is (at l
 
 Instead, he punched down and said "the planet's on fucking fire". There was an opportunity to extend an olive branch or learning, and instead ensured not only that no evangelicals would hear the message, but to signal "it's not for you."
 
+### Propaganda and Bias
+
+If you agree with 100% of the media you're consuming, you're probably not challenging yourself enough. If you're watching something and it makes you feel superior, smug, or smart, it's probably propaganda. 
+
+I want to be clear: there's a difference between feeling *informed* and feeling smart. If you are actually learning, great! If it feels like learning, but you're just watching a smart person mouth off, it's propaganda. Or at least, it's the porn equivalent of learning: it hits the right buttons, but it's shallow. The West Wing is guilty of this.
+
+
+
 ## Language Choices
 
 My high school debate coach used to talk about how much word choice matters. The example he would give was this:
