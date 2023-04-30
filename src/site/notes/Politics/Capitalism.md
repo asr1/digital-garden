@@ -18,7 +18,7 @@ If I'm hiring you for $5, it's ONLY worth it if that hour of your labor is worth
 
 Workers naturally produce a **surplus**, which they don't capture.
 
-(See also ![XKCD Advertising.png|400](/img/user/XKCD%20Advertising.png))
+(See also ![XKCD Advertising.png|400](/img/user/img/XKCD%20Advertising.png))
 
 Look at housing: If I buy a house, I pay a mortgage on it. If I rent that house out to you, you pay me rent, and I use your rent money to pay my mortgage. I get equity from owning the house, and you get nothing.
 
