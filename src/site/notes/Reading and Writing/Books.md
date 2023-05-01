@@ -18,6 +18,7 @@ Don Norman's [[Reading and Writing/The Design of Everyday Things\|The Design of 
 [[Reading and Writing/Nonviolent Communication\|Nonviolent Communication]]
 [[Reading and Writing/The Stranger\|The Stranger]]
 [[Reading and Writing/Ulysses\|Ulysses]]
+[[Women Fire And Dangerous Things\|Women Fire And Dangerous Things]]
 
 ## Takeaways from books I have not read
 [[Politics/Moral Stupefaction\|Moral Stupefaction]] from Jonathan Haidt's A Righteous Mind
