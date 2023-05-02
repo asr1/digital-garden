@@ -12,7 +12,6 @@
 [[Misc/Cost Disease\|Cost Disease]]
 [[Misc/Sperm Count Decline\|Decline of Sperm Count]]
 [[Misc/Fun Facts\|Fun Facts]]
-[[Misc/Gruvbox Colors\|Gruvbox Colors]]
 [[Misc/J Letter\|J Letter]]
 [[Misc/Jokes\|Jokes]]
 [[Misc/Licensing VS DRM\|Licensing VS DRM]]
