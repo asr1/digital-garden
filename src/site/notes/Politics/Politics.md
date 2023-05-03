@@ -31,6 +31,7 @@
 * [[Politics/Distributing the gold\|Distributing the gold]]
 * [[Politics/Dwarf Fortress Economy\|Dwarf Fortress Economy]]
 * [[Politics/How Dwarf Fortress Abandoned Capitalism and embraced Communism\|How Dwarf Fortress Abandoned Capitalism and embraced Communism]]
+* [[Politics/Inflating Numbers\|Inflating Numbers]]
 * [[Politics/Why do we jail\|Jail]]
 * [[Politics/Libertarianism\|Libertarianism]]
 * [[Politics/Means Testing Is Stupid\|Means Testing Is Stupid]]
