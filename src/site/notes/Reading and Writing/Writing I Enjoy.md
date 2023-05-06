@@ -155,3 +155,10 @@ We're just some tattered rags stained forever
 We only have what we remember
 
 ## Much of #penny-arcade
+
+
+## Phrases I like 
+
+How did you get here?
+I just stuck out my thumb
+
