@@ -87,5 +87,11 @@ Going into this book, my thoughts on [[Thoughts/Categorization\|categories]] is 
 
 > Barsalou has studied what he calls "ad hoc categories" — categories that are not conventional or fixed, but rather are made up on the fly for some immediate purpose. Such categories must be constructed on the basis of one's cognitive models of the subject matter under consideration. ==Examples of such categories are things to take from one's home during a fire, what to get for a birthday present, what to do for entertainment on a weekend, etc==. Barsalou observes that such categories have prototype structure-structure that does not exist in advance, since the category is not conventional and does not exist in advance. Barsalou argues that in such cases, the nature category is principally determined by goals and that such goal structure is a function of one's cognitive models
 
+## Neutralization
+
+Some words are neutral, like how `boy` is unmarked and singular, but plurals (`boys`) are marked by an s. Simple form is marked (or in this case *not* marked) by the simple structure.
+
+> Neutralization of contrasts can also occur in semantics. Consider contrasts like tall-short, happy-sad, etc. These pairs are not completely symmetric. ==For example, if one asks How tall is Harry? one is not suggesting that Harry is tall, but if one asks How short is Harry? one is suggesting that Harry is short==. Only one member of the pair tall-short can be used with a neutral meaning, namely, tall. Since it occurs in cases where the contrast is neutralized, tall is referred to as the "unmarked" member of the tall-short contrast set. Correspondingly, it is assumed that tallness is cognitively more basic than shortness and the word marking the cognitively basic dimension occurs in neutral contexts
+
 ## See Also
 [[Thoughts/Categorization\|Categorization]]
