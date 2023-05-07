@@ -93,5 +93,31 @@ Some words are neutral, like how `boy` is unmarked and singular, but plurals (`b
 
 > Neutralization of contrasts can also occur in semantics. Consider contrasts like tall-short, happy-sad, etc. These pairs are not completely symmetric. ==For example, if one asks How tall is Harry? one is not suggesting that Harry is tall, but if one asks How short is Harry? one is suggesting that Harry is short==. Only one member of the pair tall-short can be used with a neutral meaning, namely, tall. Since it occurs in cases where the contrast is neutralized, tall is referred to as the "unmarked" member of the tall-short contrast set. Correspondingly, it is assumed that tallness is cognitively more basic than shortness and the word marking the cognitively basic dimension occurs in neutral contexts
 
+## Models
+
+There are many different models and structures. They include
+
+### Radial Structure
+At the center of this is the "Mother", our typical mother is a female birth mother who gave half of the child's genes, cares for the child, is married to the father, is the legal guardian, and so on.
+
+But we can deviate from that by changing variables, radiating outward:
+
+Stepmother didn't give birth or supply genes, but is married to the father, and may nurture.
+
+Adoptive mother is the legal guardian and nurtures
+
+Birth mother gave birth but does not nurture
+
+Biological mother gave birth, but someone else is "more motherly".
+
+Surrogate mother, foster mother, unwed mother, genetic mother (donor) and so on.
+
+### Models and usages
+
+Different models are useful in different states. For example, a working mother is a mother (by nurture) who works outside the home. A stepmom can be a working mother, but a birth mother who gives up her child cannot be. 
+
+This is because "working mother" uses the "nurture" model of mother, rather than some of the others (e.g. biological).
+
+
 ## See Also
 [[Thoughts/Categorization\|Categorization]]
