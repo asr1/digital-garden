@@ -27,6 +27,22 @@ I would be on board for this "revolution" if it meant people could work less, if
 There is a story regarding the French arrival in Cambodia. It goes that the French first came and introduced commercial fertilizer to the farmers in the rural country. They demonstrated that with this technology it was possible to grow twice as many crops. A year later, when they returned the French expected to find a community that was producing double the crops, most likely so they could begin the process of colonial exploitation under the guise of trade. But instead they found the same amount of crops as the year before. The French asked the farmers why they didn't use the fertilizer. The farmers stated that they did, and emphasized how nice it was to be able to grow the same amount of crops (enough to sustain the local population comfortably) with only needing to do HALF the work. That is the difference here. It is not "human nature", it is the result of a cult of consumerism.
 
 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading-and-writing/quotes/#john-adams" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## John Adams
+
+> I must study Politicks and War that my sons may have liberty to study Painting and Poetry Mathematicks and Philosophy. My sons ought to study Mathematicks and Philosophy, Geography, natural History, Naval Architecture, navigation, Commerce and Agriculture, in order to give their Children a right to study Painting, Poetry, Musick, Architecture, Statuary, Tapestry and Porcelaine..
+> – Letter to his wife Abigail
+
+This is often quoted as "I must be a politician so my son can be a farmer so that his son can be an artist."
+
+
+</div></div>
+
+
+
 </div></div>
 
 [[Misc/J Letter\|J Letter]]:
