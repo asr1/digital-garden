@@ -7,7 +7,7 @@ For four years in high school, I performed group improv. I remember only a littl
 
 ## Aside
 
-Once, in college, I met a woman during a [[Blood moon\|Blood moon]]. She told me she had a biblical name and wanted me to guess it. Told me it was old testament. I was drawing a blank, but suggested "Uh, the whale that ate Jonah?"
+Once, in college, I met a woman during a [[Misc/Blood moon\|Blood moon]]. She told me she had a biblical name and wanted me to guess it. Told me it was old testament. I was drawing a blank, but suggested "Uh, the whale that ate Jonah?"
 
 "Yes, my parents named me after the whale that ate Jonah, you got it."
 
