@@ -84,3 +84,16 @@ The point is clear: as a religion, agree about the essential things, let people 
 ## Vonnegut's Rule
 > # “Hello babies. Welcome to Earth. It's hot in the summer and cold in the winter. It's round and wet and crowded. On the outside, babies, you've got a hundred years here. There's only one rule that I know of, babies-"God damn it, you've got to be kind.”
 >  – Kurt Vonnegut
+
+
+## John Adams
+
+> I must study Politicks and War that my sons may have liberty to study Painting and Poetry Mathematicks and Philosophy. My sons ought to study Mathematicks and Philosophy, Geography, natural History, Naval Architecture, navigation, Commerce and Agriculture, in order to give their Children a right to study Painting, Poetry, Musick, Architecture, Statuary, Tapestry and Porcelaine..
+> – Letter to his wife Abigail
+
+This is often quoted as "I must be a politician so my son can be a farmer so that his son can be an artist."
+
+## Deathbed reflection
+
+> “Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.”
+> – Attributed to Mark Twain
