@@ -40,7 +40,7 @@ A good friend had a professor who claimed that only 7 people had read Ulysses, a
 
 Ulysses was a landmark case in the US. It meant that you could write about things that were taboo. I don't think it's hyperbole to say that without Ulysses, we wouldn't have Family Guy. And maybe you cheer at that, no great loss to society! But that's not the point. It's not about the specific Family Guy or South Park, it's about the water around us. 
 
-We're more secular than we were when Ulysses came out, and that makes it hard to read. But it also opened the gate to publish things that — while not intended to titulate — contained vulgar or blasphemous thoughts. And the more you're exposed to blasphemy, the less poignant it gets. Things dull. You get desensitized. You're riding the [[Hedonic Treadmill\|Hedonic Treadmill]] of propriety.
+We're more secular than we were when Ulysses came out, and that makes it hard to read. But it also opened the gate to publish things that — while not intended to titulate — contained vulgar or blasphemous thoughts. And the more you're exposed to blasphemy, the less poignant it gets. Things dull. You get desensitized. You're riding the [[Misc/Hedonic Treadmill\|Hedonic Treadmill]] of propriety.
 
 
 ## See Also
