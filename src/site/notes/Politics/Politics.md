@@ -37,7 +37,7 @@
 * [[Politics/Means Testing Is Stupid\|Means Testing Is Stupid]]
 * [[Politics/MoneyLite\|MoneyLite]]
 * [[Politics/Moral Stupefaction\|Moral Stupefaction]]
-* [[Nuclear Energy\|Nuclear Energy]]
+* [[img/Nuclear Energy\|Nuclear Energy]]
 * [[Politics/Nuclear Proliferation\|Nuclear Proliferation]]
 * [[Politics/Personal Pronouns\|Personal Pronouns]]
 * #religion 
