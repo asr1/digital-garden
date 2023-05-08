@@ -90,4 +90,4 @@ From: https://slatestarcodex.com/2018/07/18/the-whole-city-is-center/ The Whole 
 *And so on*
 
 ## See Also
-[[Women Fire And Dangerous Things\|Women Fire And Dangerous Things]]
+[[Reading and Writing/Women Fire And Dangerous Things\|Women Fire And Dangerous Things]]
