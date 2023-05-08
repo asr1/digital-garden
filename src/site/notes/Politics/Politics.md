@@ -28,6 +28,7 @@
 * [[Politics/Capitalism\|Capitalism]]
 * [[Consumerism\|Consumerism]]
 * [[Politics/Why Are the Prices So Damn High\|Cost Disease]]
+* [[Politics/Decoupling the Military Industrial Complex\|Decoupling the Military Industrial Complex]]
 * [[Politics/Distributing the gold\|Distributing the gold]]
 * [[Politics/Dwarf Fortress Economy\|Dwarf Fortress Economy]]
 * [[Politics/How Dwarf Fortress Abandoned Capitalism and embraced Communism\|How Dwarf Fortress Abandoned Capitalism and embraced Communism]]
