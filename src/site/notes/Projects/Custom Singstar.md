@@ -120,7 +120,7 @@ Time to return to that German tool.  It patches custom songs into a (German) ver
 
 So we have our custom iso... Let's take a look! ... Well, it works. But of course it's entirely in German.
 
-![German Singstar Cropped.png](/img/user/German%20Singstar%20Cropped.png)
+![German Singstar Cropped.png](/img/user/img/German%20Singstar%20Cropped.png)
 
 But this is still going off of USB, which means I can't get my microphones to work at the same time!
 
