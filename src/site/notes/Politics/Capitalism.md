@@ -175,5 +175,5 @@ This Tom #McHenry comic (excerpt from Platform):
 Because it's expensive to hire an artisan, a laborer, and it only costs a few pennies to extrude aluminum. Costs win.
 
 
-
+[[Politics/Distributing the gold\|Distributing the gold]]]
 
