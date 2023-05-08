@@ -80,7 +80,7 @@ But it turns out there's two ways to make compliance. By blending, or by buying 
 
 Buying credits is generally rather silly. You pay someone else who promises to make less carbon and in exchange you get to make more. It's a shell game, and extremely common in all eco-fields. It's where much of Tesla's revenue comes from.
 
-One gallon of ethanol gives you one credit (called a RIN ("Renewable Identification Number"). But there's a problem: "These refiners have reported paying more for RINs than all of their other operational costs combined, including payroll, utilities, and maintenance," Uh-oh!
+One gallon of ethanol gives you one credit (called a RIN ("Renewable Identification Number"). But there's a problem: "These refiners have reported paying more for RINs than all of their other operational costs combined, including payroll, utilities, and maintenance,"  !
 
 The price of credits increased 1200% (!) from 2020-2022. Which means it's not longer profitable to buy credits. So refineries have a choice: stop being compliant, or start actually blending. Naturally, they push for lower blending requirements so they can keep as usual.
 
