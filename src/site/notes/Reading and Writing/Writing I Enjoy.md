@@ -162,3 +162,7 @@ We only have what we remember
 How did you get here?
 I just stuck out my thumb
 
+
+## Sam Kriss
+> Charles likes helicopters. It might be the only thing he has in common with his family: they’re all helicopter pilots. Rescue pilots, military pilots. It’s chivalry again. The armoured knights of the atomic age.
+> ([source](https://samkriss.substack.com/p/in-englands-dreaming))
