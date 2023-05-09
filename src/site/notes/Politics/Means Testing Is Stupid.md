@@ -3,6 +3,8 @@
 ---
 
 
+# Means Testing Is Stupid
+
 Means testing is stupid.
 
 Means testing is when we have a government benefit for poor people (stimulus checks, student loan forgiveness, food stamps, what have you), and we want to make sure that the recipients are poor enough to qualify.
