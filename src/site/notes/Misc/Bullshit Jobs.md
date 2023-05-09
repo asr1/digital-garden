@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/misc/bullshit-jobs/","tags":["politics","economics","capitalism"],"noteIcon":1}
 ---
 
+# Bullshit Jobs
 
 A bullshit job is a concept created by David Graebner (1961 – 2020), who later wrote a book about it. 
 
