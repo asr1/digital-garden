@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/misc/productivity/","tags":["Wisdom-of-the-ancients","widgets","capitalism"],"noteIcon":1}
 ---
 
+# Productivity
 
 *Note:* In progress, but referenced elsewhere often enough that I published early.
 
