@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-and-design/vfx-and-visual-effects-in-games/","tags":["games","design"],"noteIcon":1}
+{"dg-publish":true,"permalink":"/art-and-design/vfx-and-visual-effects-in-games/","tags":["games","design","talks","gdc","game-design"],"noteIcon":1}
 ---
 
 # VFX and Visual Effects in Games
