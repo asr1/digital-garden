@@ -13,6 +13,8 @@ Here are notes from various talks, conferences, MasterClasses, trainings, and th
 
 ## Panels
 
+[[How to Pitch A Board Game To A Publisher\|How to Pitch A Board Game To A Publisher]]
+
 ### Nerdcon 2016
 
 [[Talks/Finding Your Voice\|Finding Your Voice]]
