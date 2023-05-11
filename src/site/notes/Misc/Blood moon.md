@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/blood-moon/","tags":["misc"],"noteIcon":1}
+{"dg-publish":true,"permalink":"/misc/blood-moon/","tags":["misc","story"],"noteIcon":1}
 ---
 
 
