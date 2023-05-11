@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/improv/","tags":["misc","story","rpgs"],"noteIcon":1}
+{"dg-publish":true,"permalink":"/misc/improv/","tags":["misc","story","rpg"],"noteIcon":1}
 ---
 
 
