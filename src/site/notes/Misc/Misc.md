@@ -23,6 +23,7 @@
 [[Misc/The Monkeys and the Ladder\|The Monkeys and the Ladder]]
 [[Misc/Motivation\|Motivation]]
 [[Misc/Nuclear warning symbols\|Nuclear warning symbols]]
+[[Art and Design/Practical Creativity\|Practical Creativity]]
 [[Misc/Productivity\|Productivity]]
 [[Misc/Self-taught\|Self-taught]]
 [[Misc/Today You, Tomorrow Me\|Today You, Tomorrow Me]]
