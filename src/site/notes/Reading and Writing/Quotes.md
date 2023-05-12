@@ -97,3 +97,8 @@ This is often quoted as "I must be a politician so my son can be a farmer so tha
 
 > “Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.”
 > – Attributed to Mark Twain
+
+## Buying Time
+
+> Too often we confuse buying a book with buying the time to read it.
+> — unknown
