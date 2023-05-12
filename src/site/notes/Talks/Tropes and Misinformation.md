@@ -182,7 +182,7 @@ Jeff: That's the kind of richness I'm talking about. It's not about corn dogs, i
 
 Mod: a lot of people have blind spots about their own cultures. If I complained about a box, I never understood why my husband wouldn't get it.
 
-=="My mom would say there's a bag of apples on the couther in the kitchen and I'd say okay I'll have a pie ready for dinner and my husband would say "Wasn't she just offering an apple?"==
+=="My mom would say there's a bag of apples on the couther in the kitchen and I'd say okay I'll have a pie ready for dinner and my husband would say "Wasn't she just offering an apple?"== (see also [[Politics and Culture/Culture/Ask Culture vs Guess Culture\|Ask Culture vs Guess Culture]])
 
 Maggie: blah blah humanity.
 
