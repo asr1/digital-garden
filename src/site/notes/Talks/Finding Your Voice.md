@@ -3,6 +3,8 @@
 ---
 
 
+## Sotto Voce: Finding Your Voice
+
 This was a panel at #Nerdcon 2016.
 
 Rives (pronounced Reeves) (Moderator), Raghav Mehta, Wesley Chu, Patricia Wheeler, Rachel Kann, Sandeep Parikh
