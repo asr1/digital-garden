@@ -40,7 +40,7 @@ Rachel continues:
 >... Keep trying to feel back your truth, is it blue or is it turquoise
 
 
-Sandeep suggests [[Misc/Improv\|Improv]]. You don't have time to think, you aren't thinking. You're at your best when you're just expressing and that changed my worldview. Don't think, just do.
+Sandeep suggests [[Misc/Personal and Stories/Improv\|Improv]]. You don't have time to think, you aren't thinking. You're at your best when you're just expressing and that changed my worldview. Don't think, just do.
 
 The rules of improv are the rules of good conversation and good ... in life.
 	Building a scene and saying yes and facing your partner.
