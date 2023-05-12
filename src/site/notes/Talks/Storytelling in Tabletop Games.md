@@ -135,7 +135,7 @@ Karren: only done art on wizards and by the end I was hating hank green and tryi
 
 Michael: I adored a game of Dogs in the Vineyard which is a focused RPG where you play a holy arbiter teenager in a wild west that didn't exist with a fake religion hormonal teenager to send them around to be arbiters to strangers and the game encourages you to create screwed up characters and I was reasonable and a player was the zealot who wanted to get us killed and it was the best campaign I was ever in because everything escalates.
 
-Its all escalation and it sounds.. interesting.
+*2016 note (before I was aware of Dogs): It's all escalation and it sounds.. interesting.*
 
 (The tower is rebuilt)
 
