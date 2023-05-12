@@ -38,7 +38,7 @@ I worry that people don’t appreciate how weird this is. I didn’t appreciate 
 ### What about technology?
 And this is especially strange because we expect that improving technology and globalization ought to cut costs. In 1983, the first mobile phone cost $4,000 – about $10,000 in today’s dollars. It was also a gigantic piece of crap. Today you can get a much better phone for $100. This is the right and proper way of the universe. It’s why we fund scientists, and pay businesspeople the big bucks.
 
-See also [[Misc/J Letter\|J Letter]]
+See also [[Misc/Personal and Stories/J Letter\|J Letter]]
 
 ## See Also
 [Scott Alexander on the same](https://slatestarcodex.com/2017/02/09/considerations-on-cost-disease/)
@@ -46,8 +46,8 @@ See also [[Misc/J Letter\|J Letter]]
 [Scott Alexander on the Amish Healthcare System](https://slatestarcodex.com/2020/04/20/the-amish-health-care-system/) 
 > Amish people spend only a fifth as much as you do on health care, and their health is fine. What can we learn from them?
 
-[[Politics/Why Are the Prices So Damn High\|Why Are the Prices So Damn High]]
-[[Politics/Capitalism\|Capitalism]]
+[[Politics and Culture/Capital-P Politics/Why Are the Prices So Damn High\|Why Are the Prices So Damn High]]
+[[Politics and Culture/Capital-P Politics/Capitalism\|Capitalism]]
 [[Thoughts/The Price of College Education\|The Price of College Education]]
 [[Misc/Build It For Life\|Build It For Life]]
 [[Misc/Productivity\|Productivity]]
