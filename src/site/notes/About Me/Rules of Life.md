@@ -11,4 +11,4 @@ If you make an enemy for making something authentic, that person was never going
 
 ## See Also
 [[Reading and Writing/Quotes#Vonnegut's Rule\|Quotes#Vonnegut's Rule]]
-[[Misc/Today You, Tomorrow Me\|Today You, Tomorrow Me]]
+[[Misc/Personal and Stories/Today You, Tomorrow Me\|Today You, Tomorrow Me]]
