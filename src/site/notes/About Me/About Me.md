@@ -45,4 +45,4 @@ I am on [Twitter] (https://twitter.com/alexrinehart_)
 [[About Me/What gives life meaning\|What gives life meaning]]
 [[Projects/Project Beliefs\|Project Beliefs]]
 
-Other beliefs: [[Politics/The Worst Thing You Did At 16\|The Worst Thing You Did At 16]]
+Other beliefs: [[Politics and Culture/The Worst Thing You Did At 16\|The Worst Thing You Did At 16]]
