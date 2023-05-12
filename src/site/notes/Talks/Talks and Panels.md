@@ -13,10 +13,17 @@ Here are notes from various talks, conferences, MasterClasses, trainings, and th
 
 ## Panels
 
-[[How to Pitch A Board Game To A Publisher\|How to Pitch A Board Game To A Publisher]]
+[[Talks/How to Pitch A Board Game To A Publisher\|How to Pitch A Board Game To A Publisher]]
 
-### Nerdcon 2016
+### Nerdcon
 
+#### Nerdcon 2015
+[[Talks/Embettering Your Craft\|Embettering Your Craft]]
+[[Talks/The Moral Responsibility of the Storyteller\|The Moral Responsibility of the Storyteller]]
+[[Talks/Sex Scenes\|Sex Scenes]]
+[[Talks/Tropes and Misinformation\|Tropes and Misinformation]]
+
+#### Nerdcon 2016
 [[Talks/Finding Your Voice\|Finding Your Voice]]
 [[Talks/Running a Game\|Running a Game]]
 [[Talks/Self Promotion\|Self Promotion]]
