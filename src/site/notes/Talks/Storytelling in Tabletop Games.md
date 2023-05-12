@@ -164,7 +164,7 @@ Jonathan: there are good stories starring superman, there are situations you can
 
 Kristen: if you want to watch me play Jenga later, I'm playing Dread later
 
-Jonathan: did we just scribble all over the dread Jenga?
+Jonathan: did we just scribble all over the Dread Jenga?
 
 
 ----
