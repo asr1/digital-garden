@@ -13,7 +13,7 @@ Instead, two things will happen. First, people will be laid off. Why hire a cont
 
 Second, those who aren't laid off will be expected to take on more and more. Just like how the cotton gin expanded slavery, or how the Cambodians didn't [[Misc/Productivity#Cambodian Fertilizer\|double their yield]]. We (in America) won't be the Cambodians, we'll be setting our baseline higher and higher, expecting more from people, since now they can write a story in seconds instead of hours.
 
-I would be on board for this "revolution" if it meant people could work less, if we could pay for people to support living instead of working. But the combination of [[Politics/Capitalism\|Capitalism]] and [[Consumerism\|Consumerism]] means that I remain skeptical.
+I would be on board for this "revolution" if it meant people could work less, if we could pay for people to support living instead of working. But the combination of [[Politics and Culture/Capital-P Politics/Capitalism\|Capitalism]] and [[Politics and Culture/Culture/Consumerism\|Consumerism]] means that I remain skeptical.
 
 ## See Also
 
@@ -45,10 +45,10 @@ This is often quoted as "I must be a politician so my son can be a farmer so tha
 
 </div></div>
 
-[[Misc/J Letter\|J Letter]]:
+[[Misc/Personal and Stories/J Letter\|J Letter]]:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/misc/j-letter/#3-productivity" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/misc/personal-and-stories/j-letter/#3-productivity" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -87,7 +87,7 @@ We can't tell real from fake and don't care to. Evident in porn addictions, the 
 No, I'm not talking about SkyNet. I'm talking about how right now you can go and download an app[8] that — after hearing you speak for 15 seconds will perfectly emulate your voice. Add video, and it will sync your mouth to the sounds as well. Almost indistinguishable from the real thing. You can download[9] a different app[10] that will take a photo of a woman [11] and it will strip away her clothes and present (its version of) her naked body. Another app in VR will do the same thing in real time[12]. This is the future. This is the present. This is software.  
 
 ### 3.  **Productivity**. 
-Funny thing about productivity. The more of it we have, the more the goal moves. You ever hear the one about the [[Misc/Mexican fisher\|Mexican fisher]]? He goes out every day, catches 5 fish in an hour, comes home, makes lunch, and reads and sleeps the rest of the day. An American businessman sees this and says woah! If you can catch 5 fish an hour, you can work 10 hour days, sell 45 fish, use that money to buy more boats. Soon you can employ 10 people, then 100.. you'll have a whole fleet of boats and workers. "To what end?" Asks the Mexican man. "Well you work hard for 40 years at this, then you get to retire!" "Then what?" "Well that's the best part -- then you can spend your days sleeping and reading!"  
+Funny thing about productivity. The more of it we have, the more the goal moves. You ever hear the one about the [[Misc/Personal and Stories/Mexican fisher\|Mexican fisher]]? He goes out every day, catches 5 fish in an hour, comes home, makes lunch, and reads and sleeps the rest of the day. An American businessman sees this and says woah! If you can catch 5 fish an hour, you can work 10 hour days, sell 45 fish, use that money to buy more boats. Soon you can employ 10 people, then 100.. you'll have a whole fleet of boats and workers. "To what end?" Asks the Mexican man. "Well you work hard for 40 years at this, then you get to retire!" "Then what?" "Well that's the best part -- then you can spend your days sleeping and reading!"  
 
 When we learn how to go from making 10 widgets a day to 10 widgets an hour, we don't work 1-hour days. We're now expected to make as many widgets each day as we were making in a week. Every improvement to productivity just moves the goal posts further up. Every piece of technology that makes your life easier just makes the expectation that much harder. College is the same way — once only the elite went. Now everyone goes. It's easier now. More expensive. But the easier it gets, the worse you look for not having gone. People used to not finish high school. It goes on and on. I suspect happiness works in a similar way[13], but this letter is long[14] enough.  
 
