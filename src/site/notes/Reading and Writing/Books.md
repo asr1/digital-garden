@@ -21,8 +21,8 @@ Don Norman's [[Reading and Writing/The Design of Everyday Things\|The Design of 
 [[Reading and Writing/Women Fire And Dangerous Things\|Women Fire And Dangerous Things]]
 
 ## Takeaways from books I have not read
-[[Politics/Moral Stupefaction\|Moral Stupefaction]] from Jonathan Haidt's A Righteous Mind
-[[Politics/Why Are the Prices So Damn High\|Why Are the Prices So Damn High]] by Alex Taborrok and Eric Helland
+[[Politics and Culture/Capital-P Politics/Moral Stupefaction\|Moral Stupefaction]] from Jonathan Haidt's A Righteous Mind
+[[Politics and Culture/Capital-P Politics/Why Are the Prices So Damn High\|Why Are the Prices So Damn High]] by Alex Taborrok and Eric Helland
 [[Reading and Writing/Zero To One\|Zero To One]]
 
 ## Bloggers I follow
