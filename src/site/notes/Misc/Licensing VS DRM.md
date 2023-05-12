@@ -13,7 +13,7 @@ The argument against goes something like this: DRM makes a barrier for good, hon
 
 I don't believe that. Even a physical lock only keeps honest folk honest. It's a sign that you don't want them in your backyard, not the end-all-be-all measure against them getting there. Picking a lock isn't terribly hard. Circumventing one is even easier.
 
-So how does an artist get paid in a world with no DRM? They get paid by honest folk. Steam and iTunes (both platforms with DRM, I should add) both showed that software isn't unattainable. When you have affordable, accessible software, people buy it! Any song for 99¢? Hell yeah! Games going on sale for dirt cheap? Steam backlogs longer than a lifespan are a common pattern for PC gamers! And sure, some of that ties into [[Consumerism\|Consumerism]], but that's a different argument entirely.
+So how does an artist get paid in a world with no DRM? They get paid by honest folk. Steam and iTunes (both platforms with DRM, I should add) both showed that software isn't unattainable. When you have affordable, accessible software, people buy it! Any song for 99¢? Hell yeah! Games going on sale for dirt cheap? Steam backlogs longer than a lifespan are a common pattern for PC gamers! And sure, some of that ties into [[Politics and Culture/Culture/Consumerism\|Consumerism]], but that's a different argument entirely.
 
 What I'm saying is this: if you put out cheap software and make it accessible for people, they will support it. When they can't legally, easily, or affordably get that software, they stop supporting it and turn to piracy. I personally once bought five copies of Sentinels of the Multiverse on Steam because they were less than a dollar a piece. I knew I'd give them to friends eventually. 
 
@@ -27,7 +27,7 @@ That was a bit of a tangent. If you license your artwork and it's easy and affor
 
 My argument is mostly that those people aren't your customers. They were never going to buy your music anyway.
 
-There are people who download an album or two a year. They might buy your music! Then there are people who download gigabytes of music every day. They aren't interested in your music, they're interested in owning the music. It's not personal. It's [[Consumerism\|Consumerism]].
+There are people who download an album or two a year. They might buy your music! Then there are people who download gigabytes of music every day. They aren't interested in your music, they're interested in owning the music. It's not personal. It's [[Politics and Culture/Culture/Consumerism\|Consumerism]].
 
 There are studies that show that pirates are [more likely to spend money on music](https://torrentfreak.com/pirates-spend-much-more-money-on-music-study-shows-160226/) compared to non-pirates. It seems counter intuitive! But think about it: the people who steal music are the people who *really like music!*
 
