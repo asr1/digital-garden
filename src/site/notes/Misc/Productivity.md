@@ -12,7 +12,7 @@ In 1930, economist John Maynard Keynes [predicted](https://www.theguardian.com/
 * The cotton gin expanded slavery, not reduced it.
 
 
-Productivity has increased, but instead of being expected to work less, we're expected to make more. See also [[Politics/Capitalism\|Capitalism]]
+Productivity has increased, but instead of being expected to work less, we're expected to make more. See also [[Politics and Culture/Capital-P Politics/Capitalism\|Capitalism]]
 
 ![Productivity over time.png](/img/user/img/Productivity%20over%20time.png)
 
@@ -41,7 +41,7 @@ The theory of it goes something like this. Suppose you work at the widget factor
 
 Now one day you, clever as you are, find some way to make a widget twice as fast. Now you can make two widgets an hour. Boy howdy, you can go and work 5 hours a day, get more time with your family, and the factory is just as productive.
 
-Not so! Suddenly the expectations change. Now you're expected to make 20 widgets a day, and that has you continue to work for 10 hours. It's the [[Misc/Hedonic Treadmill\|Hedonic Treadmill]] of productivity.
+Not so! Suddenly the expectations change. Now you're expected to make 20 widgets a day, and that has you continue to work for 10 hours. It's the [[Misc/Interesting/Hedonic Treadmill\|Hedonic Treadmill]] of productivity.
 
 ## Towards a Leisure Ethic
 ([source](https://hedgehogreview.com/issues/by-theory-possessed/articles/toward-a-leisure-ethic))
@@ -67,7 +67,7 @@ Not so! Suddenly the expectations change. Now you're expected to make 20 widgets
 
 > Only about a third of employees in the United States—and just 20 percent globally—feel “engaged at work.”
 
-(See also [[Misc/Bullshit Jobs\|Bullshit Jobs]])
+(See also [[Politics and Culture/Culture/Bullshit Jobs\|Bullshit Jobs]])
 
 >  Set aside those fortunate few who truly love what they do. For most people, it is rather disappointing to think that one’s purpose in life is to participate in marginal improvements to already high standards of living, or to “make a better mousetrap.” And many jobs cannot even be said to be doing that.
 
@@ -90,7 +90,7 @@ Not so! Suddenly the expectations change. Now you're expected to make 20 widgets
 
 > Critical theorist Erich Fromm observed that the postindustrial West’s “kind of ‘pursuit of happiness’ does not produce well-being,” because it is dominated by an attitude of “having” rather than “being.” Someone in the “having mode” who comes across a striking flower immediately wants to pick it, to possess it (or, in a digital context, to Instagram it or mint it as a nonfungible token), whereas someone in the “being mode” is able simply to enjoy the experience, free from the pangs of acquisitive desire.
 
-See also [[Misc/Hedonic Treadmill\|Hedonic Treadmill]]
+See also [[Misc/Interesting/Hedonic Treadmill\|Hedonic Treadmill]]
 
 ### We form ourselves to fit a mold
 
@@ -111,6 +111,7 @@ See also
 > “Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.”
 > – Attributed to Mark Twain
 
+
 </div></div>
 
 
@@ -121,7 +122,7 @@ See also
 ## See Also
 
 [Toward a Leisure Ethic](https://hedgehogreview.com/issues/by-theory-possessed/articles/toward-a-leisure-ethic)
-[[Misc/Mexican fisher\|Mexican fisher]]
-[[Misc/J Letter\|J Letter]]
-[[Misc/Bullshit Jobs\|Bullshit Jobs]]
-[[Misc/Hedonic Treadmill\|Hedonic Treadmill]]
+[[Misc/Personal and Stories/Mexican fisher\|Mexican fisher]]
+[[Misc/Personal and Stories/J Letter\|J Letter]]
+[[Politics and Culture/Culture/Bullshit Jobs\|Bullshit Jobs]]
+[[Misc/Interesting/Hedonic Treadmill\|Hedonic Treadmill]]
