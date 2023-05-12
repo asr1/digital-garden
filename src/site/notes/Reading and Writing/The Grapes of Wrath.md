@@ -250,6 +250,6 @@ It's hard reading this in 2023 without drawing parallels to AI art. This book bo
 Steinbeck's rage and righteous fury shine through his prose. I think I've written more quotes from this book than any other.
 
 ## See Also
-[[Politics/Capitalism\|Capitalism]]
+[[Politics and Culture/Capital-P Politics/Capitalism\|Capitalism]]
 [[Reading and Writing/Moloch\|Moloch]]
 
