@@ -36,5 +36,5 @@ Or maybe it's known for Bloomsday, the holiday where people in Ireland trace Blo
 Or for recreating the Odyssey in "modern" times.
 
 ## See Also
-[[Politics/Taboo\|Taboo]]
+[[Politics and Culture/Culture/Taboo\|Taboo]]
 [The Full Stop At The End of Itcaca](https://www.jstor.org/stable/26283658)
