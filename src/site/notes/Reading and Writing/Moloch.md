@@ -5,7 +5,7 @@
 
 # Moloch
 
-Scott Alexander has a [blog post](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) about Allen Ginsberg poem Howl. Moloch is the personification of [[Politics/Capitalism\|Capitalism]], of machines bigger than any human. I think of the quote from [[Reading and Writing/The Grapes of Wrath\|The Grapes of Wrath]]:
+Scott Alexander has a [blog post](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) about Allen Ginsberg poem Howl. Moloch is the personification of [[Politics and Culture/Capital-P Politics/Capitalism\|Capitalism]], of machines bigger than any human. I think of the quote from [[Reading and Writing/The Grapes of Wrath\|The Grapes of Wrath]]:
 
 > It happens that every man in a bank hates what the bank does, and yet the bank does it. The bank is something more than men, I tell you. It’s the monster. Men made it, but they can’t control it.
 
