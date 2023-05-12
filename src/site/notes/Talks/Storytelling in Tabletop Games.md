@@ -53,14 +53,14 @@ Michael: I wasn't always dune buggy first (anecdote about ignoring rules for coo
 
 John: talks about fate and admiring zealots--I play simple games with 0 or 1 d6. I have 120 gamescience dice. But I can't hold that many rules in my head I'm an English major but I admire that person who can and im attracted to that. If I roll 6 dice you're going to give me a minute while I figure out how much that is. I like him
 
-Katrina: super crunchy like exalted 3rd edition or pathfinder has an abundance of rules where the numbers on your character sheet overwhelms everything, you're just concerned about the best combination of rules. I don't want to get into a 20 minute grappling check. But I'm not all the way to the other side, like fate or the diceless story games. I want something in the middle where ==I can represent my character with some mechanics that I can customize, but the rules should be a vehicle to get the story out..==
+Katrina: super crunchy like exalted 3rd edition or pathfinder has an abundance of rules where the numbers on your character sheet overwhelms everything, you're just concerned about the best combination of rules. I don't want to get into a 20 minute grappling check. But I'm not all the way to the other side, like fate or the diceless story games. I want something in the middle where ==I can represent my character with some mechanics that I can customize, but the rules should be a vehicle to get the story out.==
 
 I like system that have interposal conflicts modelled very well (she like baron Munchausen style of passing tokens back, but she wants a little more crunch with skill checks)
 
 
 ---
 
-John talks about a system ([Night Witches?](https://bullypulpitgames.com/products/night-witches)) where you are female soviet plane pilots that are decoy fighters for the bombers and you're GOING to get hurt and when I play this game I learn I want to hurt them so I learn them better but my instinct is to protect them I want everyone to come out okay, but I ….better if not everyone comes out okay but NO ONE wants to die but people in my group are ready to die and I think that's interesting because I want to protect the people in my stories. And you don't want to take real damage but it make the story richer, etc.
+John talks about a system ([Night Witches?](https://bullypulpitgames.com/products/night-witches)) where you are female Soviet plane pilots that are decoy fighters for the bombers and you're GOING to get hurt and when I play this game I learn I want to hurt them so I learn them better but my instinct is to protect them I want everyone to come out okay, but I ….better if not everyone comes out okay but NO ONE wants to die but people in my group are ready to die and I think that's interesting because I want to protect the people in my stories. And you don't want to take real damage but it make the story richer, etc.
 
 ## What can we learn from gaming?
 
