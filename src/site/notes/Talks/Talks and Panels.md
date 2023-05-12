@@ -31,4 +31,4 @@ Here are notes from various talks, conferences, MasterClasses, trainings, and th
 [[Talks/Self Promotion\|Self Promotion]]
 [[Talks/Stagecraft\|Stagecraft]]
 [[Talks/Storytelling in Tabletop Games\|Storytelling in Tabletop Games]]
-[[Worldbuilding\|Worldbuilding]]
+[[Talks/Worldbuilding\|Worldbuilding]]
