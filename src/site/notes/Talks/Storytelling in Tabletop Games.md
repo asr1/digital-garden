@@ -106,13 +106,13 @@ Karren: I've never played a game like a cooperative game. We play Mario Kart and
 
 Rapid fire, people wrote questions on Jenga bricks.
 
-**How would you make a game around an rts and how would you make an RTS and how would you make a game around supreme commander?**
+**How would you make a game around an RTS and how would you make an RTS and how would you make a game around supreme commander?**
 
 *2016 note: What the hell is this question?*
 
-Darrin: I love rts, I love Factorio. I would just make senseless…a 3d Factorio
+Darrin: I love RTS, I love Factorio. I would just make senseless…a 3d Factorio
 
-Just ranting about how much life you wasted on fFctorio
+Just ranting about how much life you wasted on Factorio
 
 Senseless stupid things are satisfying from a top-down scale.
 
