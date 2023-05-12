@@ -5,7 +5,7 @@
 
 One of the most important tenants of Judaism is not eating pork. 
 
-It wasn't uncommon for pigs to eat corpses. We didn't always [[Misc/Burials\|bury them so deep]].
+It wasn't uncommon for pigs to eat corpses. We didn't always [[Misc/Interesting/Burials\|bury them so deep]].
 
 What better way to ensure that we don't get diseases from pigs who ate human meat (especially the brain?)
 
@@ -14,7 +14,7 @@ What better way to ensure that we don't get diseases from pigs who ate human mea
 
 Embed it into your religion!
 
-We talked about doing this with the [[Misc/Nuclear warning symbols\|Nuclear warning symbols]], but there's always a risk of [[Misc/The Monkeys and the Ladder\|losing the context]].
+We talked about doing this with the [[Misc/Interesting/Nuclear warning symbols\|Nuclear warning symbols]], but there's always a risk of [[Misc/Personal and Stories/The Monkeys and the Ladder\|losing the context]].
 
 Even if the reason goes away, the prescirption might last.
 
