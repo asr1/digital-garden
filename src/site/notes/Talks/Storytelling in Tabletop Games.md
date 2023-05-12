@@ -30,7 +30,7 @@ Michael: I love that you don't have to follow the rules as long as everyone is h
 
 Karren: I've never played tabletop games, I'm an artist on some game. I play Catan and Risk and I take it too seriously. But I'm a noob.
 
-Darrin: Darrin: 
+Darrin: 
 "I'm old enough I remember when dirt came out. I kickstarted that."
 "We used to play games like don't get eaten by a tiger"
 "I was raised b the church so I legitimately believed that if you played it a demon WOULD COME INTO YOUR HOUE"
