@@ -84,7 +84,7 @@ There's only one way to get good at building a chess board, and that's by making
 ### Related:
 
 [[Misc/Clay Jugs\|Clay Jugs]]
-[[Misc/Lucky 10,000\|Lucky 10,000]]
+[[Misc/Interesting/Lucky 10,000\|Lucky 10,000]]
 
 
 ## Moving the chains
