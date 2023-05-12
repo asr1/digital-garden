@@ -276,7 +276,7 @@ Don't disenfranchise half your players
 ---
 
 Final Q: (not a great question)
-**do any of you play d&d and how was your first time as a dm**
+**Do any of you play d&d and how was your first time as a DM**
 
 Jonathan: I made all the classic mistakes
 Darrin: did you SUMMON A REAL DEMON?
