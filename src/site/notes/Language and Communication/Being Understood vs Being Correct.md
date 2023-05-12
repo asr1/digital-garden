@@ -21,5 +21,5 @@ Just like how you might alter your vocabulary depending on whether you're speaki
 [[Thoughts/Categorization\|Categorization]] — all #models are wrong, some are useful.
 [[Advice/(Skip The) 100 level courses\|(Skip The) 100 level courses]]
 [[Thoughts/Don't Learn From Experts (it's Impossible)\|Don't Learn From Experts (it's Impossible)]]
-[[Politics/Tone Policing\|Tone Policing]]
+[[Politics and Culture/Culture/Tone Policing\|Tone Policing]]
 #communication 
