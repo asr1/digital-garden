@@ -11,7 +11,7 @@ You can also explore the #landing tag to see top-level categories.
 ### [[Art and Design/Art and Design\|Art and Design]]
 ### Game Design
 
-### [[Politics/Politics\|Politics]]
+### [[Politics and Culture/Politics and Culture\|Politics and Culture]]
 
 ## Things I #enjoy
 #### [[Reading and Writing/Books\|Books]]
