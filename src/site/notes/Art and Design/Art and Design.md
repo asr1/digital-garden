@@ -8,7 +8,7 @@
 [[Art and Design/Gruvbox Colors\|Gruvbox Colors]]
 [[Art and Design/Layout\|Layout]]
 [[Art and Design/Practical Creativity\|Practical Creativity]]
-[[Public Domain Art\|Public Domain Art]]
+[[Art and Design/Public Domain Art\|Public Domain Art]]
 [[Art and Design/VFX and Visual Effects in Games\|VFX and Visual Effects in Games]]
 
 ## See Also
