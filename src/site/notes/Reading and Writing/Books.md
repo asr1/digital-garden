@@ -9,21 +9,21 @@ Some of my favorite books include:
 * Idlewild by Nick Sagan
 * Frankenstein by Mary Shelley
 * Eating the Dinosaur by Chuck Klosterman
-* [[Reading and Writing/Name of the Wind\|Name of the Wind]] by Patrick Rothfuss
+* [[Reading and Writing/Books/Name of the Wind\|Name of the Wind]] by Patrick Rothfuss
 
 
 ## Takeaways from some books I've read
-Don Norman's [[Reading and Writing/The Design of Everyday Things\|The Design of Everyday Things]]
-[[Reading and Writing/The Grapes of Wrath\|The Grapes of Wrath]] by John Steinbeck
-[[Reading and Writing/Nonviolent Communication\|Nonviolent Communication]]
-[[Reading and Writing/The Stranger\|The Stranger]]
-[[Reading and Writing/Ulysses\|Ulysses]]
-[[Reading and Writing/Women Fire And Dangerous Things\|Women Fire And Dangerous Things]]
+Don Norman's [[Reading and Writing/Books/The Design of Everyday Things\|The Design of Everyday Things]]
+[[Reading and Writing/Books/The Grapes of Wrath\|The Grapes of Wrath]] by John Steinbeck
+[[Reading and Writing/Books/Nonviolent Communication\|Nonviolent Communication]]
+[[Reading and Writing/Books/The Stranger\|The Stranger]]
+[[Reading and Writing/Books/Ulysses\|Ulysses]]
+[[Reading and Writing/Books/Women Fire And Dangerous Things\|Women Fire And Dangerous Things]]
 
 ## Takeaways from books I have not read
 [[Politics and Culture/Capital-P Politics/Moral Stupefaction\|Moral Stupefaction]] from Jonathan Haidt's A Righteous Mind
 [[Politics and Culture/Capital-P Politics/Why Are the Prices So Damn High\|Why Are the Prices So Damn High]] by Alex Taborrok and Eric Helland
-[[Reading and Writing/Zero To One\|Zero To One]]
+[[Reading and Writing/Books/Zero To One\|Zero To One]]
 
 ## Bloggers I follow
 (ordered roughly by how closely I follow them)
