@@ -77,7 +77,7 @@ Putting in the crappy work will inspire you to do the good work. I don't know wh
 
 Sandeep: (says something similar, about doing the work to get to the good work)
 
-Your mind is working against you. It wants the quick serotonin boost from checking off any mundane task, you're telling your brain you've accomplished things. You need to force your brain not to clean your dishes, to avoid the "yeah, I completed something" feeling, even if it means staring at a blank page for 90 minutes just to do it. Go watch [Open Mind by John Cleese on Youtube](https://www.youtube.com/watch?v=Pb5oIIPO62g). It's just a matter of getting there via discipline.
+Your mind is working against you. It wants the quick serotonin boost from checking off any mundane task, you're telling your brain you've accomplished things. You need to force your brain not to clean your dishes, to avoid the "yeah, I completed something" feeling, even if it means staring at a blank page for 90 minutes just to do it. Go watch [Open Mind by John Cleese on Youtube](https://www.youtube.com/watch?v=Pb5oIIPO62g). (see notes [[Talks/Creativity In Management\|here]]) It's just a matter of getting there via discipline.
 
 *note: I couldn't find a video by that title, but I think this might be the one referred to*
 
