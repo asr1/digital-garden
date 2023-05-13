@@ -33,7 +33,7 @@
 
 
 ## Value statements vs observations
-See also [[Reading and Writing/Nonviolent Communication\|Nonviolent Communication]]
+See also [[Reading and Writing/Books/Nonviolent Communication\|Nonviolent Communication]]
 
 > [!Tip] Takeaway
 > There is a difference between labels and judgments, but some words are strongly loaded to the point where that distinction is unclear.
@@ -90,4 +90,4 @@ From: https://slatestarcodex.com/2018/07/18/the-whole-city-is-center/ The Whole 
 *And so on*
 
 ## See Also
-[[Reading and Writing/Women Fire And Dangerous Things\|Women Fire And Dangerous Things]]
+[[Reading and Writing/Books/Women Fire And Dangerous Things\|Women Fire And Dangerous Things]]
