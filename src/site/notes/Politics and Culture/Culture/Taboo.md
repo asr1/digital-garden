@@ -6,9 +6,9 @@
 
 *This note is really mostly about Ulysses, sorry*
 
-I've read Ulysses and didn't care much for it. You can read my full review of [[Reading and Writing/Ulysses\|Ulysses]] if you want, but right now I'm talking about its influence.
+I've read Ulysses and didn't care much for it. You can read my full review of [[Reading and Writing/Books/Ulysses\|Ulysses]] if you want, but right now I'm talking about its influence.
 
-The opening scene of Ulysses mimics a Catholic communion, in a way that was considered blasphemous at the time. Now, most readers wouldn't blink twice at it. Part of this is the lack of cultural context which I discuss in my [[Reading and Writing/Ulysses\|review]], and part of it is that we are becoming [more secular and less religious](https://www.pewresearch.org/religion/2022/09/13/modeling-the-future-of-religion-in-america/#:~:text=Along%20with%20the%20decline%20in,very%20important%20in%20their%20lives.).
+The opening scene of Ulysses mimics a Catholic communion, in a way that was considered blasphemous at the time. Now, most readers wouldn't blink twice at it. Part of this is the lack of cultural context which I discuss in my [[Reading and Writing/Books/Ulysses\|review]], and part of it is that we are becoming [more secular and less religious](https://www.pewresearch.org/religion/2022/09/13/modeling-the-future-of-religion-in-america/#:~:text=Along%20with%20the%20decline%20in,very%20important%20in%20their%20lives.).
 
 Ulysses is a long, detailed book. The funniest scene of the book discusses a man on a beach masturbating while watching a young girl flash him. He jerks himself off in Joyce's turgid prose to the tune of a fireworks show. Both explode at the same time, you get it. Bloom (the man, and the main character (aside from the chapters from the perspective of Joyce's self-insert Stephen)) is embarrassed when he realizes that the woman he'd been jacking off to is lame.
 
@@ -45,5 +45,5 @@ We're more secular than we were when Ulysses came out, and that makes it hard to
 
 ## See Also
 [[Politics and Culture/The Lightning\|The Lightning]]
-[[Reading and Writing/Ulysses\|Ulysses]]
+[[Reading and Writing/Books/Ulysses\|Ulysses]]
 [The United States v. One Book Called Ulysses](https://en.wikipedia.org/wiki/United_States_v._One_Book_Called_Ulysses) (yes that's the real name of the case)
