@@ -9,7 +9,7 @@ Here's a controversial take:
 
 Not everything needs a secure password. 
 
-I use WhenIsGood to schedule virtual playtests of [[Reading and Writing/Cyberrats\|Cyberrats]] and other Roleplaying games. 
+I use WhenIsGood to schedule virtual playtests of [[Reading and Writing/My Writing/Cyberrats\|Cyberrats]] and other Roleplaying games. 
 
 I used to use SurveyMonkey to store responses about which breakfast cereal mascot would win in a fight.
 
