@@ -8,6 +8,7 @@ Here are notes from various talks, conferences, MasterClasses, trainings, and th
 ## Talks
 
 ### GDC (Game Development Conference)
+[[Talks/Creativity In Management\|Creativity In Management]]
 [[Art and Design/Practical Creativity\|Practical Creativity]]
 [[Art and Design/VFX and Visual Effects in Games\|VFX and Visual Effects in Games]]
 
