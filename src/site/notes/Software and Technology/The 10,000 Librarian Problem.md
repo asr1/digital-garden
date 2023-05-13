@@ -3,7 +3,7 @@
 ---
 
 
-In Patrick Rothfuss's book [[Reading and Writing/Name of the Wind\|Name of the Wind]], he describes a fictional library called the Archives. 
+In Patrick Rothfuss's book [[Reading and Writing/Books/Name of the Wind\|Name of the Wind]], he describes a fictional library called the Archives. 
 
 Every few decades, the master archivist dies, and a new one takes over. This new archivest has a much better plan for re-organizing the library than their predecessor. They immediately set about re-organizing the library.
 
