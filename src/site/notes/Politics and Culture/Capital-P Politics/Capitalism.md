@@ -31,7 +31,7 @@ The argument today is that CEOs or owners or whoever is taking all the risk, so 
 
 I can't find it at the moment, but I once read an #SSC article about how to reward the Jeff Bezos's of the world. Would anyone have made Amazon if he hadn't? Was it bound to happen? Should be be rich, allowed to profit from the massive risk he took, or should he be entirely deprivatized, taken over by the government, and taxed at 100%? 
 
-(*update: the post is [here](https://slatestarcodex.com/2019/01/31/book-review-zero-to-one/) "Online retail came into being because it’s a part of Progress; Jeff Bezos is just some annoying guy who claimed credit and captured the profits. (the obvious counterargument here seems to be that if Jeff Bezos didn’t do the admittedly hard work of creating an online retail giant, somebody else would have, perhaps a little later and a little worse; hundred billion dollar bills don’t lie on the sidewalk literally forever. I’m not sure what Thiel thinks of this; at the very least he might say our society fails to appreciate that _some specific person_ does have to do the work for the work to happen.)"* Longer aside about this post [[Reading and Writing/Zero To One\|here]])
+(*update: the post is [here](https://slatestarcodex.com/2019/01/31/book-review-zero-to-one/) "Online retail came into being because it’s a part of Progress; Jeff Bezos is just some annoying guy who claimed credit and captured the profits. (the obvious counterargument here seems to be that if Jeff Bezos didn’t do the admittedly hard work of creating an online retail giant, somebody else would have, perhaps a little later and a little worse; hundred billion dollar bills don’t lie on the sidewalk literally forever. I’m not sure what Thiel thinks of this; at the very least he might say our society fails to appreciate that _some specific person_ does have to do the work for the work to happen.)"* Longer aside about this post [[Reading and Writing/Books/Zero To One\|here]])
 
 My answer is: let him take his reward. Adobe won capitalism when they figured out that they have the design industry in a stranglehold. They switched from selling software to renting it, doubling down on [[Misc/Licensing VS DRM#Adobe\|DRM]].  This inspired numerous copycats (see Affinity, Photopea, Canva) to start reaching for a piece of that previously (largely) uncontested pie. 
 
@@ -76,7 +76,7 @@ So we give profits in the form of dividends and big CEO paychecks, helping the d
 
 Corps seek profits and they buy machinery to replace people if it's cheaper.
 
-Then the laid off people get desperate and start taking any jobs. [[Reading and Writing/The Grapes of Wrath\|Grapes of Wrath]]: You can't feed a family on 5¢, but 5¢ is better than nothing, so you take the job that gives you no money because you *have* to. You don't have a choice.
+Then the laid off people get desperate and start taking any jobs. [[Reading and Writing/Books/The Grapes of Wrath\|Grapes of Wrath]]: You can't feed a family on 5¢, but 5¢ is better than nothing, so you take the job that gives you no money because you *have* to. You don't have a choice.
 
 This isn't the problem of the corporation anymore, just the fired former employees.
 
@@ -126,7 +126,7 @@ Workers decide if the manager's do a good job.
 The highest paid person cannot make more than 8x the income of the lowest-paid person.
 	Compare to Corporate CEO to low-paid workers in the US is 350:1
 
-We're looking out for ourselves. [[Reading and Writing/The Grapes of Wrath#Cops and self-governance\|Grapes of Wrath self-governance]].
+We're looking out for ourselves. [[Reading and Writing/Books/The Grapes of Wrath#Cops and self-governance\|Grapes of Wrath self-governance]].
 
 Let Americans have *freedom of choice*. They can choose where to buy, where to work.
 
@@ -166,7 +166,7 @@ Therefore United Airlines can sell more than they have, ask the police to beat a
 [[Politics and Culture/Culture/Bullshit Jobs\|Bullshit Jobs]]
 [[Politics and Culture/Capital-P Politics/Dwarf Fortress Economy\|Dwarf Fortress Economy]] and [[Politics and Culture/Capital-P Politics/How Dwarf Fortress Abandoned Capitalism and embraced Communism\|How Dwarf Fortress Abandoned Capitalism and embraced Communism]]
 
-[[Reading and Writing/The Grapes of Wrath\|The Grapes of Wrath]]
+[[Reading and Writing/Books/The Grapes of Wrath\|The Grapes of Wrath]]
 
 This Tom #McHenry comic (excerpt from Platform):
 ![McHenry Platform.png|600](/img/user/img/McHenry%20Platform.png)
