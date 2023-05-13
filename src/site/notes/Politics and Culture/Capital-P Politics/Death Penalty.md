@@ -14,9 +14,9 @@ In America, it costs more to execute someone than it does to keep them in prison
 
 I would ask you "Why would we want to be more efficient at killing people?". That's not a goal *I* have, that does not work towards any of *my* values. 
 
-In [[Reading and Writing/The Grapes of Wrath\|The Grapes of Wrath]], there's a part where Steinbeck points out that organizations (he's talking about banks, but I'll extend to countries) can want things that none of the people who make up that organization want:
+In [[Reading and Writing/Books/The Grapes of Wrath\|The Grapes of Wrath]], there's a part where Steinbeck points out that organizations (he's talking about banks, but I'll extend to countries) can want things that none of the people who make up that organization want:
 
-(See the [[Reading and Writing/The Grapes of Wrath#On owning the land and fighting monsters\|full quote here]]). Some people have taken to calling this force [[Reading and Writing/Moloch\|Moloch]]. I don't want to kill people, and I don't want to facilitate living in an organization that makes that easier.
+(See the [[Reading and Writing/Books/The Grapes of Wrath#On owning the land and fighting monsters\|full quote here]]). Some people have taken to calling this force [[Reading and Writing/Moloch\|Moloch]]. I don't want to kill people, and I don't want to facilitate living in an organization that makes that easier.
 
 ## Deterrence
 
