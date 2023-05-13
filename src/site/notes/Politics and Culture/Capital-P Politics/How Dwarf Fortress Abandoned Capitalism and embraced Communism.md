@@ -36,7 +36,7 @@ Once they go into debt, they can't leave. So they keep accruing debt and remaini
 
 So they are grumpy and depressed, or tantrums, which makes them unable to work (*Ah, here it is!*). 
 
-The dwarves, like people [[Reading and Writing/The Grapes of Wrath\|Want to work]], so they are sad when they cannot.
+The dwarves, like people [[Reading and Writing/Books/The Grapes of Wrath\|Want to work]], so they are sad when they cannot.
 
 At this point the dwarves formed unions(!) called guilds. (*Note:* *At this point ~4.36, the video plays the main theme from Disco Elysium, which is very funny and apt, but also another example of this video being aimed at an in-group.)
 
@@ -91,5 +91,5 @@ Still has nobles, but everyone else produces what they can and consumes what the
 ## See Also
 [[Politics and Culture/Capital-P Politics/Dwarf Fortress Economy\|Dwarf Fortress Economy]]
 [[Politics and Culture/Capital-P Politics/What is Money\|What is Money]]
-[[Reading and Writing/The Grapes of Wrath\|The Grapes of Wrath]]
+[[Reading and Writing/Books/The Grapes of Wrath\|The Grapes of Wrath]]
 [[Universal Basic Income\|Universal Basic Income]]
