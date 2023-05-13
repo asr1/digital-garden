@@ -26,7 +26,7 @@ There's no shame in asking for help or admitting you don't know things. We're al
 I too was born knowing nothing, and have all sorts of wrong and half-thought ideas. I keep some of them here, and prune them as I go.
 
 ### Tone
-I try to practice [[Reading and Writing/Nonviolent Communication\|Nonviolent Communication]] and avoid editorializing. This means instead of saying "SEA-TAC is a bad airport", I will say something like "the last three times I've been to SEA-TAC, I've had to wait more than 90 minutes in the line for security. This does not my needs for autonomy."
+I try to practice [[Reading and Writing/Books/Nonviolent Communication\|Nonviolent Communication]] and avoid editorializing. This means instead of saying "SEA-TAC is a bad airport", I will say something like "the last three times I've been to SEA-TAC, I've had to wait more than 90 minutes in the line for security. This does not my needs for autonomy."
 
 ### Talks
 I enjoy #public-speaking and am available to give talks.
