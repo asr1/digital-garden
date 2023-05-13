@@ -71,7 +71,7 @@ David Foster Wallace writes:
 
 ## See Also
 
-[[Reading and Writing/Nonviolent Communication\|Nonviolent Communication]]
+[[Reading and Writing/Books/Nonviolent Communication\|Nonviolent Communication]]
 [[Politics and Culture/Religion/Diluting the faith\|Diluting the faith]]
 [[Politics and Culture/Culture/Politeness\|Politeness]]
 [Slate Star Codex, The Toxoplasma of Rage](https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/):
