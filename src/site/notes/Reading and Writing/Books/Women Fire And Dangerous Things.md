@@ -119,5 +119,9 @@ Different models are useful in different states. For example, a working mother i
 This is because "working mother" uses the "nurture" model of mother, rather than some of the others (e.g. biological).
 
 
+There is no one biological category that covers all fish. See also models are useful, not "true" reflections of the world. As the author would say, they reflect the mind, not the world.
+
+
+
 ## See Also
 [[Thoughts/Categorization\|Categorization]]
