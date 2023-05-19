@@ -11,7 +11,7 @@
 [[Misc/Clay Jugs\|Clay Jugs]]
 [[Misc/Cost Disease\|Cost Disease]]
 [[Misc/Interesting/Sperm Count Decline\|Decline of Sperm Count]]
-[[Misc/Interesting/Ducking and Bikeshedding\|Ducking and Bikeshedding]]
+[[Misc/Interesting/Corporate Terms\|Corporate Terms]]
 [[Misc/Just for Fun/Fun Facts\|Fun Facts]]
 [[Misc/Interesting/Hedonic Treadmill\|Hedonic Treadmill]]
 [[Misc/Personal and Stories/Improv\|Improv]]
