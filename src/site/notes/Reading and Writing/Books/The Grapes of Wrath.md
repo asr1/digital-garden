@@ -250,6 +250,11 @@ Steinbeck comes out swinging in this one, pure anger at the banks and capitalism
 > 
 > Tom laughed. "Me too, I guess."
 
+## I'll Be There
+
+> Then it don't matter. I'll be all around in the dark - I'll be everywhere. Wherever you can look - wherever there's a fight, so hungry people can eat, I'll be there. Wherever there's a cop beatin' up a guy, I'll be there. I'll be in the way guys yell when they're mad. I'll be in the way kids laugh when they're hungry and they know supper's ready, and when the people are eatin' the stuff they raise and livin' in the houses they build - I'll be there, too.
+> — Tom Joad
+
 ## Takeaway
 
 People want to work, and are vilified as moochers and Okies for being lazy. Steinbeck is careful to portray everyone as wanting to work, but being unable to find it.
