@@ -236,6 +236,20 @@ Steinbeck comes out swinging in this one, pure anger at the banks and capitalism
   Fella had a team of horses, had to use ’em to plow an’ cultivate an’ mow, wouldn’ think a turnin’ ’em out to starve when they wasn’t workin’.
   Them’s horses—we’re men.
 
+## Reds
+
+> 'God- damn reds is drivin' the country to ruin,' he says, an" 'We got to drive these here red bastards out.' 
+> 
+> Well, they were a young fella jus' come out west here, an' he's listenin' one day. He kinda scratched his head an' he says, 'Mr. Hines, I ain't been here long. What is these goddamn reds?' 
+> 
+> Well, sir, Hines says, 'A red is any son-of-a-bitch that wants thirty cents an hour when we're payin' twenty-five!'
+> 
+> Well, this young fella he thinks about her, an' he scratches his head, an' he says, 'Well, Jesus, Mr. Hines. I ain't a son-of-a-bitch, but if that's what a red is-why, I want thirty cents an hour. Ever'body does. Hell, Mr. Hines, we're all reds.'" 
+> 
+> Timothy drove his shovel along the ditch bottom, and the solid earth shone where the shovel cut it.
+> 
+> Tom laughed. "Me too, I guess."
+
 ## Takeaway
 
 People want to work, and are vilified as moochers and Okies for being lazy. Steinbeck is careful to portray everyone as wanting to work, but being unable to find it.
