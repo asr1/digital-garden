@@ -5,6 +5,7 @@
 
 # Art and Design
 
+[[Art and Design/Body Proportions\|Body Proportions]]
 [[Art and Design/Gruvbox Colors\|Gruvbox Colors]]
 [[Art and Design/Layout\|Layout]]
 [[Art and Design/Practical Creativity\|Practical Creativity]]
