@@ -35,3 +35,11 @@ And he's right.
 
 
 </div></div>
+
+
+u/MalificViper [on Planned Obsolescence](https://www.reddit.com/r/pics/comments/13zx6ow/my_parents_46_year_old_blender_still_works_like/jmttib3/):
+> I'm an appliance repair tech. It's not all bias. There's been a lot of switches from durable AC motors to cheapo DC motors, compressor windings aren't as good, the amount of copper gets shaved down, more plastic parts are included, belts are thinner, and so on.
+>
+> The cost of a washer and dryer from the 70's is like 4 grand adjusted for inflation though.
+
+Basically these appliances commanded prestige prices, and you can't expect a $50 blender to last an entire lifetime.
