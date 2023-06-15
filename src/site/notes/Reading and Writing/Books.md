@@ -29,9 +29,11 @@ Don Norman's [[Reading and Writing/Books/The Design of Everyday Things\|The Desi
 (ordered roughly by how closely I follow them)
 
 Jerry Holkins ([Penny Arcade](https://www.penny-arcade.com/news)) 
+Adam Mastroianni ([Experimental History](https://www.experimental-history.com/p/science-is-a-strong-link-problem))
 Scott Alexander (Slate Star Codex, [Astral Codex Ten](https://astralcodexten.substack.com/)) ( #ssc )
 Sam Kriss (Idiot Joy Showland, [Numb at the Lodge](https://samkriss.substack.com/))
 Cory Doctorow ([Craphound](https://craphound.com/)) ( #doctorow )
+James Watson (https://jamesrobertwatson.com/)
 ~~Lyz Lenz ([Men Yell At Me](https://lyz.substack.com/))~~
 
 ## Webcomics I read
