@@ -61,3 +61,15 @@ https://gen.medium.com/give-me-slack-b4e88a007dbf
 And from the same article on tariffs, relating to the section on Monopolies, above.
 
 > Post-WWII Japan realized that its own auto industry would never be able to compete with more established Western companies, so it placed high tariffs on foreign cars, giving local companies like Nissan and Toyota a chance to get their act together. These companies, especially Toyota, invented a new form of auto production which was actually much more efficient than the usual American methods, and were eventually able to hold their own. They started exporting cars to the US; although American tariffs put them at a disadvantage, they were so much better than the American cars of the time that consumers preferred them anyway. After decades of losing out, the American companies adopted a more Japanese ethos, and were eventually able to compete on a level playing field again.
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/misc/strong-link-vs-weak-link-science/#slack" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## Slack
+> A Fred Sanger would not survive today's world of science. With continuous reporting and appraisals, some committee would note that he published little of import between insulin in 1952 and his first paper on RNA sequencing in 1967 with another long gap until DNA sequencing in 1977. He would be labeled as unproductive, and his modest personal support would be denied. We no longer have a culture that allows individuals to embark on long-term—and what would be considered today extremely risky—projects.
+
+
+</div></div>
