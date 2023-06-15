@@ -122,6 +122,8 @@ This is because "working mother" uses the "nurture" model of mother, rather than
 There is no one biological category that covers all fish. See also models are useful, not "true" reflections of the world. As the author would say, they reflect the mind, not the world.
 
 
+For long stretches of this book, the meat-to-shell ratio is poor. 
+
 
 ## See Also
 [[Thoughts/Categorization\|Categorization]]
