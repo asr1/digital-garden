@@ -14,6 +14,10 @@ If you're new, start with the body text. Try lots of versions. Iterate. Then (an
 
 See also [wordmark](https://wordmark.it/), which helps you choose fonts for creative projects
 
+### Kerning
+
+Turn a word upside down to better notice shapes and the spaces between them, not letters.
+
 
 ## Printed book colors
 ![Printed Color Tips.png.jpg](/img/user/img/Printed%20Color%20Tips.png.jpg)
@@ -23,3 +27,4 @@ https://exeuntpress.itch.io/cmyk-color
 ![Affinity Pallate.png](/img/user/img/Affinity%20Pallate.png)
 This is a color palette file for Affinity Publisher that are safe for CMYK printing, per Mixam and PrintNinja.
 
+[[Art and Design/10 things I wish I knew about Publisher\|10 things I wish I knew about Publisher]]
