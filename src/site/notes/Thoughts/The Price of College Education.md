@@ -42,6 +42,13 @@ When I started writing this, I couldn't find the SMBC above, and now I see that 
 
 A colleague of mine (JW) points out that education is free online. If the goal is learning, that's true. (though I do have thoughts about being [[Misc/Self-taught\|Self-taught]])
 
+## Class Mobility
+
+College is the **only** way that someone from a lower economic class can move up. The arguments I've laid out above make sense if you're already middle or upper class — you have enough [[Thoughts/Slack\|Slack]] that you're allowed to fail. 
+
+For people without that privilege, college isn't just a signifier, it's a way to get a better job, and to afford some slack.
+
+
 ## See Also
 
 [[Misc/Cost Disease\|Cost Disease]]
@@ -60,3 +67,12 @@ A colleague of mine (JW) points out that education is free online. If the goal i
 [[Advice/(Skip The) 100 level courses\|(Skip The) 100 level courses]]
 [[Thoughts/Seinfeld, Mash, and The Last Time We Agreed on What To Watch\|Seinfeld, Mash, and The Last Time We Agreed on What To Watch]]
 [[Thoughts/Slack\|Slack]]
+
+
+u/xerxvi on [signals and affirmative action](https://www.reddit.com/r/slatestarcodex/comments/14c2i63/am_i_the_unethical_one_a_philosophy_professor_his/joj9x3y/):
+> Exactly. Do we think Wharton I-Bankers remember everything in geography class? The point is to stratify, to identify who's stupid, and who's not. Who can learn and play a game, who can't. Clients don't want to trust millions of dollars worth of businesses to dumbasses that couldn't be bothered to get a 1500+ on the SAT. At least, I wouldn't.
+> 
+> Note that, back in the day, a certain degree was shorthand for a person who was either privileged, or who was smart enough to join the privileged at Yale. Goldman could be assured of some quality by hiring Yalies. Now, with affirmative action, you never know. You could pick a Yalie who got a 1200 on his SAT.
+
+Eric2332 responds to the last point:
+> You could always pick a Yalie who got a 1200 on the SAT, those were called legacies and athletes. Affirmative action is just adding another group to that club, and at least there is some kind of moral justification for it, unlike the other groups.
