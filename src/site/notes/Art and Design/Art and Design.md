@@ -13,6 +13,8 @@
 [[Art and Design/Public Domain Art\|Public Domain Art]]
 [[Art and Design/VFX and Visual Effects in Games\|VFX and Visual Effects in Games]]
 
+[[The Non-Designers Book of Design\|The Non-Designers Book of Design]]
+
 ## See Also
 
 [A beginner's tutorial on photbashing](https://www.youtube.com/watch?v=GYrUzzS8SnE&feature=youtu.be)
