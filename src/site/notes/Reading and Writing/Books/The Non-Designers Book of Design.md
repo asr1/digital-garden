@@ -5,6 +5,7 @@
 
 # The Non-Designer's Book of Design 
 by Robin Williams
+*fourth edition*
 
 
 ## Overview
@@ -156,4 +157,264 @@ Join us ^wfoxY66G
 </div></div>
 
 
+#### Connecting things
 
+Make sure every item has visual alignment with another item.
+
+* If lines of text are across from one another, align their baselines
+* If there are separate blocks of text, align left or right edge
+* Align graphic elements' edges to other edges on the page
+
+With intentionality!
+
+**Lack of alignment is the biggest cause of unappealing documents!**
+
+
+>[!danger] Warning
+>Never center a headline over flush left body OR over text with an indent. 
+>If the body doesn't have a strong left and right edge, you can't tell the headline is centered, and it looks random.
+
+- Don't indent first paragraphs. 
+	- The purpose of the indent is to tell you there's a new graf. The first one is obvious.
+- Indents should be on em (~2 spaces), not 5.
+- Align photos with an edge and/or baseline.
+
+❗ Find a strong line and use it.
+
+![Strong Edges.jpg|450](/img/user/img/Strong%20Edges.jpg)
+
+> “Try to make it sound like you wrote it that way on purpose.” 
+> – Arthur Howitzer Jr., the French Dispatch
+
+If your alignment is strong, you can consciously break them, and it will look intentional.
+
+Don't be a wimp. Go all the way or not at all.
+
+❗ You must know what the rule is before you break it
+
+Again, think of the French Dispatch:
+
+
+>One way to tell if a modern artist actually knows what he’s doing is to get him to paint you a horse, or a flower, or a sinking battleship or something that’s actually supposed to look like the thing that it’s actually supposed to look like. Can he do it?
+>– Julian Cadazio
+
+"The point is, he could paint this beautifully if he wanted, but he thinks this is better."
+
+## Repetition
+
+ **Repeat some aspect of the design throughout the entire piece.**
+
+Could be:
+- Bold font
+- Thick line
+- Certain bullet
+- Design element
+- Color
+- Format
+- Shape
+- Spatial relationship, etc.
+- Anything a reader will visually recognize
+
+You already do this a little (consistent heading styles, same bullets, half-inch bottom rule, etc.) but push it *further*
+
+You want consistency.
+
+My pal [Sean](https://twitter.com/seanpatrickcain)once advised me that each page in a zine should clearly relate to the page before or after. This book goes further: each page in a zine should be clear they belong to the same zine.
+
+See also uniforms (a kind of repetition that demonstrates a relationship)
+
+Start with headlines and subheads; likely already consistent. Make them *bold* (as in striking, not necessarily as in, you know. Font weight).
+
+Add color , size. Make it a *design* element, not just a useful one.
+
+>[!tip] Consistency
+>If you have consistency, you have have surprises by drawing attention to things that break the consistency.
+>
+>If nothing is consistent, you can't call attention to anything.
+
+You can add something new (clip art, picture font) just for the sake of repetition.
+
+OR take a simple element and use it in various ways (vary color, angle, size, etc.)
+
+Might not be the *same* object, but related enough to establish a clear connection.
+
+>[!tip]
+General: Avoid borders
+
+Make it look intentional, not random.
+
+You can unify multiple pieces by either overlapping them with a design element, or pulling one outside of a border. 
+
+Repetition:
+- Adds visual interest
+- Elevates unity
+- Ties together separate parts
+
+1 page useful, multi page critical (consistency)
+
+> [!tip]
+> Go further than you think! Make things more dramatic, stronger, sharper!
+
+Strengthen existing ones or create new ones. Get wild, get zany, have fun!
+
+#### Beware:
+- Don't repeat so much it becomes annoying or overwhelming
+
+## Contrast
+
+Be strong, don't wimp out.
+
+**Contrast various elements to draw a reader's eye into the page.**
+
+If two things aren't **exactly** the same, make them extremely different.
+
+Contrast helps:
+- Draw the eye
+- Organize info
+- Clarify hierarchy
+- Provide focus
+- Guide the reader's attention
+
+Create contrast with:
+- Large / small font sizes
+- Oldstyle font + sans serif font
+- Thin / thick lines
+- Cool color + warm color
+- Smooth + rough texture
+- Horizontal element (e.g. long line of text) + Vertical element (tall narrow column of text)
+- Widely spaced / closely packed lines
+- large / small graphic
+
+>[!danger] Don't wimp out
+>If two elements are sort of different but not really, you've made CONFLICT not contrast.
+
+A 14-point font is not that different from a 12-point font. C'mon now. 
+
+Neither different enough are black and dark brown or a 1/2 point line and a 1 point line. Be different!
+
+---
+
+Strong, bold typefaces, alternating caps and lowercase, COLOR.
+
+
+Alignment: You can use the same alignment (left) without always aligning to the same edge. 
+
+Stronger the contrast, less risk of someone thinking it's a mistake.
+
+Again, elements cannot be similar!
+
+---
+
+## Design With Color
+
+### Use a color wheel
+
+#### Complements
+
+Colors on opposite sides are **complements**. Use one as the main color, one as an accent.
+
+Even if they seem weird (lime green + violet, aqua and red-orange, etc.)
+
+#### Triads
+
+3 equidistant colors from the wheel form a triad. Red, yellow, blue is the **primary triad**.
+
+Secondary triad is red-orange, lime-green, bluish-purple.
+
+Can also do orange, green, purple or yellow-orange, aqua, violet. 
+
+#### Split Complement
+
+Choose a color from one side, find its opposite (complement), but instead of the complement, take the colors on either side!
+
+This givers yellow, violet, bluish-purple or green, red-orange, violet.
+
+#### **Analogous colors** 
+Three colors next to each other. This also works!
+Yellow-orange, orange, red-orange or aqua, green, lime-green
+
+### Shades and Tints
+
+A **hue** is the pure color. But if you mix in a little black or white, you get a shade or a tint.
+
+❗
+- Add black to make a shade
+- Add white to make a tint
+
+This can help, for example, avoid Christmas or Halloween vibes of red + green or black + orange.
+
+A **monochromatic** scheme is a single hue plus any number of corresponding tints and shades.
+
+In software, you get tints by going towards the middle of the color picker circle, and shades by using the darkness slider.
+
+### Tones
+
+Tone is brightness, deepness or hue of a color. You want variety here, to keep up contrast. 
+
+### Warm vs Cool Colors
+
+Cool colors recede, warm colors pop forward.
+Use less hot if combining, it's profound. Like spices.
+Warm up a color by adding red or yellow, cool down by adding various blues.
+
+Don't try to make them have equal weight! Take advantage of pop and fade to draw eyes where you want them.
+
+### CMYK vs RGB 
+
+> [!tip] CMYK vs RGB
+> Use CMYK for anything that will be printed, RGB for anything viewed on a screen.
+
+* Edit images in RGB, change to CMYK as the last step
+* As your printer (if they aren't a 4-color printing press) whether they prefer RGB or CMYK
+
+---
+
+## Tips and Tricks
+
+* Repetition is critical in branding, even across products. Make a mark.
+* Business cards can be vertical, and full color both sides. 
+	* PrintPlace.com is cheap?
+	* Leave room for notes if you use full bleed on one side: people like to write on them
+	* Eliminate everything that isn't CRITICAL. It's not a brochure
+	* Don't label URL, Phone, Email. It's evident.
+	* Use smaller text size! 9 or 8 or even 7 is great.
+* You can go wild on flyers. 
+	* Use off-the-wall typefaces
+	* You're competing for attention here (unlike a business card or letterhead)
+	* Make headlines and images HUGE Or go minimalist with a single line of tiny text in the middle. Something that makes people notice.
+	* You can have small body, if you can grab their attention first.
+	* CONTRAST CONTRAST CONTRAST
+		* And hierarchy. "If everything is important, nothing is" (that's the plot of the Incredibles).
+	* Focal point! Strong, contrasting subheads.
+	* White space is good, but don't let it become "trapped" by other elements.
+
+---
+
+## Takeaways
+
+Contrasting typefaces is the basis of all great graphic design.
+
+- Find the most important element and emphasize it.
+- Group info into logical groups
+	- Use proximity and **space** to set them apart and connect them
+	- Don't use boxes!
+- Find elements you can repeat
+- Add contrast
+
+- Don't be a wimp
+	- Use blank space!
+		-  White space is good, but don't let it become trapped by other elements.
+	- Be asymmetric, uncenter your format. Be unexpected!
+	- Make words LARGE or very small
+	- Make your graphics bold or minimal, as long as it reinforces the whole
+- 
+
+## Things to Lose
+
+* Centered alignment
+* The fonts:
+	* Helvetica
+	* Times New Roman
+	* Arial
+	* Sand
+ * Boxes and borders
