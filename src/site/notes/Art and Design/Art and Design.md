@@ -14,6 +14,7 @@
 [[Art and Design/VFX and Visual Effects in Games\|VFX and Visual Effects in Games]]
 
 [[Reading and Writing/Books/The Non-Designers Book of Design\|The Non-Designers Book of Design]]
+[[Typesetting\|Typesetting]]
 
 ## See Also
 
