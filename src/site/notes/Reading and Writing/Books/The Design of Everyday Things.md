@@ -3,6 +3,10 @@
 ---
 
 
+# The Design of Everyday Things
+By Don Norman
+*Second Edition*
+
 * If you struggle to use a tool, consider that the tool is poorly designed
 * Signs are a failure of design 
 	* If you have to tell the user how a door works, you've failed.
