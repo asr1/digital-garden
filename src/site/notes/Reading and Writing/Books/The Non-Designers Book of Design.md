@@ -369,15 +369,21 @@ Don't try to make them have equal weight! Take advantage of pop and fade to draw
 
 ---
 
-## Tips and Tricks
+## Tips and Tricks (designing newspapers, brochures, flyers, letterhead, business cards and more)
 
 * Repetition is critical in branding, even across products. Make a mark.
+* 
+### Business Cards
+
 * Business cards can be vertical, and full color both sides. 
 	* PrintPlace.com is cheap?
 	* Leave room for notes if you use full bleed on one side: people like to write on them
 	* Eliminate everything that isn't CRITICAL. It's not a brochure
 	* Don't label URL, Phone, Email. It's evident.
 	* Use smaller text size! 9 or 8 or even 7 is great.
+
+### Flyers
+
 * You can go wild on flyers. 
 	* Use off-the-wall typefaces
 	* You're competing for attention here (unlike a business card or letterhead)
@@ -387,6 +393,56 @@ Don't try to make them have equal weight! Take advantage of pop and fade to draw
 		* And hierarchy. "If everything is important, nothing is" (that's the plot of the Incredibles).
 	* Focal point! Strong, contrasting subheads.
 	* White space is good, but don't let it become "trapped" by other elements.
+* Make something you'd like to read. Playful is good! Use color!
+
+### Ads
+* Keep the copy simple and short
+	* Headlines are the lifeblood! More important than design
+	* Use white space! Note where the eyes go!
+	* Clever, clear, brief.
+		* Tell them what do do and how to do it.
+	* Avoid crowding. It's okay to have blank space!
+	* Contrast! White space does this easily!
+		* Other ads are so busy yours will stand out
+	* Small fonts make serifs disappear, especially in print
+		* Similarly avoid reverse type (white text on dark background) unless you KNOW that your typeface doesn't have thin lines. Ink spreads, yo.
+
+### Resumes
+
+If sending digitally, can do a horizontal layout!
+
+Contrast is key! Also alignment, avoid center, tsk tsk.
+
+Keep bullets close to items, keep headings close to related info. Just like always!
+
+---
+
+## Typefaces
+
+*If there's no typefaces, it's not graphic design*
+
+❗ Communication is key! Aesthetics come second. 
+
+Essential rules
+- Use smart quotes
+- ONE space after a period
+- Punctuation and quotes:
+	- Periods and commas **always** go inside the quotes.
+	- Colons and semicolons go outside
+	- ? and ! go inside if they're part of the quote, or outside if they don't.
+	- Multiple quoted paragraphs, " goes at the start of every graf, but only at the end of the final
+- Apostrophes are always shaped like a 9, never like a 6 (always "closing" quote, never opening).
+- Use -, – and — appropriately. 👍
+	- em dashes don't use space on either side. *can* kern some space, but just enough to not bump.
+- CAPITAL LETTERS slow down reading speed by having a uniform "coastline" of shape.
+	- Make sure this is an intentional choice.
+- **Never** underline.
+	- Bold, larger, different font, color, or combination.
+	- If you must, use a rule that doesn't bump the descenders of the letters OR make it look intentional.
+- **Widows** are when the last line of a paragraph has fewer than 7 characters. This is bad. WORSE is having part of a word and having the last line be just part of a hyphenated word.
+- **Orphans** are when the last line of a word is at the top of a new column or page. Also bad.
+- Adjust tracking or copy to fix both.
+
 
 ---
 
@@ -407,7 +463,9 @@ Contrasting typefaces is the basis of all great graphic design.
 	- Be asymmetric, uncenter your format. Be unexpected!
 	- Make words LARGE or very small
 	- Make your graphics bold or minimal, as long as it reinforces the whole
-- 
+
+- Use EITHER extra space between paragraphs or an intent (one em) but NOT both! 
+	- And never indent the first paragraph!
 
 ## Things to Lose
 
