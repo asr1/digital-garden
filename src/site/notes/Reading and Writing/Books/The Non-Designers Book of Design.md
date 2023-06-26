@@ -417,7 +417,7 @@ Keep bullets close to items, keep headings close to related info. Just like alwa
 
 ---
 
-## Typefaces
+## Typography
 
 *If there's no typefaces, it's not graphic design*
 
@@ -442,6 +442,219 @@ Essential rules
 - **Widows** are when the last line of a paragraph has fewer than 7 characters. This is bad. WORSE is having part of a word and having the last line be just part of a hyphenated word.
 - **Orphans** are when the last line of a word is at the top of a new column or page. Also bad.
 - Adjust tracking or copy to fix both.
+
+### Misc
+
+- Punctuation should match. If you have a word that's italic, bold, or in a different font, the following punctuation should be the same style. **This applies to bold colons!**
+- Parens: if the whole parenthetical stands alone, the . goes inside. Otherwise it goes outside.
+- Paragraph indents should be one em, not 1/2 an inch, not 5 spaces. One em. —
+- Use either space between grafs or an indent, not both.
+- Don't indent the first graf.
+- If you must set text inside a box., leave much padding. 
+- Bullets, not hyphens! Or a wingding!
+
+### Combining Typefaces
+
+*Per Clayton Notestine, the secret to fantastic RPG layout is great Typography ([source](https://twitter.com/ClayNotestine/status/1669087206290386944)). He's also said that the #1 trick to great TTRPG visual design is remixing, stealing, and mimicking ([source](https://twitter.com/ClayNotestine/status/1354867271387271170)).*
+
+3 types of relationship:
+- Concordant
+	- No variety. It's formal, if a bit dull. 
+	- One type family, little variety in style, size, weight, etc.
+- Conflicting
+	- Similar typefaces, not exactly the same. 
+	- Disturbing, like a little contrast but not enough. 
+	- Is it intentional? Who can say.
+- Contrasting!
+	- Bold, brash, great
+	- Clearly distinct typefaces intentionally mixed.
+
+#### Concordant
+
+Not bad, just bland and formal. Use some italic, maybe vary the size a little. It works.
+
+This is playing it safe. 
+
+Do it consciously. 
+
+#### Conflict
+
+2 or more typefaces that are similar, but not different enough. 
+
+You don't want to try to match with something similar. It'll look like a mistake. 
+
+The similarities fight. 
+
+Avoid always. 
+
+#### Contrast
+
+Fun!
+
+Make it **obvious**. "Whatever you write, try to make it sound like you wrote it that way on purpose."
+
+- Size
+- Weight
+- Structure
+- Form
+- Direction
+- Color
+
+It's not the differences that cause problems, it's the similarities!
+
+**Don't be a wimp!**
+
+
+### Typefaces
+
+Key to combining is to understand similarities and differences. 
+
+Broadly 6 categories. 
+*of course there are exceptions. Categories are useful. See also [[Reading and Writing/Books/Women Fire And Dangerous Things\|Women Fire And Dangerous Things]]*
+
+- Oldstyle
+- Modern
+- Slab Serif
+- Sans Serif
+- Script
+- Decorative
+	- Including Grungy
+
+#### Oldstyle
+
+Based on scribal handwriting.
+Angled Serifs
+Diagonal stress
+
+(stress is the line between thinnest parts of curved strokes)
+
+Rarely any distinguishing characteristics. 
+
+Good for body copy.
+
+- Times
+- Garamond
+- Goudy
+- Bell 
+- etc
+
+#### Modern
+
+Mechanical.
+Thin, horizontal serifs.
+Radical thick/thin transition
+Vertical stress
+
+Cold, elegant
+
+Striking when large. 
+Headline, not good for body. 
+
+
+- Bodoni
+- Didot
+- Walbaum
+- Modern No. 20
+
+
+#### Slab Serif
+
+Little thick/thin transition
+Made the thin parts of modern thicker.
+Used in advertising.
+
+Very readable
+Good for children's books
+Darker page, easy to see at a distance.
+
+- New Century Schoolbook
+- Memphis
+- Clarendon
+
+#### Sans Serif
+
+No serifs
+Often no thin/thick transition; same thickness all around
+
+- Folio
+- Modernica Light
+- Brandon Grotesque
+- Transat Text
+
+Don't use Arial or Helvetica or Verdana, use a sans serif family that includes a strong, heavy, black face. Like those above. They have weights that go from light to extra black.
+
+Eye-catching!
+
+Often used for screens / digital work.
+
+> [!warning] Combining with sans serif
+> It can be tricky to combine with sans serif fonts, especially those like Optima which have stresses. Why? The similarities!
+> 
+> Thick / thin strokes are similar to serif
+> Lack of serif looks more like other sans serif.
+> So be careful if your sans serif fonts have thick/thin transitions (i.e. stresses)!
+
+#### Script
+
+Look handlettered with calligraphy pen
+
+Lots of subcategories (connect / don't, hand printing, traditional calligraphic, etc.)
+
+Use them **sparingly**, and never as blocks of text and NEVER NEVER as all caps.
+
+Use them large!
+
+- Peory
+- Adorn Bouquet
+- Bookeyed Sadie
+- Emily Austin
+- Thirsty Rough Light
+
+#### Decorative
+
+NOT for body copy.
+
+Fun, distinctive, whimsical.
+
+Limited use.
+
+- Matchwood
+- The Wall
+- Horst Scarlett
+- Sybil Green
+- Flyswim (!)
+
+
+Go beyond initial impression: if one strikes you as informat, use it in a formal situation. If you get wild west vibes, try it in corporate or flower shops (?)
+
+They can carry emotions, including very different connotations than your first impression. (???)
+
+Great for like instagram style aphorism posts.
+
+#### In all things, be intentional
+
+Keep your eyes open, and state the problems in words. You can't solve them until you can state them!
+
+Look for things like x-height and descendors!
+
+Start noticing!
+
+### Combining Typefaces
+
+All about contrasts:
+
+- Size
+- Weight
+- Structure
+- Form
+- Direction
+- Color
+
+Contrasts enhance communication AND aesthetics 
+
+
+
+
 
 
 ---
@@ -476,3 +689,6 @@ Contrasting typefaces is the basis of all great graphic design.
 	* Arial
 	* Sand
  * Boxes and borders
+
+## See Also
+[[Typesetting\|Typesetting]]
