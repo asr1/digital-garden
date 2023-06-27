@@ -7,6 +7,30 @@
 by Robin Williams
 *fourth edition*
 
+## Takeaways
+
+Contrasting typefaces is the basis of all great graphic design.
+
+- Find the most important element and emphasize it.
+- Group info into logical groups
+	- Use proximity and **space** to set them apart and connect them
+	- Don't use boxes!
+- Find elements you can repeat
+- Add contrast
+
+- Don't be a wimp
+	- Use blank space!
+		-  White space is good, but don't let it become trapped by other elements.
+	- Be asymmetric, uncenter your format. Be unexpected!
+	- Make words LARGE or very small
+	- Make your graphics bold or minimal, as long as it reinforces the whole
+
+- Use EITHER extra space between paragraphs or an intent (one em) but NOT both! 
+	- And never indent the first paragraph!
+
+
+---
+
 
 ## Overview
 
@@ -652,33 +676,130 @@ All about contrasts:
 
 Contrasts enhance communication AND aesthetics 
 
+#### Size
+
+Don't be a wimp. No 12/14 pt contrast here! That's conflict, baby!
+
+Make things small if no one cares (e.g. volume number on a newspaper)
+
+❗ Can contrast with the page itself: one small line on one big page is compelling.
+
+Again, lowercase is better: it takes up less space, so you can make it bigger. Plus, it's more readable!
+
+Typographic symbols (ampersands, numbers, quote marks) look GREAT when you make them unreasonable large. Use them as decoration!
+
+Can also aid in repetiton!
+
+#### Weight
+
+Thickness of stroke.
+
+Again, don't be a wimp: regular + semibold? c'mon!
+
+If families are different, probably different weights. Embrace and emphasize it.
+
+Ensure you have at least one very strong black face. Adds visual interest easily!
+
+Don't make it look like a mistake.
+
+>[!tip] Contrasting Weights
+> Using weights for hierarchy is *great* in an index or table of contents.
+
+This is also useful if you have a lot of boring text: change key phrases to *pop* with a strong bold. Tip: combine a bold sans serif within serif body copy. If you do, may have to shrink the bold by a point size so it looks the same size on the page.
+
+Don't do this in a novel! Once again, remember the French Dispatch Rule.
+
+#### Structure
+
+Imagine fonts built out of material. Sans serif are like built out of tubes, consistent width all throughout. Others switch from thin to thick like tapered fence posts.
+
+When combining typefaces, choose different structures. 
+
+Especially easy if you choose different categories.
+
+Emphasize the contrasts.
+	Switch up size or weight as well.
+
+If you want to use two members of the same typeface, use a light weight and a heavy weight (and also switch up condensed / extended)
+
+#### Form
+
+Form is about shape (lowercase g is one of the most obvious).
+
+Think about caps vs lowercase, that's a different *form* of the same material.
+
+So is roman vs italic.
+
+#### Direction
+
+**don't** just slant your words. You almost never want it. And especially not to fill a corner.
+
+Slanting up is forward, positive energy. Slanting down is negative energy. But you only want this if it's intentional.
+
+Can be writing up or down (vertical) which is a good effect.
+
+Consider columns of text vs lines of text. 
+
+Imagine the contrast of a long headline that spans multiple tall thin columns.
+
+Double down: extended font for headline, tall typeface or extra linespace, narrow columns. Be bold!
+
+Don't forget your strong alignments when you play with this.
+
+Visual texture is important, but hard to put into words.
+
+#### Color
+
+Warm pop forward, grab attention. Cools recede and don't.
+
+Only a little red creates contrast. 
+
+Use BIG areas of cool color, a little red goes a long way. 
+
+Small cool + big warm is overpowering
+
+Even black and white (or black and blacker) is contrast of color.
+
+![Black and White Color.png|450](/img/user/img/Black%20and%20White%20Color.png)
+
+A change in condenseness or boldness can also act as a change in color, even in black and white (see page 210 – 211, not pictured above).
+
+Also play with line spacing.
+
+Robin, like Clayton, suggests printing out twenty blocks of the same text, making minor adjustments to each one in line spacing, kerning, tracking, word spacing, and so on.  Clayton made a [template](https://explorers.itch.io/typesetter-template) for this as well.
+
+#### Combine the Contrasts
+
+Contrast form AND color, and size and weight and direction and font type. Do an italic or lowercase or something WILD!
+
+Look through magazines, see what they do! It's all about contrast, yo.
+
+❗ Similarities cause problems. Not differences.
+
+Identify the problem, then fix it.
+
+#### Summary
+
+**Size:** don't be a wimp
+**Weight:** Heavy + light, not heavy + medium. C'mon. *See above re: wimp.*
+**Structure:** Choose different font categories.
+**Form:** Caps vs lowercase, roman vs italics. Don't use script + italics.
+**Direction:** Don't type on a slant. Instead mix horizontal and tall.
+**Color:** Not just color. Black too. Warm pops, cool hides. Lotsa cool to offset little warm.
 
 
+## Where to Start?
 
+- Find the focal point. What should readers see first?
+- Find your logical groups of info and their relationships.  Use proximity for the groups.
+- Use your alignments! If you have a strong edge, pair it with alignments of other things (strong edges are photos or vertical lines)
+- Create repetition. Can be a shape or bolded typeface or a line or a wingding. If you see something naturally repeated, lean in.
+- Add strong contrast!! If everything is flashy, nothing is. Draw the eye!
 
 
 ---
 
-## Takeaways
 
-Contrasting typefaces is the basis of all great graphic design.
-
-- Find the most important element and emphasize it.
-- Group info into logical groups
-	- Use proximity and **space** to set them apart and connect them
-	- Don't use boxes!
-- Find elements you can repeat
-- Add contrast
-
-- Don't be a wimp
-	- Use blank space!
-		-  White space is good, but don't let it become trapped by other elements.
-	- Be asymmetric, uncenter your format. Be unexpected!
-	- Make words LARGE or very small
-	- Make your graphics bold or minimal, as long as it reinforces the whole
-
-- Use EITHER extra space between paragraphs or an intent (one em) but NOT both! 
-	- And never indent the first paragraph!
 
 ## Things to Lose
 
