@@ -12,3 +12,4 @@
 [[Software and Technology/The 10,000 Librarian Problem\|The 10,000 Librarian Problem]]
 [[Software and Technology/The so-called AI Revolution\|The so-called AI Revolution]]
 [[Software and Technology/Uber's Bezzle\|Uber's Bezzle]]
+[[Software and Technology/Web Design Patterns You Should Stop Doing\|Web Design Patterns You Should Stop Doing]]
