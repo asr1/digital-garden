@@ -167,11 +167,30 @@ From there, add variety. Go to block letters.
 > [!danger] Embellishments can be a distraction!
 > 
 
+You can shade with
+- Stippling
+	- Add lots of dots where it's dark, few where it's light
+- Crosshatching
+	- Perpendicular overlapping lines, overlap close on dark, far on light
+- Solid fill
+- Scribble
+	- Like crosshatching, but loosey goosey
+- Countour
+	- Draw lines that follow the curve or shape of the object. Suggest depth.
+- 
+
 - Add texture to letters
 	- Best on big white empty letters
 	- an be dots, lines, or shapes, even in a gradient!
 
 Use a small number of colors. Use light very rarely, there's no contrast!
+- Start with a single color. 
+- Grow your color wheel (primary are red, blue, yellow)
+	- See also [[Reading and Writing/Books/The Non-Designers Book of Design#Design With Color\|The Non-Designers Book of Design#Design With Color]]
+	- Complimentary, analogous colors are great when only using 2
+	- When you go to 3, use Triadic (3 colors on an equilateral triangle)
+- Color should be a highlight, not a coloring book.
+![Too much color.png](/img/user/img/Too%20much%20color.png)
 
 Can emphasize cursive, easiest way to is to add another line on one side of each letter.
 
@@ -274,7 +293,7 @@ Recognizable!
 
 palm, fingers, thumb
 
-![Hands.png](/img/user/Hands.png)
+![Hands.png](/img/user/img/Hands.png)
 
 Stick hand is easy
 
@@ -358,6 +377,10 @@ Don't write them down until the list is full, they can get lost if the speaker d
 
 Arrows! Super clear to direct attention. Tons of styles! Including dashed or curved.
 
+You can also guide with shapes, making shadows that show how to read a document.
+
+![Guiding Shapes.png](/img/user/img/Guiding%20Shapes.png)
+
 #### Icons!
 
 ![Icons.png](/img/user/img/Icons.png)
@@ -366,3 +389,121 @@ Can also use custom icons in an index for clarity.
 
 ---
 
+### Diagrams 
+
+Generally, don't capture diagrams, capture their takeaways (sales are increasing)
+
+5 types
+
+1. Flowchart / map
+2. List / category (groups)
+3. Graph (line, bar, scatter). Best if two axes: revenue over time
+4. Pie chart (its own category)
+5. Pictures (thermometer, progress up a mountain). Symbolic.
+
+Experience based: diagrams good. 
+Lecture based: ignore diagrams that are brushed past. Photograph ones that they linger on. May not need details. 
+
+Pie charts are great for converting percents to visuals!
+
+but really ask "what's the point of this diagram" and "how much detail do I need"
+
+## Build a library
+
+As you do this, you'll repeat images. This is great!
+
+The more you learn, the bigger your library grows. 
+
+Practice!
+
+Recognizable over realistic.
+
+Draw 10 things around you for practice. Then drill down by industry. 
+
+Don't just keep it in your head: keep a journal or index cards of the things in your library.
+
+And update it for changes in style, fashion, technology.
+
+Practice practice practice! Including variations.
+
+Books, brains, keys, lightbulbs all good to know!
+
+## Picking a metaphor
+
+Your first idea is usually best.
+
+Metaphors help simplify complexity and aid in comprehension.
+
+![Metaphor.png](/img/user/img/Metaphor.png)
+
+Use keywords and synonyms, but don't get distracted from the presentation!
+
+## Layout
+
+Road map of your visual notes.
+
+Starting out, go book style: top down, left right
+
+Arrows and labels help direct attention!
+
+Plan your time accordingly, can pencil out blocks before hand with time stamps. 
+
+That way you don't run out of room partway through
+
+![Time blocks.png](/img/user/img/Time%20blocks.png)
+
+Make the final block biggest, lots of big ideas come at the end.
+
+Practice with 15 minute videos or podcasts!
+
+### Headers
+
+Grab attention, like a book cover.
+
+Date, time, presenter, title, key point or promise, pitch. Don't use a ton of space, simple can be good!
+
+Variety of hierarchy and layout, what do you need to convey?
+
+### Refinement
+
+Refine IMMEDIATELY after, while it's fresh.
+
+Bold keywords, emphasize words, elaborate if needed.
+
+Add containers, shading, color.
+
+Level up pictures, add arrows and guides. A header if you skipped it.
+
+---
+
+- If you know you spell words wrong, write the correct spelling in the front of your notebook as a cheat sheet.
+- Or start writing the part you know and fill in the rest later.
+
+Content over aesthetic.
+
+High contrast, black and white does this easily.
+
+Balance: Symmetry vs Asymmetry.
+Hierarchy / proportions
+Unity / Harmony: does everything belong together?
+	Not *samey*,, but related and logically connected.
+Variety
+	Be careful to have cohesion. 
+	Limiting colors helps
+Rhythm and repetition.
+Movement and flow
+
+Keep it simple!
+
+No shame in sharing the beginning of a journey. "I'm trying something new and I want to share it with the world!"
+
+Don't let fear stop you! You only get better by being bad and never stopping.
+
+Don't compare yourself to others!
+
+Sharing lets you compare across time as well.
+
+Learn your style: do you write too big, or take a lot of notes at the beginning? Do you spend your time drawing instead of listening? 
+
+## See Also
+[[Reading and Writing/Books/The Non-Designers Book of Design\|The Non-Designers Book of Design]]
