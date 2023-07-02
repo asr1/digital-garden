@@ -19,7 +19,7 @@ It's VERY easy to accidentally mouse-up outside a window, especially if you're t
 
 If you are going to dismiss the window and discard user data, either listen for a mouse down AND a mouse up outside the window OR prompt the user to save.
 
-![Pasted image 20230701125407.png](/img/user/Pasted%20image%2020230701125407.png)
+![Clicking.png](/img/user/img/Clicking.png)
 
 *This example isn't * wholly terrible *because the text is pretty far from the edge. Good job! But if there was less padding to the left of the selected text, and a user selects from right-to-left, it's very easy for the mouse to exit the window before mousing up.*
 
