@@ -15,7 +15,7 @@
 
 [[Reading and Writing/Books/The Art of Visual Notetaking\|The Art of Visual Notetaking]]
 [[Reading and Writing/Books/The Non-Designers Book of Design\|The Non-Designers Book of Design]]
-[[Typesetting\|Typesetting]]
+[[Art and Design/Typesetting and Typography\|Typesetting and Typography]]
 
 [[Software and Technology/Web Design Patterns You Should Stop Doing\|Web Design Patterns You Should Stop Doing]]
 
