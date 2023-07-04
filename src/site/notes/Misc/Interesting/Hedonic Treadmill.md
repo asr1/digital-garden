@@ -30,4 +30,4 @@ We practice gratitude. We're thankful for what we have. We spend our money on ex
 ## See Also
 [[Misc/Productivity\|Productivity]]
 [[Politics and Culture/Culture/Consumerism\|Consumerism]]
-[[Politics and Culture/Culture/induced demand\|induced demand]]
+[[Politics and Culture/Culture/Induced Demand\|Induced Demand]]
