@@ -812,4 +812,4 @@ Identify the problem, then fix it.
  * Boxes and borders
 
 ## See Also
-[[Typesetting\|Typesetting]]
+[[Art and Design/Typesetting and Typography\|Typesetting and Typography]]
