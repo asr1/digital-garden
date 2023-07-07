@@ -58,7 +58,9 @@ Note: the number of workers in US agriculture has dropped form 14 million to 3 m
 
 ## See Also
 
-[[Toward a Leisure Ethic\|Toward a Leisure Ethic]]
+[[Politics and Culture/What we choose to automate\|What we choose to automate]]
+[[Politics and Culture/Capital-P Politics/Alienation of Labor\|Alienation of Labor]]
+[[Politics and Culture/Capital-P Politics/Toward a Leisure Ethic\|Toward a Leisure Ethic]]
 [[Misc/Personal and Stories/Mexican fisher\|Mexican fisher]]
 [[Misc/Personal and Stories/J Letter\|J Letter]]
 [[Politics and Culture/Culture/Bullshit Jobs\|Bullshit Jobs]]
