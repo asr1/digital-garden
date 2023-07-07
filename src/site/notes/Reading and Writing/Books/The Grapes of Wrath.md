@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading-and-writing/books/the-grapes-of-wrath/","tags":["politics","books"],"noteIcon":1}
+{"dg-publish":true,"permalink":"/reading-and-writing/books/the-grapes-of-wrath/","tags":["politics","books","grapes","wrath"],"noteIcon":1}
 ---
 
 
