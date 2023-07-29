@@ -21,7 +21,7 @@ Zak: The coolest thing is getting feedback. If I sell 200 copies and 25 people w
 
 "It's a kind of nourishment. It keeps me going. But not as much as the food thing."
 
-Joe says some words about [[Universal Basic Income\|Universal Basic Income]]. He's wearing a multi-colored headband, and chooses his words deliberately.
+Joe says some words about [[Politics and Culture/Capital-P Politics/Universal Basic Income\|Universal Basic Income]]. He's wearing a multi-colored headband, and chooses his words deliberately.
 
 Zak: Get behind your own work. Admit that it's good. YOU HAVE VALUE.
 
