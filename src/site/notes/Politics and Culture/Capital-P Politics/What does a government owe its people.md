@@ -13,7 +13,7 @@ If so, it might make sense why one would spend so much money on military and def
 
 **Is it to educate and nurture them? To cover their needs?**
 
-If so, one might expect that taxes would be spent on education, healthcare, food, and sustinence.
+If so, one might expect that taxes would be spent on education, healthcare, food, and sustenance.
 
 You can learn a lot about what a government values by what it spends money on.
 
