@@ -7,7 +7,7 @@ There's a sect of people who believe that AI is going to take over the world and
 
 I do not subscribe to this belief.
 
-With the advent of Chat-GPT taking the tech world by swarm, there will be massive opportunity for [[Misc/Productivity\|Productivity]] enhancements. This would be great if we had the sweeping societal changes (e.g. [[Universal Basic Income\|UBI]]) to support them. We do not.
+With the advent of Chat-GPT taking the tech world by swarm, there will be massive opportunity for [[Misc/Productivity\|Productivity]] enhancements. This would be great if we had the sweeping societal changes (e.g. [[Politics and Culture/Capital-P Politics/Universal Basic Income\|UBI]]) to support them. We do not.
 
 Instead, two things will happen. First, people will be laid off. Why hire a content writer for $50K a year when you can pay for a machine for $30 / month (\$360 / year) instead? Sure the quality isn't *quite* as good, but is it 140x not as good? Probably not to the bean counters!
 
