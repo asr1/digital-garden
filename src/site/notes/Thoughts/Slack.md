@@ -4,7 +4,7 @@
 
 Cory #doctorow on Slack ([Source](https://gen.medium.com/give-me-slack-b4e88a007dbf))
 
-Slack is effectively forgiveness. It's what we get from [[Universal Basic Income\|UBI]].
+Slack is effectively forgiveness. It's what we get from [[Politics and Culture/Capital-P Politics/Universal Basic Income\|UBI]].
 
 Doctorow talks about how he went to school, but didn't, you know, *go* to school, and instead hung out at the library reading odd books. He started protesting the Iraq war. He bounced around to a number of schools before dropping out entirely.
 
@@ -51,7 +51,7 @@ Another example: Starbucks will put too many stores too close to one another, lo
 
 ## See Also
 https://gen.medium.com/give-me-slack-b4e88a007dbf
-[[Universal Basic Income\|Universal Basic Income]]
+[[Politics and Culture/Capital-P Politics/Universal Basic Income\|Universal Basic Income]]
 [[Thoughts/The Price of College Education\|The Price of College Education]]
 
 
