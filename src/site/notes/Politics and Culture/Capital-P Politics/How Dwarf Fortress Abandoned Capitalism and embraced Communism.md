@@ -92,4 +92,4 @@ Still has nobles, but everyone else produces what they can and consumes what the
 [[Politics and Culture/Capital-P Politics/Dwarf Fortress Economy\|Dwarf Fortress Economy]]
 [[Politics and Culture/Capital-P Politics/What is Money\|What is Money]]
 [[Reading and Writing/Books/The Grapes of Wrath\|The Grapes of Wrath]]
-[[Universal Basic Income\|Universal Basic Income]]
+[[Politics and Culture/Capital-P Politics/Universal Basic Income\|Universal Basic Income]]
