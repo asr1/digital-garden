@@ -19,4 +19,4 @@ We don't.
 
 [[Politics and Culture/Capital-P Politics/What does a government owe its people\|What does a government owe its people]]
 [[Politics and Culture/Cars\|Cars]]
-[[Universal Basic Income\|Universal Basic Income]]
+[[Politics and Culture/Capital-P Politics/Universal Basic Income\|Universal Basic Income]]
