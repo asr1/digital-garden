@@ -15,7 +15,7 @@ US military spending is VAST: the US spends more on "defense" than the next 10 c
 
 ## The Problem
 
-Now we have a problem: everyone needs a job (see [[Misc/Productivity\|Productivity]], [[Universal Basic Income\|Universal Basic Income]], [[Politics and Culture/Culture/Bullshit Jobs\|Bullshit Jobs]], and more), and a lot of those jobs are for defense contractors. 
+Now we have a problem: everyone needs a job (see [[Misc/Productivity\|Productivity]], [[Politics and Culture/Capital-P Politics/Universal Basic Income\|Universal Basic Income]], [[Politics and Culture/Culture/Bullshit Jobs\|Bullshit Jobs]], and more), and a lot of those jobs are for defense contractors. 
 
 So if we cut down on spending, we're necessarily leading to cuts in jobs. This means layoffs for companies like Raytheon, Boeing, Lockheed Martin, Northrop Grumman, and more. Not just the defense contractors, but their subcontractors as well. 
 
@@ -23,7 +23,7 @@ On a personal note, I used to work for what is now [Collins Aerospace](https://w
 
 In short the problem is this: if you cut military spending, you cut jobs.
 
-So what can we do? Short of implementing [[Universal Basic Income\|UBI]], I only see one solution: the wean.
+So what can we do? Short of implementing [[Politics and Culture/Capital-P Politics/Universal Basic Income\|UBI]], I only see one solution: the wean.
 
 ## The Wean
 
@@ -50,10 +50,10 @@ Now there's a glaring flaw in this idealistic plan: it requires contractors to b
 
 Really, we're offering these companies [[Thoughts/Slack\|Slack]]. At the end of the period (3 year, 5 year what have you), they will have pivoted to a new product or gone bankrupt. The taxpayer is paying NOT to produce weapons (which is necessarily cheaper than producing weapons; it's the same costs minus the actual weapon), and giving these companies a stress-free period to pivot to some other need.
 
-Then we can decouple building bombs from employing people. At least until we find [[Universal Basic Income\|some other way]] to pay people. 
+Then we can decouple building bombs from employing people. At least until we find [[Politics and Culture/Capital-P Politics/Universal Basic Income\|some other way]] to pay people. 
 
 ## See Also 
 [[We are not the World's Police force\|We are not the World's Police force]]
 [[Misc/Productivity\|Productivity]]
-[[Universal Basic Income\|Universal Basic Income]]
+[[Politics and Culture/Capital-P Politics/Universal Basic Income\|Universal Basic Income]]
 [[Politics and Culture/Culture/Bullshit Jobs\|Bullshit Jobs]]
