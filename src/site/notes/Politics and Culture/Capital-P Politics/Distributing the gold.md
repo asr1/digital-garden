@@ -30,4 +30,4 @@ Note 2: Yes, standardized testing is flawed, especially as a screener for educat
 
 ## See Also
 [[Politics and Culture/Capital-P Politics/Means Testing Is Stupid\|Means Testing Is Stupid]]
-[[Universal Basic Income\|Universal Basic Income]]
+[[Politics and Culture/Capital-P Politics/Universal Basic Income\|Universal Basic Income]]
