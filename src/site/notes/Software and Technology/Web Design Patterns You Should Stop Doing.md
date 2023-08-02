@@ -25,9 +25,19 @@ If you are going to dismiss the window and discard user data, either listen for 
 
 At the very least, if you must do this, include proper padding like the example above.
 
+
 ## Verification Codes
 
 If you text a user a one-time verification code, like 12839, you should also trim spaces from the user's input.
 
 If someone copy/pastes `12839 `, you should still accept it, even if it's not exactly `12839`. A single space should not cause verification to fail.
 
+
+## Birthday Date Pickers
+
+When you let the user pick their DOB, don't use a date picker box. If you DO use a date picker, don't set it to today's date. 
+
+Let the user type in their date of birth in a text field. You can validate it or restrict it, but please don't force them to click arrows dozens of times to get to the right year.
+
+## See Also
+[[Software and Technology/Stop Responding to mouse up\|Stop Responding to mouse up]]
