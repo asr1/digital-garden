@@ -18,3 +18,7 @@ Only listen for mouse down AND mouse up outside of the box.
 I cannot count the number of times where I have tried to select the default text in a popup, only to move my mouse a couple pixels too far and have the popup dismiss itself, losing all of my data.
 
 If you *are* going to listen for mouse-up, at least prompt the user that their data will be lost if they continue before just throwing it all away.
+
+
+## See Also
+[[Software and Technology/Web Design Patterns You Should Stop Doing\|Web Design Patterns You Should Stop Doing]]
