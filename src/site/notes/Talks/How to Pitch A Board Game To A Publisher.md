@@ -12,6 +12,8 @@ Opens with discussion of the movie "Margin call", similar to Big Short
 
 James Earnest in audience.
 
+---
+
 How to pitch to a publisher
 
 Ryan Dancey is the creator of Legend of the 5 Rings IP, big designer of 3.5, responsible for Wizards buying TSR, and the COO of AEG, the board game publisher behind Smash Up, Romance of the Nine Empires, and more.
