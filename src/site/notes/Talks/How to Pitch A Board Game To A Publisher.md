@@ -40,14 +40,14 @@ KNOW THE PUBLISHER
 -   Box with cards are the easiest to produce, but there's lots of these
 -   Any non standard components or trays
 	-   Any considerations to make this a great experience for the player from set up to tear down?
--  ⭐  ==A unique widget? This is a BIG PLUS --- IF the game depends on it.
+-  ⭐  ==A unique widget? This is a BIG PLUS --- IF the game depends on it.==
 	-   This is also the kind of thing you *need* a publisher for, and they like it.
 
 ## Sell Sheets
 
 - One page
 -  Picture of game
--  # of players
+-  \# of players
 -  How to win
 -  Core mechanic
 -  Why is this game awesome
@@ -55,7 +55,7 @@ KNOW THE PUBLISHER
 	-   Quality of this sheet is never a consideration
 -   Give them a reason to say yes
 
-Make a 5 minute video of you piching.
+Make a 5 minute video of you pitching.
 	The RUNDOWN (see below)
 	This video will get you a lot of "no"s
 	But the yeses you get are stronger, it's a great filter
@@ -90,7 +90,7 @@ Probably not happening during a pitch
 Maybe simulate a turn or two
 Might do a demo for some time (e.g. 20 minutes)
 MAY be a full play
-⭐ ==Package the board game for quick setup and play. Seriously.
+⭐ ==Package the board game for quick setup and play. Seriously.==
 
 ## POST PITCH FOLLOW UP
 -   Email 2 weeks after
