@@ -96,7 +96,7 @@ MAY be a full play
 
 ## POST PITCH FOLLOW UP
 -   Email 2 weeks after
-	-   + sell sheet
+	-   \+ sell sheet
 	-   Thank for time + taking pitch
 	-   Wait
 	-   Please get back when you have time thanks
