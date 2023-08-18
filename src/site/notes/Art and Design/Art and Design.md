@@ -6,7 +6,8 @@
 # Art and Design
 
 [[Art and Design/10 things I wish I knew about Publisher\|10 things I wish I knew about Publisher]]
-[[Art and Design/Body Proportions\|Body Proportions]]
+[[Body 
+[[Art and Design/Design\|Design]]
 [[Art and Design/Gruvbox Colors\|Gruvbox Colors]]
 [[Art and Design/Layout\|Layout]]
 [[Art and Design/Practical Creativity\|Practical Creativity]]
