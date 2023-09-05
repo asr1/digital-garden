@@ -42,3 +42,4 @@ In the Sim City games, Will Wright mentioned that they had to dramatically reduc
 - Taxes and fees don't offset the cost of maintaining roads or accidents.
 - Owner costs come from fuel, insurance, maintenance
 - In Copenhagen, cars are subsidized *more* per rider than public transit.
+[Culdesac, a neighborhood in Tempe, Arizona](https://culdesac.com/tempe/) designed around walkability and carlessness.
