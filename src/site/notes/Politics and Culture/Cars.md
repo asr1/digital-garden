@@ -35,6 +35,9 @@ In the Sim City games, Will Wright mentioned that they had to dramatically reduc
 
 
 ## See Also
+
+![Urban Planning xkcd.png](/img/user/img/comics/Urban%20Planning%20xkcd.png)
+
 [[Politics and Culture/Capital-P Politics/Housing as a human right\|Housing as a human right]]
 [[Politics and Culture/Culture/Induced Demand\|Induced Demand]]
 [[Politics and Culture/Capital-P Politics/What does a government owe its people\|What does a government owe its people]]
