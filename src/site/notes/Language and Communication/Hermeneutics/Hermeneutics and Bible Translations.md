@@ -11,7 +11,7 @@ Some authors translate their own books, and say that certain languages capture t
 
 
 
-[[Did Paul say shit\|Did Paul say shit]]
+[[Language and Communication/Hermeneutics/Did Paul say shit\|Did Paul say shit]]
 Commas
 Adam's rib bone
 The Apple and the fig
