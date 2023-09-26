@@ -23,7 +23,7 @@ I can't remember if it was John Carmack or Scott Alexander, but I remember readi
 
 SMBC makes the an argument that college degrees are getting easier to get, and the easier they get, the worse you look for not having one.
 
-![SMBC College Education.png](/img/user/img/SMBC%20College%20Education.png)
+![SMBC College Education.png](/img/user/img/comics/SMBC%20College%20Education.png)
 
 
 A lot of entry level jobs require a college degree in *any* field, not even a relevant one.
@@ -63,7 +63,7 @@ For people without that privilege, college isn't just a signifier, it's a way to
 
 </div></div>
 
-[This, other SMBC](![SMBC Liberal Education.png](/img/user/img/SMBC%20Liberal%20Education.png))
+[This, other SMBC](![SMBC Liberal Education.png](/img/user/img/comics/SMBC%20Liberal%20Education.png))
 [[Advice/(Skip The) 100 level courses\|(Skip The) 100 level courses]]
 [[Thoughts/Seinfeld, Mash, and The Last Time We Agreed on What To Watch\|Seinfeld, Mash, and The Last Time We Agreed on What To Watch]]
 [[Thoughts/Slack\|Slack]]
