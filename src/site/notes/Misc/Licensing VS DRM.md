@@ -5,7 +5,7 @@
 
 I don't like DRM (Digital Rights Management). ==Why should I have more restrictions on a piece of software or media that I purchased than someone does who stole that same media?==
 
-![XKCD DRM.png](/img/user/img/XKCD%20DRM.png)
+![XKCD DRM.png](/img/user/img/comics/XKCD%20DRM.png)
 
 So how do I reconcile this with my belief that artists should be paid for their art? 
 
