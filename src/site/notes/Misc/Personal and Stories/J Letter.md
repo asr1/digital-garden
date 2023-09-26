@@ -76,7 +76,7 @@ Alex
 
 SMBC makes the an argument that college degrees are getting easier to get, and the easier they get, the worse you look for not having one.
 
-![SMBC College Education.png](/img/user/img/SMBC%20College%20Education.png)
+![SMBC College Education.png](/img/user/img/comics/SMBC%20College%20Education.png)
 
 
 A lot of entry level jobs require a college degree in *any* field, not even a relevant one.
