@@ -16,4 +16,4 @@ Context: changing preferred terms and terminology for people and groups.
 [[Politics and Culture/Culture/Ask Culture vs Guess Culture\|Ask Culture vs Guess Culture]]
 
 > =="My mom would say there's a bag of apples on the couther in the kitchen and I'd say okay I'll have a pie ready for dinner and my husband would say "Wasn't she just offering an apple?"==
->(from [[Talks/Tropes and Misinformation\|Tropes and Misinformation]])
+>(from [[Talks, Panels, and Articles/Panels/Tropes and Misinformation\|Tropes and Misinformation]])
