@@ -5,6 +5,7 @@
 
 * **Why don't pirates bathe before walking the plank?** They'll just wash up on shore later.
 * **What did the pirate say when asked if he was an octogenarian?** Aye matey
+* **Why do chicken coops have 2 doors?** If they had four doors, they'd be chicken sedans!
 * No matter how nice your kids are, German children will always be kinder.
 * **Why does it take a pirate so long to recite the alphabet?** They can spend years at 'c'
 * **According to Sigmund Freud, what comes between fear and sex?** fünf
@@ -32,6 +33,8 @@ Two counterfeiters were admiring the latest bills. One turned to the other and s
 
 The counterfeiter went down to the beach and returned a few minutes later. "Well, the good news is you were right. He took the bill. The bad news is he gave me back three $7s and $4!"
 
+
+![Pasted image 20231024205245.png](/img/user/Pasted%20image%2020231024205245.png)
 
 ## See Also
 [[Misc/Just for Fun/Fun Facts\|Fun Facts]]
