@@ -3,7 +3,7 @@
 ---
 
 
-[[Talks/Finding Your Voice\|Finding Your Voice]]
+[[Talks, Panels, and Articles/Panels/Finding Your Voice\|Finding Your Voice]]
 [[Reading and Writing/Inspiration\|Inspiration]]
 [[Reading and Writing/Writing Advice\|Writing Advice]]
 [[Reading and Writing/Writing I Enjoy\|Writing I Enjoy]]
