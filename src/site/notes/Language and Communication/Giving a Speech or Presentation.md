@@ -34,4 +34,4 @@ If you don't have time to get extremely familiar with a topic, don't.
 Use the outline and fill in the blanks. Rely less on the notes feature on your slides. It's okay to leave some things out.
 
 ## See Also
-[[Talks/Stagecraft\|Stagecraft]]
+[[Talks, Panels, and Articles/Panels/Stagecraft\|Stagecraft]]
