@@ -46,3 +46,5 @@ In the Sim City games, Will Wright mentioned that they had to dramatically reduc
 - Owner costs come from fuel, insurance, maintenance
 - In Copenhagen, cars are subsidized *more* per rider than public transit.
 [Culdesac, a neighborhood in Tempe, Arizona](https://culdesac.com/tempe/) designed around walkability and carlessness.
+
+![Sidewalks.png.png](/img/user/img/Sidewalks.png.png)![Sidewalks 2.png](/img/user/img/comics/Sidewalks%202.png)![Sideealks 3.png](/img/user/img/comics/Sideealks%203.png)![Sidewalks 4.png](/img/user/img/comics/Sidewalks%204.png)![Sidewalks comment.png](/img/user/img/comics/Sidewalks%20comment.png)
