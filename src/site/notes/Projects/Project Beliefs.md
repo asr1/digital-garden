@@ -21,10 +21,13 @@ Everyone's got a half-finished manuscript under their bed. It's easier to start 
 
 ### Don't talk about it until it's done
 
+*Don't talk about it, do it.*
+
 It's easy to get the same sort of glee and pleasure from talking about a project as you do from actually doing it. ==**Don't.**== This is a trap. Keep quiet, get the thing done, then show it off. 
 
 *counterpoint:* Some people are able to and enjoy [[Projects/Building in public\|Building in public]]. They take accountability from having an audience. I am not one of those people. Know yourself, and know yourself well.
 
+See also keeping a high do/say ratio.
 
 ## You've got to start somewhere. More than that, you've got to start
 
