@@ -28,6 +28,10 @@ Fast and the Furious is a Movie. Synecdoche, New York is a Film. Most Marvel mov
 
 This isn't a clear-cut category, but a lens for analysis. Personally, and perhaps controversially, I believe Wall-E is a beautiful and great film, but not a very good movie; it's not *entertaining*.
 
+Similarly, the Jason Bourne films are full of car chases, fight scenes, and entertaining stunts that look cool. But they're also full of questions about the role of government, surveillance, personal freedoms, and the lengths one is willing to go to get answers (or revenge). They are excellent films that can be analyzed from both metrics. I would argue that they are more successful as films than as movies, simply due to the amount of time we spend with the political nature of the films. It's easy to watch a James Bond movie and focus on the stunts, forgetting about the fact that he's a state-sponsored assassin. The Bourne movies are entertaining, but they don't let you forget what's really going on. They're stories about government assets, people turned into weapons. The films wants you to hold Jason's horror in your mind, to question the "cool stunts" he's able to pull off. He doesn't want to be cool. He wants to retire to a seaside shack. 
+
+What does James Bond want? A hot babe, a strong drink, and the next job, mostly. Some of the later films (notably starting with the Casino Royale remake) add depth to Bond, but these aren't what most people think of when they picture the character. They think of a suave man with a gun and few qualms. That's *entertainment* (for better or for worse; *that's* a different article).
+
 #### See Also
 * [[Thoughts/Art as a non-essential job\|Art as a non-essential job]]
 
