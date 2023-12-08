@@ -18,6 +18,16 @@
 		- This does not mean that wide art is less valid, only that there are contexts where categories are useful
 - I like art that strives to make the user feel something, and art that can do that on its own, without additional context.
 
+### Films
+
+I often differentiate between movies and films when discussing among friends. This is a made up (but useful) distinction. Films want to be analyzed. They have themes and make points about life or society. They want to be viewed as Art.
+
+Movies are also art (see above, you won't catch me saying they aren't!), but their primary goal is to entertain. That's not to say that films can't be entertaining, or that movies can't be poignant. Obviously these aren't aren't mutually exclusive categories, but convenient labels for discussions. 
+
+Fast and the Furious is a Movie. Synecdoche, New York is a Film. Most Marvel movies are movies (that doesn't mean they're bad — the first Iron Man ranks among my favorite movies, alongside Casablanca and the first Pirates of the Caribbean). Citizen Kane is a film. Many movies about war are films, meant more to make a point than (just) to entertain. Documentaries, by this definition, are almost necessarily films, while video essays ride the line perfectly.
+
+This isn't a clear-cut category, but a lens for analysis. Personally, and perhaps controversially, I believe Wall-E is a beautiful and great film, but not a very good movie; it's not *entertaining*.
+
 #### See Also
 * [[Thoughts/Art as a non-essential job\|Art as a non-essential job]]
 
