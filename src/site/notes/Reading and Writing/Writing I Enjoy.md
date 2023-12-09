@@ -154,6 +154,12 @@ Come on and sew us together
 We're just some tattered rags stained forever
 We only have what we remember
 
+## Ten Thousand Days for the Sword
+
+![Horse Text.png](/img/user/img/Horse%20Text.png)
+
+
+
 ## Much of #penny-arcade
 
 
