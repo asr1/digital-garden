@@ -101,6 +101,9 @@ Whoops the Monkey, Killer whale. Nominate someone else for the whale for the wee
 FDR met with John Maynard Keynes. Economists believe that if FDR had unde4rstood what Keynes was saying, the Great Depression could have ended sooner. Whose fault is it that FDR didn't understand? People traditionally blame FDR, but it was Keynes's job to express himself clearly.
 
 Block 2 hours of sacred think time every day. Get "really seriously angry" if anyone tries to schedule over it (?)
+
+![Radical Candor Oxford.jpg](/img/user/img/Radical%20Candor%20Oxford.jpg)
+*It's not clear to me what the author's expected outcome from this interaction was.*
 ## See Also
 
 [Getting the best employee ideas]([https://hbr.org/2008/02/getting-the-best-employee-idea](https://hbr.org/2008/02/getting-the-best-employee-idea))
