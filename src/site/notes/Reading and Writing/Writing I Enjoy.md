@@ -156,7 +156,7 @@ We only have what we remember
 
 ## Ten Thousand Days for the Sword
 
-![Horse Text.png](/img/user/img/Horse%20Text.png)
+![Horse Text.png](/img/user/img/img_misc/Horse%20Text.png)
 
 
 
