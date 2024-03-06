@@ -75,13 +75,13 @@ So what CAN we do? Well, if we dig in to a SingStar file, we can find that it co
 
 Each song has a text file that dictates what the lyrics are, as well as what notes correspond to the lyrics. We're going to look at Re: Your Brains by Jonathan Coulton, since the song is licensed by creative commons. As you can see we've got metadata like beats per minute.
 
-![coulton song.png](/img/user/img/coulton%20song.png)
+![coulton song.png](/img/user/img/img_misc/coulton%20song.png)
 
 This would be a HUGE pain to make by hand! There are tools like Performous Composer (pictured below) that let you set the notes and durations of various lyrics as you play a song. This is still a painstaking process that requires listening to a song until you hate it.
 
 Also Performous is a PAIN to use. It constantly looses your place, and has a lot of weird gimmicks (like not processing changes until after you commit the next one).
 
-![performous.png](/img/user/img/performous.png)
+![performous.png](/img/user/img/img_projects/performous.png)
 
 Surely someone has done this for us? Well obviously in the case of JoCo songs, yes. Otherwise...maybe! UltraStar, which is a Windows clone of SingStar, has a repository of songs... but ONLY the lyrics and notes you see above. You have to provide the music video and art.
 
@@ -89,7 +89,7 @@ Not a big deal, as long as you find the RIGHT music video. Nothing worse than ou
 
 One problem: the tool only exists in German. But we live in the future and have translators at our fingertips!
 
-![Translated Singstar Creator.png](/img/user/img/Translated%20Singstar%20Creator.png)
+![Translated Singstar Creator.png](/img/user/img/img_projects/Translated%20Singstar%20Creator.png)
 
 So in theory we have what we need: * A PlayStation that can play unsigned software * A song in the UltraStar format (re: your brains by Jonathan Coulton) * A tool to convert UltraStar to SingStar * The ability to build that to an ISO So let's jump in!
 
@@ -120,7 +120,7 @@ Time to return to that German tool.  It patches custom songs into a (German) ver
 
 So we have our custom iso... Let's take a look! ... Well, it works. But of course it's entirely in German.
 
-![German Singstar Cropped.png](/img/user/img/German%20Singstar%20Cropped.png)
+![German Singstar Cropped.png](/img/user/img/img_projects/German%20Singstar%20Cropped.png)
 
 But this is still going off of USB, which means I can't get my microphones to work at the same time!
 
