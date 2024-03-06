@@ -34,7 +34,7 @@ But most engines aren't built for corn. It may be cheaper, but you have to buy i
 
 I should mention, I don't have ties to Big Corn, but I am from Iowa. Corn is the state's biggest export (followed by tractors!). The price of corn right now is $6.47 a bushel. Generally speaking, that's pretty high. Here's a chart of the last 5 years.
 
-![Iowa Corn over time.png](/img/user/img/Iowa%20Corn%20over%20time.png)
+![Iowa Corn over time.png](/img/user/img/img_misc/Iowa%20Corn%20over%20time.png)
 
 Corn and soybeans have BEEN high since 2006. The trend hasn't stopped. I'll come back to this later, but part of the reason for it is because demand for corn has gone up. Much of the corn is being converted to ethanol.
 
@@ -100,7 +100,7 @@ They generated a computer model (that the authors are rather vague on) to see wh
 
 The study's base assumption is that farmers are chopping down forests and plowing savannah to make ethanol. That's somewhat true! Between 2009 and 2013, Iowa lost 97,000 acres of forest. And 71% of that came from agriculture! (Des Moines Register)
 
-![iowa forested lands.png](/img/user/img/iowa%20forested%20lands.png)
+![iowa forested lands.png](/img/user/img/img_misc/iowa%20forested%20lands.png)
 
 There are similar trends across the country.
 
@@ -116,7 +116,7 @@ As cropland switches to ethanol, they expect corn exports to drop 62% (!) that's
 
 Hmm. The first thing you'll notice is 2012. There was a huge drought that year, let's ignore it. Aside from the drought year, corn exports have not decreased since this article was written.
 
-![corn exports.png](/img/user/img/corn%20exports.png)
+![corn exports.png](/img/user/img/img_misc/corn%20exports.png)
 
 That's not a complete debunkment: They hedge and say 62% compared to what they otherwise might have been. I'm no economist, so maybe they expected a dramatic increase in exports, and what we see IS a 62% decrease. But my gut says that this kind of growth is NOT a 62% decrease.
 
@@ -174,7 +174,7 @@ The process of refining takes fuel. In 2010, that was largely coal. Now it's nat
 
 One of those ag science reductions is in reduced tillage. Compared to conventional tillage, the modern approach cuts down on soil carbon and CO2 emissions. look at how much better we're doing (right column) than the estimates (second to right column)
 
-![tillage.png](/img/user/img/tillage.png)
+![tillage.png](/img/user/img/img_misc/tillage.png)
 
 If there really are coal-burning refineries that are being lumped in, it's not showing up in the data. Which means the claim is either false or insignificant. Another point to ethanol.
 
