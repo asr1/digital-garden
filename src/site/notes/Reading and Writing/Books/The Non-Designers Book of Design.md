@@ -127,7 +127,7 @@ There are 8 ways to set blocks of text copy ([source](https://jamesrobertwatson.
 * Wraparound
 * Image Shape
 * Flush center
-![Body Text Options.png](/img/user/img/Body%20Text%20Options.png)
+![Body Text Options.png](/img/user/img/img_misc/Body%20Text%20Options.png)
 *Flush center is good for signs and similar things*
 
 
@@ -205,7 +205,7 @@ With intentionality!
 
 ❗ Find a strong line and use it.
 
-![Strong Edges.jpg|450](/img/user/img/Strong%20Edges.jpg)
+![Strong Edges.jpg|450](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/Strong%20Edges.jpg)
 
 > “Try to make it sound like you wrote it that way on purpose.” 
 > – Arthur Howitzer Jr., the French Dispatch
@@ -760,7 +760,7 @@ Small cool + big warm is overpowering
 
 Even black and white (or black and blacker) is contrast of color.
 
-![Black and White Color.png|450](/img/user/img/Black%20and%20White%20Color.png)
+![Black and White Color.png|450](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/Black%20and%20White%20Color.png)
 
 A change in condenseness or boldness can also act as a change in color, even in black and white (see page 210 – 211, not pictured above).
 
