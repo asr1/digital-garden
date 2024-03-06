@@ -17,7 +17,8 @@ Don Norman's [[Reading and Writing/Books/The Design of Everyday Things\|The Desi
 [[Reading and Writing/Books/The Grapes of Wrath\|The Grapes of Wrath]] by John Steinbeck
 [[Reading and Writing/Books/Nonviolent Communication\|Nonviolent Communication]]
 [[Reading and Writing/Books/The Non-Designers Book of Design\|The Non-Designers Book of Design]]
-[[Radical Candor\|Radical Candor]]
+[[Reading and Writing/Books/Radical Candor\|Radical Candor]]
+[[Reading and Writing/Books/So You Want To Be A Game Master\|So You Want To Be A Game Master]]
 [[Reading and Writing/Books/The Stranger\|The Stranger]]
 [[Reading and Writing/Books/Ulysses\|Ulysses]]
 [[Reading and Writing/Books/Women Fire And Dangerous Things\|Women Fire And Dangerous Things]]
