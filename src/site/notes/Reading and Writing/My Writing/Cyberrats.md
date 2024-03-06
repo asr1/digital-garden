@@ -5,7 +5,7 @@
 
 # Cyberrats
 
-![Cyberrats Cover.png|420](/img/user/img/Cyberrats%20Cover.png)
+![Cyberrats Cover.png|420](/img/user/img/img_projects/Cyberrats%20Cover.png)
 
 The premise of Cyberrats is this:
 - You are interns at a megacorp. You are also a giant rat (or a swarm of rats, or a rat mind in a human body. Don't sweat the details). 
