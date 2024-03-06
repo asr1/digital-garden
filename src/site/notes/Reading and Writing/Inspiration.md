@@ -4,7 +4,7 @@
 
 
 ## Magic Pirate Ship Tree Portal
-![magic pirate ship tree portal.png](/img/user/img/magic%20pirate%20ship%20tree%20portal.png)
+![magic pirate ship tree portal.png](/img/user/img/img_misc/magic%20pirate%20ship%20tree%20portal.png)
 
 ## Night RV
-![Night RV.png](/img/user/img/Night%20RV.png)
+![Night RV.png](/img/user/img/img_misc/Night%20RV.png)
