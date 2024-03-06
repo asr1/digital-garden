@@ -52,4 +52,4 @@ See also [[Misc/Personal and Stories/J Letter\|J Letter]]
 [[Misc/Build It For Life\|Build It For Life]]
 [[Misc/Productivity\|Productivity]]
 [This SMBC comic](https://www.smbc-comics.com/comic/college-level-mathematics): 
-![SMBC Baby Tiger.png](/img/user/img/comics/SMBC%20Baby%20Tiger.png)
+![SMBC Baby Tiger.png](/img/user/img/img_comics/SMBC%20Baby%20Tiger.png)
