@@ -34,7 +34,7 @@ Two counterfeiters were admiring the latest bills. One turned to the other and s
 The counterfeiter went down to the beach and returned a few minutes later. "Well, the good news is you were right. He took the bill. The bad news is he gave me back three $7s and $4!"
 
 
-![Sonic Sign.png](/img/user/img/Sonic%20Sign.png)
+![Sonic Sign.png](/img/user/img/img_misc/Sonic%20Sign.png)
 
 ## See Also
 [[Misc/Just for Fun/Fun Facts\|Fun Facts]]
