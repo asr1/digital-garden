@@ -5,4 +5,4 @@
 
 Over the past 50 years, human sperm counts appear to have fallen by more than 50% around the globe.
 
-![Sperm Count.png](/img/user/img/Sperm%20Count.png)
+![Sperm Count.png](/img/user/img/img_misc/Sperm%20Count.png)
