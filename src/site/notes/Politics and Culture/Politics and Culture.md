@@ -38,7 +38,7 @@
 * [[Politics and Culture/Capital-P Politics/Means Testing Is Stupid\|Means Testing Is Stupid]]
 * [[Politics and Culture/Capital-P Politics/What is Money\|What is Money]]
 * [[Politics and Culture/Capital-P Politics/Moral Stupefaction\|Moral Stupefaction]]
-* [[img/Nuclear Energy\|Nuclear Energy]]
+* [[Nuclear Energy\|Nuclear Energy]]
 * [[Politics and Culture/Capital-P Politics/Nuclear Proliferation\|Nuclear Proliferation]]
 * [[Politics and Culture/Culture/Personal Pronouns\|Personal Pronouns]]
 * #religion 
