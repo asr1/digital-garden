@@ -28,4 +28,4 @@ Marie Kondo
 [[Politics and Culture/Capital-P Politics/Capitalism\|Capitalism]]
 [[Misc/Interesting/Hedonic Treadmill\|Hedonic Treadmill]]
 [[Politics and Culture/Culture/Minimalism\|Minimalism]]
-#McHenry on monetization: ![McHenry Consummerism.png|600](/img/user/img/comics/McHenry%20Consummerism.png)
+#McHenry on monetization: ![McHenry Consummerism.png|600](/img/user/img/img_comics/McHenry%20Consummerism.png)
