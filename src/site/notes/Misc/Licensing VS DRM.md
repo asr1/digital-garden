@@ -5,7 +5,7 @@
 
 I don't like DRM (Digital Rights Management). ==Why should I have more restrictions on a piece of software or media that I purchased than someone does who stole that same media?==
 
-![XKCD DRM.png](/img/user/img/comics/XKCD%20DRM.png)
+![XKCD DRM.png](/img/user/img/img_comics/XKCD%20DRM.png)
 
 So how do I reconcile this with my belief that artists should be paid for their art? 
 
@@ -46,7 +46,7 @@ Then Adobe wised up and smelled the innards of the golden goose. Why release a n
 
 Now, almost everyone I know pirates Adobe. It's so prohibitively expensive and you end up owning nothing. There are even memes about it! This isn't a cultural question at this point, it's just in the zeitgeist. 
 
-![Adobe Morals.png|250](/img/user/img/Adobe%20Morals.png)
+![Adobe Morals.png|250](/img/user/img/img_misc/Adobe%20Morals.png)
 
 Autodesk recently alienated their customers by becoming ungodly expensive, to the tune of $300 a month for the cheapest tier! That's more than $2400 a year, for those keeping track at home. For a subscription! And that's just for a single program, not even the entire suite.
 
@@ -61,7 +61,7 @@ Their mistake was not in this pro-consumer move, it was in pissing off a bunch o
 I'm not a fan of his writing but I think Neil Gaiman has this one right. He wrote: 
 > I think a legal suit over something that was obviously a well-intentioned effort to make things easier on people in the early days of lockdown is wrong.
 
-![Gaimain Archive.png](/img/user/img/Gaimain%20Archive.png)
+![Gaimain Archive.png](/img/user/img/img_misc/Gaimain%20Archive.png)
 
 ## See Also
 [[Thoughts/Library Licenses\|Library Licenses]]
