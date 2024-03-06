@@ -102,4 +102,4 @@ Write 350 words a day, it <u>adds up!</u>
 
 ## We should live to work, not live to work
 Tom #McHenry on shareholder value
-![McHenry RIP.png](/img/user/img/comics/McHenry%20RIP.png)
+![McHenry RIP.png](/img/user/img/img_comics/McHenry%20RIP.png)
