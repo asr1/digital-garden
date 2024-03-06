@@ -4,4 +4,4 @@
 
 
 
-![Gruvbox Colors.png](/img/user/img/Gruvbox%20Colors.png)
+![Gruvbox Colors.png](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/Gruvbox%20Colors.png)
