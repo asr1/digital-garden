@@ -11,7 +11,7 @@ Largely, we didn't listen.
 
 US military spending is VAST: the US spends more on "defense" than the next 10 countries combined as of 2022 (previously it was more than the next 9) ([source](https://www.pgpf.org/blog/2023/04/the-united-states-spends-more-on-defense-than-the-next-10-countries-combined)). Of those 10 countries, 3 are allies (UK, Germany, France).
 
-![US defense spending.png](/img/user/img/US%20defense%20spending.png)
+![US defense spending.png](/img/user/img/img_misc/US%20defense%20spending.png)
 
 ## The Problem
 
