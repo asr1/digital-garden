@@ -13,7 +13,7 @@ I know more than one libertarian, and I'm thinking of one in particular who told
 
 I asked if she'd feel differently if the taxes were invisible to her: the job advertised $15 an hour, her employer paid taxes, and she received $15 an hour, with the "theft" from her paycheck. I never received an answer.
 
-![Wage Theft.png|500](/img/user/img/Wage%20Theft.png)
+![Wage Theft.png|500](/img/user/img/img_misc/Wage%20Theft.png)
 *I wish I could find a less hostile version of this meme.*
 
 The libertarian argument is that you agreed to one ("Entrepreneurship"), but not the other. You don't really have a choice of whether or not to agree to either of them. The only time someone is going to hire you for $X to do a job is if they get at LEAST $X+1 value out of that. Otherwise they're necessarily losing money.
@@ -134,11 +134,11 @@ To the libertarian's credit, the [Indiana Toll road](https://en.wikipedia.org/wi
 [SSC non-libertarian FAQ](https://slatestarcodex.com/2017/02/22/repost-the-non-libertarian-faq/)
 [[Politics and Culture/Capital-P Politics/Capitalism\|Capitalism]]
 
-![Libertarians As Housecasts.png|500](/img/user/img/Libertarians%20As%20Housecasts.png)
+![Libertarians As Housecasts.png|500](/img/user/img/img_misc/Libertarians%20As%20Housecasts.png)
 
 Counterargument (that I don't buy): We're only dependent on the government because they [rendered us impotent and made us so.](https://fee.org/articles/are-libertarians-house-cats/) "The house cat metaphor is one we should embrace. Wild cats are resilient and resourceful, but we made them dependent by locking them indoors" 🙄🙄
 
-![Freedom Pie.png|450](/img/user/img/Freedom%20Pie.png)
+![Freedom Pie.png|450](/img/user/img/img_misc/Freedom%20Pie.png)
 
 [How Ayn Rand Destroyed Sears](https://www.versobooks.com/blogs/news/4385-failing-to-plan-how-ayn-rand-destroyed-sears)
 > Eddie Lampert was a Sears CEO who figured — since free-market competitive economies outcompete top-down economies, shouldn’t free-market competitive companies outcompete top-down companies? He reorganized Sears as a set of competing departments that traded with each other on normal free-market principles; if the Product Department wanted its products marketed, it would have to pay the Marketing Department. This worked really badly, and was one of the main contributors to Sears’ implosion.
