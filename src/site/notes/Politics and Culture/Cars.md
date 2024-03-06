@@ -36,7 +36,7 @@ In the Sim City games, Will Wright mentioned that they had to dramatically reduc
 
 ## See Also
 
-![Urban Planning xkcd.png](/img/user/img/comics/Urban%20Planning%20xkcd.png)
+![Urban Planning xkcd.png](/img/user/img/img_comics/Urban%20Planning%20xkcd.png)
 
 [[Politics and Culture/Capital-P Politics/Housing as a human right\|Housing as a human right]]
 [[Politics and Culture/Culture/Induced Demand\|Induced Demand]]
@@ -47,4 +47,4 @@ In the Sim City games, Will Wright mentioned that they had to dramatically reduc
 - In Copenhagen, cars are subsidized *more* per rider than public transit.
 [Culdesac, a neighborhood in Tempe, Arizona](https://culdesac.com/tempe/) designed around walkability and carlessness.
 
-![Sidewalks.png.png](/img/user/img/Sidewalks.png.png)![Sidewalks 2.png](/img/user/img/comics/Sidewalks%202.png)![Sideealks 3.png](/img/user/img/comics/Sideealks%203.png)![Sidewalks 4.png](/img/user/img/comics/Sidewalks%204.png)![Sidewalks comment.png](/img/user/img/comics/Sidewalks%20comment.png)
+![Sidewalks.png.png](/img/user/img/img_comics/Sidewalks.png.png)![Sidewalks 2.png](/img/user/img/img_comics/Sidewalks%202.png)![Sideealks 3.png](/img/user/img/img_comics/Sideealks%203.png)![Sidewalks 4.png](/img/user/img/img_comics/Sidewalks%204.png)![Sidewalks comment.png](/img/user/img/img_comics/Sidewalks%20comment.png)
