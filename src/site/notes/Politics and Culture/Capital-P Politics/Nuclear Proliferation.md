@@ -36,4 +36,4 @@ The treaty has three arms:
 [1] None of these are officially recognized by the UN.
 
 ## See Also
-[[img/Nuclear Energy\|Nuclear Energy]]
+[[Nuclear Energy\|Nuclear Energy]]
