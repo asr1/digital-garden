@@ -16,7 +16,7 @@ Not just illustrations! They convey and highlight information, so the info has t
 
 ❗ Effective visual notes always include written words. They work *together*
 
-![The Power of Words.png](/img/user/img/The%20Power%20of%20Words.png)
+![The Power of Words.png](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/The%20Power%20of%20Words.png)
 
 
 Illustrations help words not be overpowering. Make it interesting and memorable.
@@ -132,13 +132,13 @@ Stories are sometimes unrelated, so use your best judgment. Pause before writing
 
 Practice a specific, classic alphabet instead of default handwriting.
 
-![Classic Alphabet.png](/img/user/img/Classic%20Alphabet.png)
+![Classic Alphabet.png](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/Classic%20Alphabet.png)
 
 > [!tip] You're not writing the letters, you're **drawing** them.
 
 Same for cursive.
 
-![Cursive Letters.png](/img/user/img/Cursive%20Letters.png)
+![Cursive Letters.png](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/Cursive%20Letters.png)
 
 From there, add variety. Go to block letters.
 
@@ -148,13 +148,13 @@ From there, add variety. Go to block letters.
 	* Difficult
 * Double line (optional fill)
 
-![DoubleLine.png](/img/user/img/DoubleLine.png)
+![DoubleLine.png](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/DoubleLine.png)
 
 - Embellish with serifs (feet) on big letters
 	- Very easy!
 	- Looks best in small sizes where each letter is a single stroke
 	- Try classic, line, or block
-![Serif Types.png](/img/user/img/Serif%20Types.png)
+![Serif Types.png](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/Serif%20Types.png)
 
 #### Other Embellishments
 
@@ -162,7 +162,7 @@ From there, add variety. Go to block letters.
 	- Entire word
 	- Each letter
 - Pick a side or two adjacent sides of each letter. Add gray or black mirror of the letter behind it OR  a flat shadow along the baseline.
-![Shadow.png](/img/user/img/Shadow.png)
+![Shadow.png](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/Shadow.png)
 
 > [!danger] Embellishments can be a distraction!
 > 
@@ -190,7 +190,7 @@ Use a small number of colors. Use light very rarely, there's no contrast!
 	- Complimentary, analogous colors are great when only using 2
 	- When you go to 3, use Triadic (3 colors on an equilateral triangle)
 - Color should be a highlight, not a coloring book.
-![Too much color.png](/img/user/img/Too%20much%20color.png)
+![Too much color.png](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/Too%20much%20color.png)
 
 Can emphasize cursive, easiest way to is to add another line on one side of each letter.
 
@@ -269,16 +269,16 @@ Or
 
 ❗ Simple and recognizable, not realistic. 
 
-![Leveling Up.png|740](/img/user/img/Leveling%20Up.png)
+![Leveling Up.png|740](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/Leveling%20Up.png)
 
-![Oval Person.png](/img/user/img/Oval%20Person.png)
+![Oval Person.png](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/Oval%20Person.png)
 
 Don't need the whole body!
 Faces are super easy to recognize and can get emotion across!
 
 Don't worry about realism, go for clarity.
 
-![Faces.png](/img/user/img/Faces.png)
+![Faces.png](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/Faces.png)
 
 When drawing faces, vary
 - Intensity of emotion
@@ -293,16 +293,16 @@ Recognizable!
 
 palm, fingers, thumb
 
-![Hands.png](/img/user/img/Hands.png)
+![Hands.png](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/Hands.png)
 
 Stick hand is easy
 
-![Stick Hand.png](/img/user/img/Stick%20Hand.png)
+![Stick Hand.png](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/Stick%20Hand.png)
 
 Box hand!
 4 fingers, thumb from base of box.
 
-![Mitten Hand.png](/img/user/img/Mitten%20Hand.png)
+![Mitten Hand.png](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/Mitten%20Hand.png)
 
 Level up the basic hand with fingers of different lengths, lines for palm lines / knuckles, button of fingers connecting on an arc, like a bulging square (not a straight line). This gets pretty advanced, skipping.
 
@@ -313,7 +313,7 @@ Head shape
 - Horizontal oval
 - Vertical oval
 - Rounded rectangle
-- ![Rounded Rectangle.png](/img/user/img/Rounded%20Rectangle.png)
+- ![Rounded Rectangle.png](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/Rounded%20Rectangle.png)
 - Square
 
 Experiment with changing width at one end, or adding a chin. Change up the neck lines (crooked, straight, curvy) but always parallel.
@@ -323,7 +323,7 @@ Experiment with changing width at one end, or adding a chin. Change up the neck 
 
 Practice these! Lots of emotions!
 
-![Drawing Eyes.png](/img/user/img/Drawing%20Eyes.png)
+![Drawing Eyes.png](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/Drawing%20Eyes.png)
 
 Elderly: add slight bags below, crows feet to the side, or relaxed droopy eyelids.
 
@@ -333,13 +333,13 @@ Toy with distance between eyes, size of eye, pupil, vertical placement, rotation
 
 #### Noses
 
-![Nose Drawing.png](/img/user/img/Nose%20Drawing.png)
+![Nose Drawing.png](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/Nose%20Drawing.png)
 
 Don't add nostrils! It looks like a pig.
 
 Mouths
 
-![Mouth Draw.png](/img/user/img/Mouth%20Draw.png)
+![Mouth Draw.png](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/Mouth%20Draw.png)
 
 Add lips, tongue, facial hair, teeth
 
@@ -359,7 +359,7 @@ Can add earrings
 
 Most defining. Can completely change a character.
 
-![Hair.png|740](/img/user/img/Hair.png)
+![Hair.png|740](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/Hair.png)
 
 ## Visual Direction
 
@@ -369,7 +369,7 @@ Container styles:
 
 Box, pull quotes, thought bubbles, brackets. AMYTHING!
 
-![Containers.png|700](/img/user/img/Containers.png)
+![Containers.png|700](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/Containers.png)
 
 Numbers! Very powerful
 
@@ -379,11 +379,11 @@ Arrows! Super clear to direct attention. Tons of styles! Including dashed or cur
 
 You can also guide with shapes, making shadows that show how to read a document.
 
-![Guiding Shapes.png](/img/user/img/Guiding%20Shapes.png)
+![Guiding Shapes.png](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/Guiding%20Shapes.png)
 
 #### Icons!
 
-![Icons.png](/img/user/img/Icons.png)
+![Icons.png](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/Icons.png)
 
 Can also use custom icons in an index for clarity.
 
@@ -434,7 +434,7 @@ Your first idea is usually best.
 
 Metaphors help simplify complexity and aid in comprehension.
 
-![Metaphor.png](/img/user/img/Metaphor.png)
+![Metaphor.png](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/Metaphor.png)
 
 Use keywords and synonyms, but don't get distracted from the presentation!
 
@@ -450,7 +450,7 @@ Plan your time accordingly, can pencil out blocks before hand with time stamps.
 
 That way you don't run out of room partway through
 
-![Time blocks.png](/img/user/img/Time%20blocks.png)
+![Time blocks.png](/img/user/img/img_books/Visual%20Notetaking%20and%20Design/Time%20blocks.png)
 
 Make the final block biggest, lots of big ideas come at the end.
 
