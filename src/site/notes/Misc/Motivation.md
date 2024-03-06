@@ -19,4 +19,4 @@ The study of intrinsic motivation (done for its own sake) and extrinsic motivati
 
 This is a common misconception. I'm guessing it comes from the book Drive, which popularized a narrow application of the cognitive science research that doesn't apply to well structured game reward systems.
 
-![Felder On Motivation.png](/img/user/img/Felder%20On%20Motivation.png)
+![Felder On Motivation.png](/img/user/img/img_misc/Felder%20On%20Motivation.png)
