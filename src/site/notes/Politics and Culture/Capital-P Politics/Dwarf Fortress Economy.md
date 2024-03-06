@@ -5,7 +5,7 @@
 
 The Dwarf Fortress economy had to change, as it originally had inefficiencies. 
 
-![Dwarf Fortress Economy.png](/img/user/img/Dwarf%20Fortress%20Economy.png)
+![Dwarf Fortress Economy.png](/img/user/img/img_misc/Dwarf%20Fortress%20Economy.png)
 
 ## See also
 [[Politics and Culture/Culture/Bullshit Jobs\|Bullshit Jobs]]
