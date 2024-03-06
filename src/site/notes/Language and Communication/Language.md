@@ -7,4 +7,4 @@
 [[Language and Communication/Giving a Speech or Presentation\|Giving a Speech or Presentation]]
 [[Language and Communication/Linguistics/Linguistics\|Linguistics]]
 [[Reading and Writing/Books/Nonviolent Communication\|Nonviolent Communication]]
-
+[[Language and Communication/Linguistics/Translations\|Translations]]
