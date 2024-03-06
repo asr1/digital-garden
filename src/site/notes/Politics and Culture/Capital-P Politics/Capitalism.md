@@ -18,7 +18,7 @@ If I'm hiring you for $5, it's ONLY worth it if that hour of your labor is worth
 
 Workers naturally produce a **surplus**, which they don't capture.
 
-(See also ![XKCD Advertising.png|400](/img/user/img/comics/XKCD%20Advertising.png))
+(See also ![XKCD Advertising.png|400](/img/user/img/img_comics/XKCD%20Advertising.png))
 
 Look at housing: If I buy a house, I pay a mortgage on it. If I rent that house out to you, you pay me rent, and I use your rent money to pay my mortgage. I get equity from owning the house, and you get nothing.
 
@@ -37,7 +37,7 @@ My answer is: let him take his reward. Adobe won capitalism when they figured ou
 
 Let Bezos retire so that the next guy comes along and makes a good company. But increase taxes as well, especially inheritance taxes. He won. We don't need a dynasty of robber-barons for the next two hundred years. Let him take a victory lap and provide for his kids. For the rest? To the people!
 
-![Reddit hourly wage.png|400](/img/user/img/Reddit%20hourly%20wage.png)
+![Reddit hourly wage.png|400](/img/user/img/img_misc/Reddit%20hourly%20wage.png)
 
 ## Problems with capitalism
 
@@ -137,7 +137,7 @@ Will co-ops vote to ship their own jobs overseas? Not likely! But when a corp re
 ## Extracting profits from people
 
 Tom #McHenry on unchecked economics: Afraid of Cops, tho
-![McHenry afraid of Cops.png|600](/img/user/img/comics/McHenry%20afraid%20of%20Cops.png)
+![McHenry afraid of Cops.png|600](/img/user/img/img_comics/McHenry%20afraid%20of%20Cops.png)
 If you run the state as a business -> Advocacy for state programs must be posed in terms of "good investments" and "profitability".
 
 Human values are also an abstraction of progress, but vary wildly, have roots in problematic structures, and produce no graphs.
@@ -169,9 +169,9 @@ Therefore United Airlines can sell more than they have, ask the police to beat a
 [[Reading and Writing/Books/The Grapes of Wrath\|The Grapes of Wrath]]
 
 This Tom #McHenry comic (excerpt from Platform):
-![McHenry Platform.png|600](/img/user/img/comics/McHenry%20Platform.png)
+![McHenry Platform.png|600](/img/user/img/img_comics/McHenry%20Platform.png)
 
-![Drainpipes.png|400](/img/user/img/Drainpipes.png) 
+![Drainpipes.png|400](/img/user/img/img_misc/Drainpipes.png) 
 Because it's expensive to hire an artisan, a laborer, and it only costs a few pennies to extrude aluminum. Costs win.
 
 
