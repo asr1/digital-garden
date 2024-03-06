@@ -36,7 +36,7 @@ Shapes are helpful, but **value variation** is a quick way to showcase informati
 
 Can also use a hierarchy.
 
-![league attacks.png](/img/user/img/league%20attacks.png)
+![league attacks.png](/img/user/img/img_misc/league%20attacks.png)
 If every ability was equally bright or shiny, it would be hard to tell what's important.
 
 "If everything's important, nothing is".
@@ -55,7 +55,7 @@ Communicate clearly: what part of this needs to be dodged?
 ==Look at effects in grayscale, super helpful to see contrast. ==
 Do this before adding color.
 
-![Grayscale.png](/img/user/img/Grayscale.png)
+![Grayscale.png](/img/user/img/img_misc/Grayscale.png)
 
 ### Color and Identity
 
@@ -72,7 +72,7 @@ Often limited palettes.
 
 Vary hues and colors:
 
-![hue and saturation variation.png](/img/user/img/hue%20and%20saturation%20variation.png)
+![hue and saturation variation.png](/img/user/img/img_misc/hue%20and%20saturation%20variation.png)
 This uses saturation contrast (purple) and hue contrast (yellow) to show focal points.
 
 **Consider Context**
@@ -92,14 +92,14 @@ So mixing colors gives different personality
 Some identity from hue variation: light and air ( first two) for example, but value is the same
 
 
-![hue variation.png](/img/user/img/hue%20variation.png)
+![hue variation.png](/img/user/img/img_misc/hue%20variation.png)
 
 So we add color depth:
 
 pairing colors for more identity.
 
 Hue and saturation variation
-![Hue and value variation.png](/img/user/img/Hue%20and%20value%20variation.png)
+![Hue and value variation.png](/img/user/img/img_misc/Hue%20and%20value%20variation.png)
 
 Water and ice common, but water has saturated purples, ice has desaturated cyans. (Fourth from top, third from bottom)
 
@@ -107,12 +107,12 @@ So we get schools of magic that have palates and you can identify at a glance wi
 
 Can also add team colors, or areas, or mood with subtle variations
 
-![palates.png|400](/img/user/img/palates.png)
+![palates.png|400](/img/user/img/img_misc/palates.png)
 
 36:43 is a bit about color variety and hue saturation and I'm not following any of it.
 
 Colors from sources: 
-![source colors.png|600](/img/user/img/source%20colors.png)
+![source colors.png|600](/img/user/img/img_misc/source%20colors.png)
 
 ### Timing and Threat Level
 
