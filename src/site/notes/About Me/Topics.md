@@ -16,7 +16,7 @@ You can also explore the #landing tag to see top-level categories.
 ## Things I #enjoy
 #### [[Reading and Writing/Books\|Books]] 
 #### [[Reading and Writing/Quotes\|Quotes]]
-#### [[Language and Communication/Linguistics/Linguistics\|Linguistics]] and [[Language and Communication/Language\|Language]]
+#### [[Misc/Language and Communication/Linguistics/Linguistics\|Linguistics]] and [[Misc/Language and Communication/Language\|Language]]
 #### [[Software and Technology/Technology\|Technology]]
 ## [[[Projects\|[Projects]]]
 #### [[Reading and Writing/Writing\|Writing]]
