@@ -24,7 +24,7 @@ Turn a word upside down to better notice shapes and the spaces between them, not
 
 Also 
 https://exeuntpress.itch.io/cmyk-color
-![Affinity Pallate.png](/img/user/Affinity%20Pallate.png)
+![Affinity Pallate.png](/img/user/img/img_misc/Affinity%20Pallate.png)
 This is a color palette file for Affinity Publisher that are safe for CMYK printing, per Mixam and PrintNinja.
 
 [[Art and Design/10 things I wish I knew about Publisher\|10 things I wish I knew about Publisher]]
