@@ -14,7 +14,7 @@ Every scene should have conflict, and a change in emotion from negative to posit
 
 ---
 
-You want PRIMAL. Things like sex, survival
+You want PRIMAL. Things like sex, survival, hunger, protection of loved ones, fear of death.
 
 You want primal relationships: brother, sister, father, daughter.
 
@@ -157,7 +157,107 @@ A fact like "he's an ex-cop" is not a card. We need to show that in a scene in s
 Each scene — every one — needs conflict and emotional change.
 ![Save the Cat Scene.png](/img/user/img/img_books/Save%20the%20Cat%20Scene.png)
 
+---
 
+## The Rules of Screenplay writing
+### Save the Cat
+Show our hero being likeable from the start. If they're bad guys, make the antagonist even worse. If they're good guys, show them being kind. See Aladdin stealing food, then getting chased (showing off the setting) and giving the food to starving kids instead.
+
+
+### Pope in the Pool
+Explain exposition in a way that is interesting or funny. The pope swimming in the vatican pool, people are surprised by the spectacle of the pool, the un-popeliness of the pope. 
+
+In Drips, two plumbers really have to pee while the presentation is going on. It's a funny scene.
+
+Something entertaining to look at while the exposition happens almost in the background.
+
+### Double Mumbo Jumbo
+One piece of magic per movie. Max.
+
+### Laying Pipe
+Get to the crux of the story quickly — not 40 minutes in.
+
+Get to the point!
+
+### Black Vet
+(From he's a veteran *and* a veterinarian)
+Pick one concept. Don't have a title mean four things if it can just mean one. 
+
+Simple is better.
+
+### Watch out for that glacier!
+You can't have danger coming in slowly. The threat has to be imminent and approaching fast! Danger must be present, the stakes must be real for the people we care about.
+
+### The Covenant of the Arc
+*Okay this is a really funny title*
+Every hero in the story MUST change.
+
+Stories are about change, and everyone should have an arc of some kind.
+
+Bad guys are the ones who don't change, they stand firm in their beliefs.
+
+==Everybody Arcs==
+
+### Keep the Press Out
+Keep the story contained to the family, don't have news agents on screen.
+You keep it a secret, and the magic stays real. If the press knew about E.T., it would have ruined it.
+
+Keep the story personal.
+
+---
+Other laws:
+- The hero must be proactive
+	- Is their goal clearly stated in the set-up?
+		- Make sure it's spoken allowed and restated by action throughout
+	- Do they seek out clues or do they just appear?
+	- Do other characters tell them what to do?
+		- Heroes never ask questions, they look around and tell others what to do — others ASK. Heroes know. 
+- Don't 'talk the plot'
+	- Explain backstory or plot with dialogue
+		- You're my sister, you should know
+		- This is like when I was a running back for the giants. Before my accident.
+	- Characters have their own goals and should serve them. They walk into a scene and say what's on their mind. Not their.
+	- Reveal hopes and fears by how they say not what they say.
+	- Subtext is great. Subtlety is great.
+	- Show don't tell.
+		- This is a visual medium. A husband eyeing a woman next to his wife does a lot, and better than a line of 30 of dialogue.
+- Make the bad guy badder
+	- It makes your good guy look better by comparison
+	- Often the villain is the exact opposite of the hero.
+- Keep on spinning
+	- Stories don't go forward, it spins and turns and intensifies all the way down.
+	- Turn, turn, turn.
+	- It has to go forward, but not just forward. Faster, and with more complexity towards the climax.
+	- It's just a chase if there aren't interesting things happening.
+	- Intensity should be rising
+	- Imagine a diamond: you want it to spin to show off its sparkle. *How does this apply to writing? Unsure!* Look at it from other angles.
+- Emotional color wheels
+	- Lots of emotions! Laughter, crying, arousal, fear, anger, regret, frustration, anxiety from a near-miss, triumph! It's draining, it's cathartic!
+	- Use all the emotions!
+	-  Every screenplay (*?*) should have a list scene, a frustration scene, a scary scene. If you're missing them, add them to a scene that's just funny or just dramatic and play up this missing emotions!
+	- Play it for jealousy or lust instead of dramatic conflict or laughs.
+	- It's more rewarding.
+	- Can physically color the scenes this way.
+- Flat dialogue
+	- Cover up the names of the people. You should be able to infer whose talking without seeing the names.
+	- Every character must speak differently!
+	- Give them verbal ticks for example.
+- Take a step back
+	- If your character is well-adjusted, they have no growth opportunity.
+	- You have to show all the growth and changes. Don't get caught up in the end result.
+- Limp and an eyepatch.
+	- Minor characters blurring together?
+	- In addition to a unique way of speaking, they need a visual clue that makes them easy to remember.
+	- Soul patch or goofy hat
+- Make it primal!
+	- Would a caveman understand it?
+	- Survival, hunger, sex, protection of loved ones, fear of death
+	- Works for subplots too! 
+	- Are the characters acting like recognizable human beings?
+		- Save a family, protect a house, find a mate, exact revenge, survive
+		- Winning the lottery is actually have more food, wives, etc.
+		- It must resonate to the caveman.
+- You've gotta fix it!
 
 ## See Also
 
