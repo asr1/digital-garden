@@ -4,31 +4,37 @@
 
 ## Concerts
 
-* Styx (199X (Maise Island, IA), 200X, ~2013 (Parmount Theatre, Cedar Rapids IA))
-* Smash Mouth ? (2006 if ever, Iowa State Fair)
-* Rush (Snakes and Arrows, ~2008, iWireless Center, Moline IL)
-* Heart ? (2009 Iowa State Fair if ever) — Not sure about this one
-* Darius Rucker (July 4, 2011 Nashville, TN)
-* BB King (November 18, 2012, Paramount Theatre, Cedar Rapids, IA (sat in row BB))
-* Survivor (Jun 15, 2013, Dubuque, IA)
-* Lynyrd Skynyrd (Jun 15, 2013, Dubuque, IA)
-* Dennis DeYoung and the Music of Styx (~2012)
-* Bad Company 
-* X Ambassadors (~2015, Ames, IA)
-* Small Pools (~2015, Ames, IA)
-* The Lonely Wild (~2015, Ames, IA)
-* Sixpence None The Richer (~2015, Ames, IA)
-* Maroon 5 (July 15, 2015, Gasworks, Seattle, WA)
-* Decemberists (Summer 2016, Redmond, WA)
-* Ellie Goulding (July 22, 2016, Space Needle, Seattle, WA)
-* Avett Brothers (July 23, 2016 Kent, WA)
-* Bad Bad Hats?  (September 14, 2017, El Corazon, Seattle, WA)
-* Days N Daze (September 14, 2017, El Corazon, Seattle, WA)
-* Front Bottoms (November 4, 2017, Neptune Theatre, Seattle, WA)
-* Great Grandpa(November 19, 2017, Seattle WA)
-* Sorority Noise (November 19, 2017, Neumos, Seattle WA)
-* Citizen (November 19, 2017, Seattle WA) 
-* AJR (April 26, 2024, Climate Pledge Arena, Seattle, WA)
+|  |  |  |  |
+| ---- | ---- | ---- | ---- |
+| Performer | Date | Location | Notes |
+| Style | 199X<br><br>200X<br><br>~2013 | Maise Island, IA<br><br>IA<br><br>Paramount Theatre, Cedar Rapids, IA |  |
+| Smash Mouth | 2006 | Iowa State Fair |  |
+| Rush | ~2008 | iWireless Center, Moline IL | Snakes and Arrows tour |
+| Darius Rucker | July 4, 2011 | Nashville, TN | River festival |
+| Dierks Bentley | July 4, 2011 | Nashville, TN | River festival |
+| Huey Lewis and the News? |  |  | I don't remember this |
+| BB King | November 18, 2012 | Paramount Theatre, Cedar Rapids, IA | Sat in row BB |
+| Sixpence None the Richer | January 25, 2013 | M Shop, Ames, IA | Very intimate show |
+| Dennis DeYoung and the music of Styx | ~2012 | IA |  |
+| Survivor | June 15, 2013 | Dubuque, IA | They didn't play Eye of the Tiger<br><br>River Festival |
+| Lynyrd Skynyrd | June 15, 2013 | Dubuque, IA | River Festival |
+| Bad Company | July 3, 2013 | Riverside Casino, IA | Purchased CD of concert recording |
+| The Lonely Wild | March 1, 2014 | M Shop, Ames, IA |  |
+| Apache Relay | March 1, 2014 | M Shop, Ames, IA | I don't remember this, playing with Lonely Wild |
+| X Ambassadors | August 27, 2015 | Memorial Union, Ames, IA |  |
+| Smallpools | August 27, 2015 | Memorial Union, Ames, IA |  |
+| Maroon 5 | July 15, 2015 | Gasworks, Seattle, WA | Microsoft intern event |
+| The Decemberists | Summer 2016 | Redmond, WA |  |
+| Ellie Goulding | July 22, 2016 | Space Needle, Seattle, WA | Microsoft intern event |
+| Avett Brothers | July 23, 2016 | Kent, WA |  |
+| Bad Bad Hats | September 14, 2017 | El Corazon, Seattle WA | Probably? |
+| Days N Daze | September 14, 2017 | El Corazon, Seattle WA |  |
+| Front Bottoms | November 4, 2017 | Neptune Theatre, Seattle, WA |  |
+| Great Grandpa | November 19, 2017 | Neumos, Seattle, WA | Opened for Sorority Noise and Citizen |
+| Sorority Noise | November 19, 2017 | Neumos, Seattle, WA |  |
+| Citizen | November 19, 2017 | Neumos, Seattle, WA | Walked out, terrible show |
+| AJR | April 26, 2024 | Climate Pledge Arena, Seattle, WA | Maybe Man tour |
+
 
 ## Comedians
 
