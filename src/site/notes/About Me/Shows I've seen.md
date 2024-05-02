@@ -7,7 +7,7 @@
 |  |  |  |  |
 | ---- | ---- | ---- | ---- |
 | Performer | Date | Location | Notes |
-| Style | 199X<br><br>200X<br><br>~2013 | Maise Island, IA<br><br>IA<br><br>Paramount Theatre, Cedar Rapids, IA |  |
+| Styx | 199X<br><br>200X<br><br>~2013 | Maise Island, IA<br><br>IA<br><br>Paramount Theatre, Cedar Rapids, IA |  |
 | Smash Mouth | 2006 | Iowa State Fair |  |
 | Rush | ~2008 | iWireless Center, Moline IL | Snakes and Arrows tour |
 | Darius Rucker | July 4, 2011 | Nashville, TN | River festival |
