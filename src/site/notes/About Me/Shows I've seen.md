@@ -41,3 +41,4 @@
 Bill Cosby (2013 (we didn't know))
 Bo Burnham (May 4, 2012, Iowa City, IA)
 Dimitri Martin (~2015)
+Colin Mochrie and Brad Sherwood (x2)
