@@ -38,7 +38,18 @@
 
 ## Comedians
 
-Bill Cosby (2013 (we didn't know))
 Bo Burnham (May 4, 2012, Iowa City, IA)
+Bill Cosby (2013 (we didn't know))
 Dimitri Martin (~2015)
 Colin Mochrie and Brad Sherwood (x2)
+Jeff Harms (2024)
+Travis Nelson (2024)
+
+## Plays and Musicals
+
+Pippin (Ames)
+Three Musketeers (Ames)
+Hamilton (Seattle)
+Woman in Black (Seattle)
+Dear Evan Hansen (Seattle)
+Jersey Boys
