@@ -168,7 +168,14 @@ We only have what we remember
 How did you get here?
 I just stuck out my thumb
 
+What are you doing here?
+My best
 
 ## Sam Kriss
 > Charles likes helicopters. It might be the only thing he has in common with his family: they’re all helicopter pilots. Rescue pilots, military pilots. It’s chivalry again. The armoured knights of the atomic age.
 > ([source](https://samkriss.substack.com/p/in-englands-dreaming))
+
+
+>  shooting an arrow and painting a bullseye around it ([sources](https://austinkleon.com/2018/10/15/arrows-and-targets/))
+
+when they burned the library of Alexandria the crowd cheered in horrible joy. They understood that there was something older than wisdom, and it was fire, and something truer than words, and it was ashes ([source](https://twitter.com/yurirando/status/1514682739475169285?lang=en))
