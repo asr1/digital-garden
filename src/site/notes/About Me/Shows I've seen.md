@@ -13,6 +13,7 @@
 | Darius Rucker | July 4, 2011 | Nashville, TN | River festival |
 | Dierks Bentley | July 4, 2011 | Nashville, TN | River festival |
 | Huey Lewis and the News? |  |  | I don't remember this |
+| Bruce Springsteen | October 18, 2012 | Hilton Coliseum, Ames, IA | 6 song acoustic set stumping for Obama's reelection. Showed up late due to weather. |
 | BB King | November 18, 2012 | Paramount Theatre, Cedar Rapids, IA | Sat in row BB |
 | Sixpence None the Richer | January 25, 2013 | M Shop, Ames, IA | Very intimate show |
 | Dennis DeYoung and the music of Styx | ~2012 | IA |  |
