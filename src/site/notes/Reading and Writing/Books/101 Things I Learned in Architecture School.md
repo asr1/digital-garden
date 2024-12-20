@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading-and-writing/books/101-things-i-learned-in-architecture-school/","tags":["books"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/reading-and-writing/books/101-things-i-learned-in-architecture-school/","tags":["books","design","art-and-design"],"noteIcon":""}
 ---
 
 Design is for a specific person. The more specific, the better. Generic designs are for no one.
