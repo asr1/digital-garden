@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/reading-and-writing/books/101-things-i-learned-in-architecture-school/","tags":["books","design","art-and-design"],"noteIcon":""}
 ---
 
+# 101 things I learned in architecture school
+
 Design is for a specific person. The more specific, the better. Generic designs are for no one.
 
 Consider making this less than perfectly efficient, if the trip from A to B is interesting or enriching. Put something to take in along the way.
