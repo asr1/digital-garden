@@ -48,9 +48,24 @@ Travis Nelson (2024)
 
 ## Plays and Musicals
 
-Pippin (Ames)
-Three Musketeers (Ames)
-Hamilton (Seattle)
-Woman in Black (Seattle)
-Dear Evan Hansen (Seattle)
-Jersey Boys
+* Lion King (Chicago, ~2007)
+* 25th Annual Putnam County Spelling Bee (Chicago ~2009, Ames 2013)
+* Three Musketeers (Ames, 2012)
+* The Seagull (Ames, 2013)
+* Pippin (Ames, ~2014)
+* Spring Awakening (Musical: Chicago ~2009; play: Ames, 2015)
+* \[Tile of Show] (Cedar Rapids?, 2013?)
+* Love and Information (Ames, 2015)
+* Avenue Q (Cedar Rapids, 2015)
+* Hamilton (Seattle, ~2017)
+* Dear Evan Hansen (Seattle, ~2018)
+* Woman in Black (Seattle, ~2019)
+* Metamorphosis (Seattle, 2022?)
+* Every Brilliant Thing (Seattle, 2023?)
+* Jersey Boys (2024)
+* Chicago (NYC, 2025)
+* Hadestown (NYC, 2025)
+
+### High school performances
+
+Into the woods (2012), Pillow Talk (2009), Pippin (2012), Play that goes wrong (2023)
