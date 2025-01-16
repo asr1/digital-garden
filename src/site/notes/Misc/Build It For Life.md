@@ -43,3 +43,8 @@ u/MalificViper [on Planned Obsolescence](https://www.reddit.com/r/pics/comments/
 > The cost of a washer and dryer from the 70's is like 4 grand adjusted for inflation though.
 
 Basically these appliances commanded prestige prices, and you can't expect a $50 blender to last an entire lifetime.
+
+
+# Bottles
+Gustaf de Laval created a way to make cheap glass bottles with centrifugal force, but since the bottles were reusable, prices bottomed out and the company closed. Sustainability of the market is hard to do!
+https://www.tekniskamuseet.se/en/learn-more/swedish-inventors/gustaf-de-laval-milk-cream-separator/
