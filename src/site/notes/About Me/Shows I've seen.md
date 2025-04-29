@@ -64,8 +64,9 @@ Whose Live Anyway? (Greg Proops, Jeff B. Davis, Ryan Stiles (not present, replac
 * Metamorphosis (Seattle, 2022?)
 * Every Brilliant Thing (Seattle, 2023?)
 * Jersey Boys (2024)
-* Chicago (NYC, 2025)
-* Hadestown (NYC, 2025)
+* Chicago (NYC, April 2025)
+* Othello (Denzel Washington / Jake Gyllenhaal) (NYC, April 2025)
+* Hadestown (NYC, April 2025)
 
 ### High school performances
 
