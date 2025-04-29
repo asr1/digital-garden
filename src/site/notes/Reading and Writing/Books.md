@@ -15,6 +15,7 @@ Some of my favorite books include:
 ## Takeaways from some books I've read
 [[Reading and Writing/Books/101 Things I Learned in Architecture School\|101 Things I Learned in Architecture School]]
 Don Norman's [[Reading and Writing/Books/The Design of Everyday Things\|The Design of Everyday Things]]
+[[Getting Things Done\|Getting Things Done]]
 [[Reading and Writing/Books/The Grapes of Wrath\|The Grapes of Wrath]] by John Steinbeck
 [[Reading and Writing/Books/Nonviolent Communication\|Nonviolent Communication]]
 [[Reading and Writing/Books/The Non-Designers Book of Design\|The Non-Designers Book of Design]]
