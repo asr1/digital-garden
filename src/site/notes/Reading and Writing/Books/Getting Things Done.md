@@ -42,7 +42,6 @@ We (1) *capture* what has our attention; (2) *clarify* what each item means and 
 	id13-->id15("Waiting (for someone else to do)")
 	id14-->id16("Calendar (to do at a specific time)")
 	id14-->id17("Next actions (to do as soon as I can)")
-
 ```
 
 ![GTD06.jpg](/img/user/img/img_books/GTD/GTD06.jpg)
