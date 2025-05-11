@@ -17,6 +17,7 @@ Some of my favorite books include:
 Don Norman's [[Reading and Writing/Books/The Design of Everyday Things\|The Design of Everyday Things]]
 [[Reading and Writing/Books/Getting Things Done\|Getting Things Done]]
 [[Reading and Writing/Books/The Grapes of Wrath\|The Grapes of Wrath]] by John Steinbeck
+[[Reading and Writing/Books/Nobody Wants To Read Your Shit\|Nobody Wants To Read Your Shit]]
 [[Reading and Writing/Books/Nonviolent Communication\|Nonviolent Communication]]
 [[Reading and Writing/Books/The Non-Designers Book of Design\|The Non-Designers Book of Design]]
 [[Reading and Writing/Books/Radical Candor\|Radical Candor]]
