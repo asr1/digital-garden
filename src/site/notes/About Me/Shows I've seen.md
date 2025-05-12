@@ -55,7 +55,7 @@ Whose Live Anyway? (Greg Proops, Jeff B. Davis, Ryan Stiles (not present, replac
 * The Seagull (Ames, 2013)
 * Pippin (Ames, ~2014)
 * Spring Awakening (Musical: Chicago ~2009; play: Ames, 2015)
-* \[Tile of Show] (Cedar Rapids?, 2013?)
+* \[Tile of Show] (Cedar Rapids? Ames?, 2013?)
 * Love and Information (Ames, 2015)
 * Avenue Q (Cedar Rapids, 2015)
 * Hamilton (Seattle, ~2017)
@@ -67,6 +67,7 @@ Whose Live Anyway? (Greg Proops, Jeff B. Davis, Ryan Stiles (not present, replac
 * Chicago (NYC, April 2025)
 * Othello (Denzel Washington / Jake Gyllenhaal) (NYC, April 2025)
 * Hadestown (NYC, April 2025)
+* Six (Seattle, May 2025)
 
 ### High school performances
 
