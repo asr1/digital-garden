@@ -23,6 +23,7 @@ Don Norman's [[Reading and Writing/Books/The Design of Everyday Things\|The Desi
 [[Reading and Writing/Books/Radical Candor\|Radical Candor]]
 [[Reading and Writing/Books/Save The Cat\|Save The Cat]]
 [[Reading and Writing/Books/So You Want To Be A Game Master\|So You Want To Be A Game Master]]
+[[Steal Like an Artist\|Steal Like an Artist]]
 [[Reading and Writing/Books/The Stranger\|The Stranger]]
 [[Reading and Writing/Books/Ulysses\|Ulysses]]
 [[Reading and Writing/Books/Women Fire And Dangerous Things\|Women Fire And Dangerous Things]]
