@@ -22,6 +22,7 @@ Don Norman's [[Reading and Writing/Books/The Design of Everyday Things\|The Desi
 [[Reading and Writing/Books/The Non-Designers Book of Design\|The Non-Designers Book of Design]]
 [[Reading and Writing/Books/Pixar Storytelling\|Pixar Storytelling]]
 [[Reading and Writing/Books/Radical Candor\|Radical Candor]]
+[[Radical Focus\|Radical Focus]]
 [[Reading and Writing/Books/Save The Cat\|Save The Cat]]
 [[Reading and Writing/Books/So You Want To Be A Game Master\|So You Want To Be A Game Master]]
 [[Reading and Writing/Books/Steal Like an Artist\|Steal Like an Artist]]
