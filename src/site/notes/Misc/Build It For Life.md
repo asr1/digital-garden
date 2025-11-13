@@ -3,7 +3,7 @@
 ---
 
 
-Do you know there's a lightbulb that's been [burning for 100 years](https://www.centennialbulb.org/)?
+Do you know there's a lightbulb that's been [burning for 100 years](https://www.centennialbulb.org/)? (*update: watching [this video](https://www.youtube.com/watch?v=zb7Bs98KmnY) has changed my mind on using the lightbulb as a reference here.* Lightbulbs were never going to be long-term products.)
 
 It used to be that if you built appliances, you could do a damn good job. Take pride in your work, throw in a lifetime guarantee.
 
@@ -11,7 +11,7 @@ Craftsman did it! Zippo did it!
 
 But there's a problem. 
 
-If I sell you a vacuum that lasts for 60 years, and everyone buys one, now I can't sell anymore vacuums. 
+If I sell you a vacuum that lasts for 60 years, and everyone buys one, now I can't sell any more vacuums. 
 
 So I sell vacuum maintenance. But even then, you  only need maintenance every so often. I don't get repeat customers if I sell high quality appliances.
 
