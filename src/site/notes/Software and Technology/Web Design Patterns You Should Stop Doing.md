@@ -39,5 +39,17 @@ When you let the user pick their DOB, don't use a date picker box. If you DO use
 
 Let the user type in their date of birth in a text field. You can validate it or restrict it, but please don't force them to click arrows dozens of times to get to the right year.
 
+Better yet, use a dropdown for the year and then set the date picker.
+
+# Login pages should default to login, NOT to register
+
+Users will register for your website one (1) time. They will log in *at least* one time. Prioritizing new users over existing ones makes the experience good for everyone person once and worse for the people *actually using your site.* 
+
+Prioritize the people using your website, not newcomers. The extra button click doesn't matter once, but it gets *real* annoying in the long term
+
+## Respect Ctrl+K to insert a hyperlink
+
+It's a common pattern! If you don't respect it, the browser will treat it like ctrl+L and take over the browser box. Not what users expect!
 ## See Also
+
 [[Software and Technology/Stop Responding to mouse up\|Stop Responding to mouse up]]
