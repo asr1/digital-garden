@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/software-and-technology/software-updates/","tags":["software","technology"],"noteIcon":2}
 ---
 
+# Software Updates
 
 Software updates are either great or terrible. There is no in-between.
 
