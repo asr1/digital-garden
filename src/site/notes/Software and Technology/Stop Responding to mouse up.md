@@ -22,3 +22,4 @@ If you *are* going to listen for mouse-up, at least prompt the user that their d
 
 ## See Also
 [[Software and Technology/Web Design Patterns You Should Stop Doing\|Web Design Patterns You Should Stop Doing]]
+[[Update when leaving\|Update when leaving]]
