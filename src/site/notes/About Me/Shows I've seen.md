@@ -44,7 +44,7 @@
 | Disney on Ice                                    | 2024?                         | Everett, WA                                                           |                                                                                     |
 | Lion King                                        | 2002?                         | Chicago                                                               |                                                                                     |
 | Sesame Street on Ice                             | 1999?                         | Cedar Rapids, IA?                                                     |                                                                                     |
-|                                                  |                               |                                                                       |                                                                                     |
+| Rock Orchestra                                   | April, 2025                   | Cedar Rapids, IA                                                      |                                                                                     |
 
 
 ## Comedians
@@ -79,6 +79,7 @@ Whose Live Anyway? (Greg Proops, Jeff B. Davis, Ryan Stiles (not present, replac
 * Hadestown (NYC, April 2025)
 * Six (Seattle, May 2025)
 * Dimension 20 Live: Quangle Quest (Seattle, July 2025)
+* Fellow Travelers (Opera) Seattle, March 1, 2026
 
 ### High school performances
 
