@@ -41,6 +41,12 @@ Let the user type in their date of birth in a text field. You can validate it or
 
 Better yet, use a dropdown for the year and then set the date picker.
 
+Update 11/8/26: This style of date picker, where the year can be selected independently has become more popular lately. Good work!
+![Pasted image 20261108120533.png](/img/user/Pasted%20image%2020261108120533.png)
+
+# Intuit phone number format
+Don't invalidate a phone number because it's listed as 123-555-1234 instead of 1235551234. This is a simple data transformation, and you should be able to seamlessly strip away hyphens and parens () if they are in expected locations. 
+
 # Login pages should default to login, NOT to register
 
 Users will register for your website one (1) time. They will log in *at least* one time. Prioritizing new users over existing ones makes the experience good for everyone person once and worse for the people *actually using your site.* 
@@ -53,3 +59,4 @@ It's a common pattern! If you don't respect it, the browser will treat it like c
 ## See Also
 
 [[Software and Technology/Stop Responding to mouse up\|Stop Responding to mouse up]]
+[[Update when leaving\|Update when leaving]]
