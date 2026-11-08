@@ -179,3 +179,9 @@ My best
 >  shooting an arrow and painting a bullseye around it ([sources](https://austinkleon.com/2018/10/15/arrows-and-targets/))
 
 when they burned the library of Alexandria the crowd cheered in horrible joy. They understood that there was something older than wisdom, and it was fire, and something truer than words, and it was ashes ([source](https://twitter.com/yurirando/status/1514682739475169285?lang=en))
+
+
+"How about a solemn middlebrow videogame about divorcing 50 different wives, each one larger and more powerful than the last (excluding sprite recolours)?"
+([source](https://myfriendpokey.tumblr.com/post/183941596800/morality-play))
+
+"We can't guarantee if yo are going to heaven or not" — Youkai Douchuuki
