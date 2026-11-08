@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/update-when-leaving/","tags":["software"],"noteIcon":3}
+{"dg-publish":true,"permalink":"/update-when-leaving/","tags":["software","technology","design"],"noteIcon":3}
 ---
 
 People, as a rule, open software in order to perform a task. 
@@ -9,15 +9,9 @@ Popups that appear when the user opens the app have the chance to break concentr
 
 Instead, new features should be indicated with a notification banner or icon that users can engage with or dismiss at their leisure, when they are ready to learn new features.
 
-### Updates
-Software updates should be illegal. 
-Since this is an unpopular stance among developers, security researchers, and many users, I'll walk it back:
+## Updates
 
-Software updates are either great, terrible, or invisible. There's a lot of overlap between the great and the invisible!
-
-Bad updates remove features, break workflows, monetize standard processes, or disrupt flow. If you must do a redesign, consider https://en.wikipedia.org/wiki/Boiling_frog, like with eBay's famous https://www.cnn.com/2001/TECH/industry/06/07/ebay.lessons.learned.idg/.
-
-But most of all, don't prompt your user to update your app when they open it!
+Most of all, don't prompt your user to update your app when they open it!
 
 Users open apps to accomplish tasks. They want to use the app right now. Instead, prompt to update when they are *closing* the app. 
 
