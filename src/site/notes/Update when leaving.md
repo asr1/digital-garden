@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/update-when-leaving/","tags":["software","technology","design"],"noteIcon":3}
 ---
 
+# Update When Leaving
 People, as a rule, open software in order to perform a task. 
 
 ### New Features
